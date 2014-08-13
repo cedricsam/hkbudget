@@ -1,0 +1,1725 @@
+year,head_no,subhead_name,subhead_no,item_no,title,note_actual,note_original,note_revised,note_estimate,reimbursement,actual,approved,revised,estimate
+2006,1,Hydrocarbon oils,010,,,,,,,,3417483,3585379,3327045,3432631
+2006,1,Alcoholic beverages,020,,,,,,,,816955,855565,881920,951197
+2006,1,Other alcohol products,030,,,,,,,,6164,4713,5247,5247
+2006,1,Tobacco,050,,,,,,,,2362328,2195666,2309093,2213028
+2006,2,General Rates,030,,,,,,,,12640083,13771000,13816000,15361000
+2006,3,Bets and sweeps tax,010,,,,,,,,12057187,11890000,11890000,11932500
+2006,3,Profits tax,030,020,Earnings and profits tax,,,,,,58639653,60500000,69000000,70700000
+2006,3,Personal assessment,030,030,Earnings and profits tax,,,,† After Budget measures but subject to the passing of the relevant legislation by the Legislative Council.,,2963409,3100000,3100000,3170000
+2006,3,Property tax,030,040,Earnings and profits tax,,,,,,1115605,1100000,1200000,1300000
+2006,3,Salaries tax,030,050,Earnings and profits tax,,,,,,33990543,34740000,37000000,37050000
+2006,3,Estate duty,050,,Earnings and profits tax,,,,,,1468373,1000000,1200000,160000
+2006,3,Hotel accommodation tax,060,,Earnings and profits tax,,,,,,247402,270000,310000,340000
+2006,3,Stamp duties,070,,Earnings and profits tax,,,,,,15851460,16300000,16300000,14800000
+2006,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1350135,1423000,1439576,1543313
+2006,4,First registration,010,,,,,,,,3416794,3888239,3872708,4016927
+2006,5,Court fines and statutory penalties,010,,,,,,,,501766,507653,502239,502729
+2006,5,Forfeitures,020,,,,,,,,61329,42733,47448,47336
+2006,5,Fixed penalty system (Traffic Contraventions) .,030,,,,,,,,185405,180892,190687,190655
+2006,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,197948,191768,198921,198921
+2006,5,Payments by civil servants,050,,,,,,,,2555,1961,2891,2301
+2006,6,Quarries and mining,020,,,,,,,,21481,28100,27000,23300
+2006,6,Bridges and tunnels,030,,,,,,,,184826,15425,15085,15799
+2006,6,Petrol filling,070,,,,,,,,7635,6097,6016,5817
+2006,6,Taxi concessions,080,,,,,,,,,10000,,10000
+2006,6,Television broadcasting,090,,,,,,,,,,1237,
+2006,6,Parking,100,,,,,,,,321718,330578,319475,318688
+2006,6,Vehicle examination,170,,,,,,,,58454,60229,63130,63130
+2006,6,Slaughterhouse concessions,201,,,,,,,,16500,16500,16500,16500
+2006,6,Other royalties and concessions,202,,,,,,,,164093,187486,176242,174529
+2006,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,,,1406284,1366897,1320618,1361230
+2006,7,Rents from government quarters,020,,,,,,,,646240,605031,629946,579054
+2006,7,Rents from government properties,030,,,,,,,,1074274,866844,952195,958177
+2006,7,Investment income and interest,040,,,,,,,,4915956,4785175,3836014,6408722
+2006,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,1652176,1767769,1931717,1841116
+2006,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,38211,29301,29301,77970
+2006,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,3930629,4323000,4507000,4856000
+2006,9,Repayments of loans and advances,010,,,,,,,,205508,201798,202647,119101
+2006,9,Pension contributions,020,,,,,,,,20187,18364,18264,16411
+2006,9,Recovery of salaries and staff on-costs,030,,,,,,,,2298414,2184037,2142904,2096897
+2006,9,Light and fuel in government buildings,040,,,,,,,,16972,17824,19550,24422
+2006,9,Recovery of overpayments and losses,050,,,,,,,,678700,499750,540327,394682
+2006,9,Transfers from Funds,080,,,,,,,,44500000,5500000,,6900000
+2006,9,Other receipts,090,,,,,,,,1980915,3766395,2801562,3643317
+2006,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,6883,58329,95778,64490
+2006,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,2833,2801,2829,2856
+2006,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,301,224,163,163
+2006,10,Berthing fee,040,010,Marine ferry terminals,,,,,,38796,37963,40993,45921
+2006,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,186643,156361,182299,162405
+2006,10,Others,040,030,Marine ferry terminals,,,,,,5650,5586,5593,5596
+2006,10,Chargeable water,070,010,Waterworks,,,,,,2467137,2452735,2470000,2520000
+2006,10,Fees and licences,070,020,Waterworks,,,,,,11562,11585,11000,11000
+2006,10,Others,070,040,Waterworks,,,,,,9257,10067,10900,24200
+2006,10,Sewage charge,080,010,Sewage services,,,,,,466841,476035,476035,484600
+2006,10,Trade effluent surcharge,080,020,Sewage services,,,,,,212788,223250,205100,208400
+2006,10,Others,080,030,Sewage services,,,,,,2819,2797,2292,2292
+2006,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,,,65843,66299,65177,65001
+2006,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,109,127,168,167
+2006,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,18857,19757,19168,29015
+2006,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,2836,2923,3079,2909
+2006,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,5997,4403,7126,4776
+2006,11,Others,025,030,Architectural Services Department,,,,,,817,386,737,737
+2006,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,9759,10640,11657,11924
+2006,11,Civil Aid Service,027,,Architectural Services Department,,,,,,130,112,112,112
+2006,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,622600,640038,637576,643069
+2006,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,153705,165362,170070,179473
+2006,11,Licences,028,030,Civil Aviation Department,,,,,,55485,56124,60070,60865
+2006,11,Others,028,040,Civil Aviation Department,,,,,,1481,1184,1175,1243
+2006,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,655,450,335,300
+2006,11,Laundry charges,030,015,Correctional Services Department,,,,,,2964,2953,2955,2955
+2006,11,Others,030,020,Correctional Services Department,,,,,,290,265,264,264
+2006,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,930088,997075,992203,1024434
+2006,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,339,349,461,379
+2006,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,867,867,738,738
+2006,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,155,154,163,163
+2006,11,Import and export licences,031,071,Customs and Excise Department,,,,,,2504,2495,2538,2538
+2006,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,452,473,501,490
+2006,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1462,1246,1509,1491
+2006,11,Storage fees,031,090,Customs and Excise Department,,,,,,7,7,40,17
+2006,11,Others,031,100,Customs and Excise Department,,,,,,20405,17095,20748,20707
+2006,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,57801,56976,58656,59166
+2006,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,685,277107,1103,280698
+2006,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,1295,1740,1740,1333
+2006,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,16149,15000,15000,8684
+2006,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,10357,3050,5200,3150
+2006,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,,13500,,32000
+2006,11,Others,033,030,Civil Engineering and Development Department,,,,,,318,343,212,160
+2006,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,31491,20427,16263,18624
+2006,11,Out-patient charges,037,030,Department of Health,,,,,,32464,35780,34674,34784
+2006,11,Dental charges,037,040,Department of Health,,,,,,9342,9866,9850,9450
+2006,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,22682,24473,25639,25943
+2006,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,19676,21604,21043,21920
+2006,11,Others,037,070,Department of Health,,,,,,728,593,578,547
+2006,11,Works executed on private account,039,010,Drainage Services Department,,,,,,257,69,102,100
+2006,11,Others,039,030,Drainage Services Department,,,,,,1044,1256,958,943
+2006,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,31800,34411,30303,30674
+2006,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,44891,36025,35498,31628
+2006,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,13,15,11,11
+2006,11,"Dangerous goods, mining and prospecting licences",043,011,Civil Engineering Department,,,,,,359,,,
+2006,11,Explosives permit and storage fees,043,012,Civil Engineering Department,,,,,,4948,,,
+2006,11,Others,043,030,Civil Engineering Department,,,,,,2141,,,
+2006,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,40610,43000,40000,40000
+2006,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,21521,24000,20000,20000
+2006,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,6557,11335,7600,16600
+2006,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,9253,9475,8158,9611
+2006,11,Others,044,030,Environmental Protection Department,,,,,,1743,368,400,329
+2006,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,5097,4933,5256,5256
+2006,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,9009,8574,9640,9640
+2006,11,Others,045,020,Fire Services Department,,,,,,560,507,598,598
+2006,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,12367,3743,3997,2886
+2006,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,2993,2496,15285,7515
+2006,11,Others,048,020,Government Laboratory,,,,,,5407,5483,5192,6022
+2006,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,224674,249595,246653,245320
+2006,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,29724,30425,27909,27720
+2006,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,65589,65000,60167,68867
+2006,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,5088,5060,2320,3213
+2006,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,126135,70421,79511,69538
+2006,11,Others,051,020,Government Property Agency,,,,,,3429,3725,3886,3794
+2006,11,Printing services,059,010,Government Logistics Department,,,,,,222476,191128,205363,205363
+2006,11,Advertisements,059,020,Government Logistics Department,,,,,,37270,27036,26784,22485
+2006,11,Government transport,059,030,Government Logistics Department,,,,,,18190,16563,16116,16116
+2006,11,Others,059,040,Government Logistics Department,,,,,,14488,10005,12161,10941
+2006,11,Works executed on private account,060,010,Highways Department,,,,,,1582,1000,2000,1500
+2006,11,Excavation permits,060,020,Highways Department,,,,,,82001,127300,124500,134300
+2006,11,Others,060,030,Highways Department,,,,,,27433,1459,1550,1470
+2006,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,4570,8571,8926,4920
+2006,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,13072,12511,12789,13499
+2006,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,43,48,50,54
+2006,11,Others,063,030,Home Affairs Department,,,,,,1051,1107,1182,1286
+2006,11,Chinese nationality applications,070,012,Immigration Department,,,,,,3139,3910,4749,7179
+2006,11,Travel documents,070,020,Immigration Department,,,,,,178900,219484,166442,186562
+2006,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,90108,97312,95220,102563
+2006,11,Certification fees,070,040,Immigration Department,,,,,,3166,2990,4383,4891
+2006,11,Replacement of identity cards,070,060,Immigration Department,,,,,,51032,49009,47533,45049
+2006,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,24945,24892,26778,28045
+2006,11,Marriage registration fees,070,080,Immigration Department,,,,,,70269,67506,68321,73244
+2006,11,Others,070,090,Immigration Department,,,,,,16295,14966,26467,26681
+2006,11,Sale of publications,074,010,Information Services Department,,,,,,12797,9954,10073,10073
+2006,11,Others,074,020,Information Services Department,,,,,,929,888,2175,880
+2006,11,Business registration fees,076,010,Inland Revenue Department,,,,,,1348702,1400000,1450000,1450000
+2006,11,Others,076,020,Inland Revenue Department,,,,,,15042,15546,14284,16753
+2006,11,Patents fees,078,010,Intellectual Property Department,,,,,,15275,13324,13774,13827
+2006,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,79828,69725,73560,72171
+2006,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,7575,7368,7704,7740
+2006,11,Others,078,040,Intellectual Property Department,,,,,,25,40,55,55
+2006,11,Commission,080,010,Judiciary,,,,,,7728,8373,14040,14040
+2006,11,Court fees,080,020,Judiciary,,,,,,170296,167292,178875,116130
+2006,11,Possession,080,030,Judiciary,,,,,,764,710,680,680
+2006,11,Others,080,040,Judiciary,,,,,,13157,13030,13660,13430
+2006,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,151662,135519,168202,166296
+2006,11,Works executed on private account,082,020,Buildings Department,,,,,,279,140,50,50
+2006,11,Others,082,030,Buildings Department,,,,,,831,541,525,442
+2006,11,Labour Department,090,,Buildings Department,,,,,,25103,22823,23397,21003
+2006,11,Administrative and legal land services,091,010,Lands Department,,,,,,31846,33148,33420,31675
+2006,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,6899,9821,8064,7489
+2006,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,130,120,120,120
+2006,11,Excavation permits,091,020,Lands Department,,,,,,8577,8191,9448,9445
+2006,11,Works executed on private account,091,040,Lands Department,,,,,,364,250,542,551
+2006,11,Services to KCRC,091,042,Lands Department,,,,,,38820,28219,59129,44963
+2006,11,Services to MTRCL,091,046,Lands Department,,,,,,8365,4229,8399,6722
+2006,11,Others,091,050,Lands Department,,,,,,20245,19448,17988,19477
+2006,11,Department of Justice,092,,Lands Department,,,,,,8751,5179,2494,1890
+2006,11,Legal Aid Department,094,,Lands Department,,,,,,200313,218348,179000,173000
+2006,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,531282,505394,510994,510434
+2006,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,36704,36949,37494,37910
+2006,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,674,746,716,716
+2006,11,Others,095,040,Leisure and Cultural Services Department,,,,,,34667,32442,34475,28206
+2006,11,Anchorage,100,010,Marine Department,,,,,,29313,32526,31000,19000
+2006,11,Buoy,100,020,Marine Department,,,,,,28714,29630,28875,28200
+2006,11,Permit fees,100,030,Marine Department,,,,,,,134520,113797,78922
+2006,11,Cargo working area charges,100,040,Marine Department,,,,,,154222,157400,161558,166234
+2006,11,Examination and registration fees,100,050,Marine Department,,,,,,61193,72077,68880,75210
+2006,11,Vessel licences,100,070,Marine Department,,,,,,32175,32000,32410,30800
+2006,11,Port and light dues,100,080,Marine Department,,,,,,209497,192000,219000,210000
+2006,11,Port clearance fees,100,090,Marine Department,,,,,,22118,21860,22160,22600
+2006,11,Survey fees,100,100,Marine Department,,,,,,27185,20322,27098,20704
+2006,11,Others,100,110,Marine Department,,,,,,116564,2552,4868,4319
+2006,11,Territory Development Department,110,,Marine Department,,,,,,108,,,
+2006,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,118006,79200,100600,94800
+2006,11,Liquidation,116,020,Official Receiver’s Office,,,,,,32608,47200,53100,57700
+2006,11,Others,116,030,Official Receiver’s Office,,,,,,702,600,500,500
+2006,11,Certificates of no criminal record,122,010,Hong Kong Police Force,,,,,,4344,4344,4805,4805
+2006,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1166,1405,1353,1252
+2006,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,8443,9236,9286,9286
+2006,11,Others,122,030,Hong Kong Police Force,,,,,,5436,5942,5091,4939
+2006,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,5756,6365,6153,6056
+2006,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,1661,1975,1111,1111
+2006,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,5,512,427,501
+2006,11,Government Secretariat: Economic Development and Labour Bureau (Economic Development Branch),145,,Government Secretariat: Civil Service Bureau,,,,,,7986,9135,8746,8900
+2006,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,42569,43250,42114,42114
+2006,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,13,10,11,4
+2006,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,14506,16264,15584,15190
+2006,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,197,1,21,21
+2006,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,4992,5189,5390,5338
+2006,11,School fees for senior secondary classes,156,011,Government Secretariat: Education and Manpower Bureau,,,,,,70957,72299,72253,71888
+2006,11,School fees for adult education courses,156,015,Government Secretariat: Education and Manpower Bureau,,,,,,4139,630,581,
+2006,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education and Manpower Bureau,,,,,,3619,3448,3469,3517
+2006,11,Others,156,030,Government Secretariat: Education and Manpower Bureau,,,,,,3495,2976,3261,2936
+2006,11,Radio Television Hong Kong,160,,Government Secretariat: Education and Manpower Bureau,,,,,,416,263,512,512
+2006,11,Rating and Valuation Department,162,,Government Secretariat: Education and Manpower Bureau,,,,,,3526,2925,4071,4097
+2006,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,76999,79570,79570,81610
+2006,11,Others,168,020,Hong Kong Observatory,,,,,,1261,1482,1554,1538
+2006,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,13107,12870,13148,13213
+2006,11,Others,170,020,Social Welfare Department,,,,,,3597,3537,3508,3576
+2006,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,12759,16608,16557,20999
+2006,11,Entertainment licences,180,010,Television and Entertainment Licensing Authority,,,,,,18001,18659,18012,18281
+2006,11,Film censorship fees,180,020,Television and Entertainment Licensing Authority,,,,,,2806,2800,2781,2564
+2006,11,Broadcasting licences,180,025,Television and Entertainment Licensing Authority,,,,,,30510,29555,34018,31032
+2006,11,Others,180,030,Television and Entertainment Licensing Authority,,,,,,1361,1415,1700,1664
+2006,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,6787,5430,4725,5304
+2006,11,Subscription to Notice to Exporters,181,020,Trade and Industry Department,,,,,,39,,,
+2006,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,81483,7044,3728,3803
+2006,11,Others,181,040,Trade and Industry Department,,,,,,72624,68107,69858,70598
+2006,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,1205,1177,1146,1156
+2006,11,Vehicle and driving licences,186,010,Transport Department,,,,,,2677171,2728196,2735959,2769548
+2006,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,264085,260620,228786,229207
+2006,11,Vehicle examination fees,186,050,Transport Department,,,,,,59013,60623,60437,60524
+2006,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,,17500,,52500
+2006,11,Others,186,060,Transport Department,,,,,,10191,11079,11769,10978
+2006,11,Others,188,040,Treasury,,,,,,44409,41515,37998,38998
+2006,11,Differences in exchange,188,030,Treasury,,,,,,,15,15,15
+2006,11,Other bureaux/departments,200,,Treasury,,,,,,6653,6165,7435,7423
+2007,1,Hydrocarbon oils,010,,,,,,,,3362012,3432631,3289817,3304238
+2007,1,Alcoholic beverages,020,,,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,879763,951197,954024,657139
+2007,1,Other alcohol products,030,,,,,,,,5974,5247,4838,4838
+2007,1,Tobacco,050,,,,,,,,2176617,2213028,2535115,2322581
+2007,2,General Rates,030,,,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,14146318,15361000,15407000,11552000
+2007,3,Bets and sweeps tax,010,,,,,,,,11938060,11932500,12100000,12210000
+2007,3,Profits tax,030,020,Earnings and profits tax,,,,,,69796508,70700000,74100000,77500000
+2007,3,Personal assessment,030,030,Earnings and profits tax,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,3193951,3170000,3500000,3200000
+2007,3,Property tax,030,040,Earnings and profits tax,,,,,,1267061,1300000,1250000,1300000
+2007,3,Salaries tax,030,050,Earnings and profits tax,,,,,,37493868,37050000,38400000,29980000
+2007,3,Estate duty,050,,Earnings and profits tax,,,,,,1675744,160000,800000,200000
+2007,3,Hotel accommodation tax,060,,Earnings and profits tax,,,,,,310025,340000,380000,400000
+2007,3,Stamp duties,070,,Earnings and profits tax,,,,,,17867196,14800000,23400000,22650000
+2007,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1439870,1543313,1539672,1632610
+2007,4,First registration,010,,,,,,,,3894940,4016927,4386710,4464610
+2007,5,Court fines and statutory penalties,010,,,,,,,,534315,502729,525727,525727
+2007,5,Forfeitures,020,,,,,,,,56137,47336,42428,40644
+2007,5,Fixed penalty system (Traffic Contraventions) .,030,,,,,,,,195920,190655,206837,217179
+2007,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,198711,198921,202896,206954
+2007,5,Payments by civil servants,050,,,,,,,,2786,2301,3225,2549
+2007,6,Quarries and mining,020,,,,,,,,25193,23300,21400,32700
+2007,6,Bridges and tunnels,030,,,,,,,,15934,15799,17239,66009
+2007,6,Petrol filling,070,,,,,,,,6367,5817,5826,5706
+2007,6,Taxi concessions,080,,,,,,,,,10000,,
+2007,6,Television broadcasting,090,,,,,,,,,,1237,
+2007,6,Parking,100,,,,,,,,319550,318688,311280,308592
+2007,6,Vehicle examination,170,,,,,,,,58577,63130,55330,55330
+2007,6,Slaughterhouse concessions,201,,,,,,,,16500,16500,16500,16500
+2007,6,Other royalties and concessions,202,,,,,,,,173938,174529,173008,296494
+2007,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,,,1531116,1361230,1422972,1471418
+2007,7,Rents from government quarters,020,,,,,,,,645043,579054,658211,661250
+2007,7,Rents from government properties,030,,,,,,,,980150,958177,1030698,1012215
+2007,7,Investment income and interest,040,,,,,,,,3856944,6408722,10666991,10041270
+2007,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,1931717,1841116,2077174,2224160
+2007,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,29301,77970,75891,136153
+2007,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,4726586,4856000,5795000,5213000
+2007,9,Repayments of loans and advances,010,,,,,,,,198326,119101,117293,2579
+2007,9,Pension contributions,020,,,,,,,,18314,16411,16718,15077
+2007,9,Recovery of salaries and staff on-costs,030,,,,,,,,2112710,2096897,2057131,2054834
+2007,9,Light and fuel in government buildings,040,,,,,,,,18951,24422,25013,25222
+2007,9,Recovery of overpayments and losses,050,,,,,,,,542005,394682,445632,378936
+2007,9,Transfers from Funds,080,,,,,,,,,6900000,2100000,31800000
+2007,9,Other receipts,090,,,,,,,,2756079,3643317,3824659,1997365
+2007,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,95875,64490,110157,77034
+2007,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,2801,2856,2856,2927
+2007,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,112,163,90,90
+2007,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,182895,162405,169025,150811
+2007,10,Berthing fee,040,010,Marine ferry terminals,,,,,,40712,45921,39673,44368
+2007,10,Others,040,030,Marine ferry terminals,,,,,,5616,5596,5623,5825
+2007,10,Chargeable water,070,010,Waterworks,,,,,,2446433,2520000,2460000,2521000
+2007,10,Others,070,040,Waterworks,,,,,,12060,24200,24200,15500
+2007,10,Fees and licences,070,020,Waterworks,,,,,,10992,11000,11000,11000
+2007,10,Others,080,030,Sewage services,,,,,,2303,2292,2180,2180
+2007,10,Sewage charge,080,010,Sewage services,,,,,,468365,484600,466000,510375
+2007,10,Trade effluent surcharge,080,020,Sewage services,,,,,,204524,208400,200900,190075
+2007,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,,,61784,65001,64603,61849
+2007,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,223,167,235,180
+2007,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,19928,29015,44587,41629
+2007,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,3078,2909,2945,3063
+2007,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,7218,4776,4781,3390
+2007,11,Others,025,030,Architectural Services Department,,,,,,2243,737,665,686
+2007,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,11033,11924,13088,11581
+2007,11,Civil Aid Service,027,,Architectural Services Department,,,,,,54,112,102,102
+2007,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,641059,643069,637758,664242
+2007,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,171309,179473,181601,199781
+2007,11,Licences,028,030,Civil Aviation Department,,,,,,62304,60865,60673,64824
+2007,11,Others,028,040,Civil Aviation Department,,,,,,1002,1243,1137,1195
+2007,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,513,300,135,135
+2007,11,Laundry charges,030,015,Correctional Services Department,,,,,,2913,2955,2925,2925
+2007,11,Others,030,020,Correctional Services Department,,,,,,273,264,327,327
+2007,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,188,163,197,197
+2007,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,1041597,1024434,1165122,1191705
+2007,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,413,379,265,265
+2007,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,738,738,735,735
+2007,11,Import and export licences,031,071,Customs and Excise Department,,,,,,2702,2538,2807,2807
+2007,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,518,490,595,597
+2007,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1499,1491,1460,1527
+2007,11,Storage fees,031,090,Customs and Excise Department,,,,,,42,17,20,20
+2007,11,Others,031,100,Customs and Excise Department,,,,,,17625,20707,16114,16121
+2007,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,58914,59166,67874,68281
+2007,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,972,280698,331823,63000
+2007,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,1472,1333,1333,1300
+2007,11,Others,033,030,Civil Engineering and Development Department,,,,,,222,160,157,205
+2007,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,7704,3150,17020,9007
+2007,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,514,32000,31000,89000
+2007,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,14484,8684,6607,7890
+2007,11,Out-patient charges,037,030,Department of Health,,,,,,32538,34784,34252,34407
+2007,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,16753,18624,19067,18907
+2007,11,Dental charges,037,040,Department of Health,,,,,,11066,9450,9550,9250
+2007,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,24621,25943,26712,27531
+2007,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,20807,21920,22040,20579
+2007,11,Others,037,070,Department of Health,,,,,,775,547,547,547
+2007,11,Works executed on private account,039,010,Drainage Services Department,,,,,,66,100,85,85
+2007,11,Others,039,030,Drainage Services Department,,,,,,1024,943,876,870
+2007,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,35032,31628,36101,42638
+2007,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,11,11,11,11
+2007,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,26846,30674,31968,31321
+2007,11,Others,044,030,Environmental Protection Department,,,,,,424,329,323,302
+2007,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,39262,40000,33000,33000
+2007,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,18414,20000,33000,33000
+2007,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,8545,16600,16600,34600
+2007,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,8245,9611,9399,9224
+2007,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,5140,5256,5481,5713
+2007,11,Others,045,020,Fire Services Department,,,,,,550,598,637,641
+2007,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,9862,9640,10608,11141
+2007,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,3814,2886,2814,2890
+2007,11,Others,048,020,Government Laboratory,,,,,,5450,6022,5645,5585
+2007,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,14079,7515,6892,7186
+2007,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,58546,68867,75000,62988
+2007,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,244759,245320,244728,243312
+2007,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,27424,27720,27108,27108
+2007,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,3915,3213,1903,2048
+2007,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,75058,69538,72104,70549
+2007,11,Others,051,020,Government Property Agency,,,,,,5532,3794,5302,5271
+2007,11,Government transport,059,030,Government Logistics Department,,,,,,15755,16116,16971,17274
+2007,11,Printing services,059,010,Government Logistics Department,,,,,,220678,205363,211414,219991
+2007,11,Advertisements,059,020,Government Logistics Department,,,,,,24978,22485,23241,23009
+2007,11,Others,059,040,Government Logistics Department,,,,,,12432,10941,9517,9210
+2007,11,Excavation permits,060,020,Highways Department,,,,,,122169,134300,133800,133800
+2007,11,Works executed on private account,060,010,Highways Department,,,,,,1919,1500,1100,1100
+2007,11,Others,060,030,Highways Department,,,,,,1336,1470,1470,1470
+2007,11,Others,063,030,Home Affairs Department,,,,,,1195,1286,1456,1501
+2007,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,8564,4920,5797,5930
+2007,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,12916,13499,12876,13564
+2007,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,52,54,85,96
+2007,11,Marriage registration fees,070,080,Immigration Department,,,,,,73842,73244,73439,76369
+2007,11,Chinese nationality applications,070,012,Immigration Department,,,,,,4842,7179,5309,6480
+2007,11,Travel documents,070,020,Immigration Department,,,,,,158428,186562,215923,300689
+2007,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,93676,102563,104264,116604
+2007,11,Certification fees,070,040,Immigration Department,,,,,,4312,4891,4764,5795
+2007,11,Replacement of identity cards,070,060,Immigration Department,,,,,,47407,45049,38992,35732
+2007,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,27360,28045,30207,33284
+2007,11,Others,070,090,Immigration Department,,,,,,26338,26681,26919,27465
+2007,11,Sale of publications,074,010,Information Services Department,,,,,,11772,10073,10073,9573
+2007,11,Others,074,020,Information Services Department,,,,,,1843,880,730,730
+2007,11,Business registration fees,076,010,Inland Revenue Department,,,,,,1478755,1450000,1470000,1500000
+2007,11,Others,076,020,Inland Revenue Department,,,,,,15076,16753,18436,16113
+2007,11,Patents fees,078,010,Intellectual Property Department,,,,,,14310,13827,14844,14867
+2007,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,76845,72171,82736,82179
+2007,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,7730,7740,7711,7737
+2007,11,Others,078,040,Intellectual Property Department,,,,,,167,55,79,79
+2007,11,Commission,080,010,Judiciary,,,,,,12369,14040,9522,9522
+2007,11,Court fees,080,020,Judiciary,,,,,,186652,116130,177390,117065
+2007,11,Possession,080,030,Judiciary,,,,,,710,680,647,647
+2007,11,Others,080,040,Judiciary,,,,,,13409,13430,14510,14510
+2007,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,162126,166296,199334,198931
+2007,11,Works executed on private account,082,020,Buildings Department,,,,,,122,50,11,8
+2007,11,Others,082,030,Buildings Department,,,,,,695,442,388,424
+2007,11,Labour Department,090,,Buildings Department,,,,,,23429,21003,20860,19770
+2007,11,Services to KCRC,091,042,Lands Department,,,,,,59331,44963,46894,50756
+2007,11,Administrative and legal land services,091,010,Lands Department,,,,,,37390,31675,46965,35355
+2007,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,8709,7489,5235,6935
+2007,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,142,120,760,265
+2007,11,Excavation permits,091,020,Lands Department,,,,,,10140,9445,10873,11020
+2007,11,Works executed on private account,091,040,Lands Department,,,,,,530,551,1132,1126
+2007,11,Services to MTRCL,091,046,Lands Department,,,,,,8779,6722,5705,6184
+2007,11,Others,091,050,Lands Department,,,,,,18345,19477,16011,15652
+2007,11,Department of Justice,092,,Lands Department,,,,,,2528,1890,2217,3237
+2007,11,Legal Aid Department,094,,Lands Department,,,,,,189041,173000,185300,192700
+2007,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,533154,510434,519509,529743
+2007,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,38465,37910,37487,38024
+2007,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,622,716,673,673
+2007,11,Others,095,040,Leisure and Cultural Services Department,,,,,,35569,28206,32160,27666
+2007,11,Anchorage,100,010,Marine Department,,,,,,29394,19000,18500,18000
+2007,11,Buoy,100,020,Marine Department,,,,,,29546,28200,28200,28200
+2007,11,Permit fees,100,030,Marine Department,,,,,,115816,78922,109816,83616
+2007,11,Cargo working area charges,100,040,Marine Department,,,,,,158451,166234,161489,158965
+2007,11,Examination and registration fees,100,050,Marine Department,,,,,,66032,75210,76052,77070
+2007,11,Vessel licences,100,070,Marine Department,,,,,,32635,30800,32000,30400
+2007,11,Port and light dues,100,080,Marine Department,,,,,,228249,210000,217700,218900
+2007,11,Port clearance fees,100,090,Marine Department,,,,,,23063,22600,23000,23900
+2007,11,Survey fees,100,100,Marine Department,,,,,,27554,20704,25728,22953
+2007,11,Others,100,110,Marine Department,,,,,,5100,4319,4505,4313
+2007,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,130007,94800,119800,124300
+2007,11,Liquidation,116,020,Official Receiver’s Office,,,,,,33633,57700,40700,40400
+2007,11,Others,116,030,Official Receiver’s Office,,,,,,430,500,500,500
+2007,11,Certificates of no criminal record,122,010,Hong Kong Police Force,,,,,,4287,4805,4114,4114
+2007,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1425,1252,1112,1096
+2007,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,9205,9286,10901,10901
+2007,11,Others,122,030,Hong Kong Police Force,,,,,,4918,4939,4947,4947
+2007,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,5466,6056,5937,5780
+2007,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,1270,1111,1039,1000
+2007,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,21,501,370,485
+2007,11,Government Secretariat: Economic Development and Labour Bureau (Economic Development Branch),145,,Government Secretariat: Civil Service Bureau,,,,,,8910,8900,8932,8976
+2007,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,42795,42114,41660,42569
+2007,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,11,4,2,2
+2007,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,15701,15190,15690,15357
+2007,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,20,21,46,47
+2007,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,5767,5338,5697,5753
+2007,11,School fees for senior secondary classes,156,011,Government Secretariat: Education and Manpower Bureau,,,,,,73651,71888,73549,76350
+2007,11,School fees for adult education courses,156,015,Government Secretariat: Education and Manpower Bureau,,,,,,581,,,
+2007,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education and Manpower Bureau,,,,,,3437,3517,3497,3567
+2007,11,Others,156,030,Government Secretariat: Education and Manpower Bureau,,,,,,4188,2936,2965,3642
+2007,11,Radio Television Hong Kong,160,,Government Secretariat: Education and Manpower Bureau,,,,,,476,512,492,492
+2007,11,Rating and Valuation Department,162,,Government Secretariat: Education and Manpower Bureau,,,,,,4308,4097,4367,4367
+2007,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,79061,81610,77706,78092
+2007,11,Others,168,020,Hong Kong Observatory,,,,,,1815,1538,1713,1570
+2007,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,13137,13213,13637,13521
+2007,11,Others,170,020,Social Welfare Department,,,,,,3480,3576,3543,3543
+2007,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,15594,20999,17915,21383
+2007,11,Entertainment licences,180,010,Television and Entertainment Licensing Authority,,,,,,17902,18281,18612,18963
+2007,11,Film censorship fees,180,020,Television and Entertainment Licensing Authority,,,,,,2689,2564,2367,2367
+2007,11,Broadcasting licences,180,025,Television and Entertainment Licensing Authority,,,,,,33982,31032,32861,32243
+2007,11,Others,180,030,Television and Entertainment Licensing Authority,,,,,,1781,1664,1321,1507
+2007,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,4382,5304,4728,4822
+2007,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,3306,3803,3130,3007
+2007,11,Others,181,040,Trade and Industry Department,,,,,,72543,70598,68802,46435
+2007,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,257401,229207,245635,247247
+2007,11,Vehicle and driving licences,186,010,Transport Department,,,,,,2775240,2769548,2820294,3104687
+2007,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,982,1156,1094,1104
+2007,11,Vehicle examination fees,186,050,Transport Department,,,,,,59939,60524,59021,59601
+2007,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,,52500,35000,70000
+2007,11,Others,186,060,Transport Department,,,,,,10856,10978,10964,10890
+2007,11,Others,188,040,Treasury,,,,,,37819,38998,37414,36867
+2007,11,Differences in exchange,188,030,Treasury,,,,,,1413,15,15,15
+2007,11,Other bureaux/departments,200,,Treasury,,,,,,9711,7423,14987,14928
+2008,1,Hydrocarbon oils,010,,,,,,,,3319793,3304238,3372169,3131250
+2008,1,Alcoholic beverages,020,,,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,926815,657139,703140,190160
+2008,1,Other alcohol products,030,,,,,,,,6004,4838,6000,6000
+2008,1,Tobacco,050,,,,,,,,2770357,2322581,2810804,2871286
+2008,2,General Rates,030,,,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,15467273,11552000,9273000,7333000
+2008,3,Bets and sweeps tax,010,,,,,,,,12047359,12210000,13031000,13128000
+2008,3,Salaries tax,030,050,Earnings and profits tax,,,,,,38585592,29980000,37000000,26380000
+2008,3,Profits tax,030,020,Earnings and profits tax,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,71919044,77500000,89000000,83270000
+2008,3,Personal assessment,030,030,Earnings and profits tax,,,,,,3565621,3200000,3400000,2600000
+2008,3,Property tax,030,040,Earnings and profits tax,,,,,,1247373,1300000,1250000,620000
+2008,3,Estate duty,050,,Earnings and profits tax,,,,,,777671,200000,230000,85000
+2008,3,Hotel accommodation tax,060,,Earnings and profits tax,,,,,,384248,400000,440000,115000
+2008,3,Stamp duties,070,,Earnings and profits tax,,,,,,25076549,22650000,50000000,35000000
+2008,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1531179,1632610,1655451,1752517
+2008,4,First registration,010,,,,,,† After Budget revenue measures.,,4334659,4464610,5320737,5570100
+2008,5,Court fines and statutory penalties,010,,,,,,,,526340,525727,483296,478453
+2008,5,Forfeitures,020,,,,,,,,45454,40644,39989,39936
+2008,5,Fixed penalty system (Traffic Contraventions) .,030,,,,,,,,220021,217179,231212,243004
+2008,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,213756,206954,231054,249769
+2008,5,Payments by civil servants,050,,,,,,,,3127,2549,2393,2315
+2008,6,Quarries and mining,020,,,,,,,,29841,32700,44700,44600
+2008,6,Bridges and tunnels,030,,,,,,,,17337,66009,17368,95345
+2008,6,Petrol filling,070,,,,,,,,5844,5706,3219,1408
+2008,6,Television broadcasting,090,,,,,,,,,,,1237
+2008,6,Parking,100,,,,,,,,315251,308592,319448,318270
+2008,6,Vehicle examination,170,,,,,,,,51933,55330,56453,56453
+2008,6,Slaughterhouse concessions,201,,,,,,,,16500,16500,16500,16500
+2008,6,Other royalties and concessions,202,,,,,,,,173258,296494,404010,337101
+2008,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,,,1636714,1471418,1495916,1523404
+2008,7,Rents from government quarters,020,,,,,,,,673091,661250,711528,690990
+2008,7,Rents from government properties,030,,,,,,,,1066980,1012215,1041160,1061875
+2008,7,Investment income and interest,040,,,,,,,,10560124,10041270,11965930,22947417
+2008,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,2159174,2224160,2364586,2593718
+2008,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,75891,136153,4521677,482918
+2008,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,5744319,5213000,5365400,5939000
+2008,9,Repayments of loans and advances,010,,,,,,,,117176,2579,3434,1022
+2008,9,Pension contributions,020,,,,,,,,16786,15077,16149,14732
+2008,9,Recovery of salaries and staff on-costs,030,,,,,,,,2015852,2054834,2138502,2179873
+2008,9,Light and fuel in government buildings,040,,,,,,,,24738,25222,24567,23118
+2008,9,Recovery of overpayments and losses,050,,,,,,,,561426,378936,476481,346455
+2008,9,Transfers from Funds,080,,,,,,,,2100000,31800000,31600000,21700000
+2008,9,Other receipts,090,,,,,,,,3465596,1997365,3564796,4394106
+2008,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,117446,77034,230062,132282
+2008,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,2856,2927,2930,3029
+2008,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,302,90,195,195
+2008,10,Berthing fee,040,010,Marine ferry terminals,,,,,,40038,44368,42984,58137
+2008,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,172447,150811,166043,141723
+2008,10,Others,040,030,Marine ferry terminals,,,,,,5683,5825,6613,6805
+2008,10,Fees and licences,070,020,Waterworks,,,,,,13777,11000,14094,14475
+2008,10,Chargeable water,070,010,Waterworks,,,,,,2407087,2521000,2462000,2528000
+2008,10,Others,070,040,Waterworks,,,,,,27140,15500,12965,12649
+2008,10,Sewage charge,080,010,Sewage services,,,,,,462644,510375,472300,524800
+2008,10,Trade effluent surcharge,080,020,Sewage services,,,,,,205104,190075,215800,225100
+2008,10,Others,080,030,Sewage services,,,,,,1755,2180,2270,2330
+2008,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,,,64292,61849,62678,62475
+2008,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,413,180,744,835
+2008,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,46770,41629,33259,32848
+2008,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,3026,3063,3241,3358
+2008,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,5420,3390,4881,2906
+2008,11,Others,025,030,Architectural Services Department,,,,,,769,686,367,367
+2008,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,7336,11581,16294,11082
+2008,11,Civil Aid Service,027,,Architectural Services Department,,,,,,83,102,89,89
+2008,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,626198,664242,657666,698070
+2008,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,184377,199781,200002,217029
+2008,11,Licences,028,030,Civil Aviation Department,,,,,,60510,64824,66489,70484
+2008,11,Others,028,040,Civil Aviation Department,,,,,,1095,1195,1618,1776
+2008,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,367,135,260,200
+2008,11,Laundry charges,030,015,Correctional Services Department,,,,,,2893,2925,2863,2863
+2008,11,Others,030,020,Correctional Services Department,,,,,,317,327,325,325
+2008,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,1161197,1191705,1237551,1247479
+2008,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,232,265,219,219
+2008,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,735,735,683,683
+2008,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,266,197,303,303
+2008,11,Import and export licences,031,071,Customs and Excise Department,,,,,,3199,2807,3758,3758
+2008,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,633,597,674,674
+2008,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1463,1527,1546,1540
+2008,11,Storage fees,031,090,Customs and Excise Department,,,,,,10,20,5,5
+2008,11,Others,031,100,Customs and Excise Department,,,,,,16566,16121,20857,21142
+2008,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,70014,68281,84517,85337
+2008,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,219498,63000,122016,414
+2008,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,1220,1300,1300,1350
+2008,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,7597,7890,7890,7500
+2008,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,19348,9007,11570,8862
+2008,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,39288,89000,89000,148000
+2008,11,Others,033,030,Civil Engineering and Development Department,,,,,,192,205,224,188
+2008,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,18944,18907,19079,19649
+2008,11,Out-patient charges,037,030,Department of Health,,,,,,32052,34407,34590,34679
+2008,11,Dental charges,037,040,Department of Health,,,,,,9403,9250,9250,8850
+2008,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,26833,27531,27022,27191
+2008,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,22809,20579,23129,24174
+2008,11,Others,037,070,Department of Health,,,,,,731,547,467,474
+2008,11,Works executed on private account,039,010,Drainage Services Department,,,,,,108,85,58,60
+2008,11,Others,039,030,Drainage Services Department,,,,,,946,870,992,999
+2008,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,34504,31321,31321,32574
+2008,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,33167,42638,43277,39110
+2008,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,7,11,11,11
+2008,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,33162,33000,32000,35000
+2008,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,36778,33000,33000,33000
+2008,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,21903,34600,33700,39700
+2008,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,9159,9224,9160,8954
+2008,11,Others,044,030,Environmental Protection Department,,,,,,366,302,2742,569
+2008,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,10003,11141,10156,10156
+2008,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,5375,5713,5612,5612
+2008,11,Others,045,020,Fire Services Department,,,,,,597,641,774,774
+2008,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,2657,2890,3395,3423
+2008,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,7084,7186,7186,7997
+2008,11,Others,048,020,Government Laboratory,,,,,,4951,5585,5585,5296
+2008,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,240584,243312,240981,239454
+2008,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,26496,27108,24574,25076
+2008,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,73383,62988,57436,63696
+2008,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,2124,2048,2829,2712
+2008,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,79297,70549,69334,69247
+2008,11,Others,051,020,Government Property Agency,,,,,,5394,5271,5430,5430
+2008,11,Printing services,059,010,Government Logistics Department,,,,,,214854,219991,223166,223166
+2008,11,Advertisements,059,020,Government Logistics Department,,,,,,22095,23009,24689,24993
+2008,11,Government transport,059,030,Government Logistics Department,,,,,,16361,17274,16601,18479
+2008,11,Others,059,040,Government Logistics Department,,,,,,9447,9210,15137,10135
+2008,11,Works executed on private account,060,010,Highways Department,,,,,,2622,1100,900,900
+2008,11,Excavation permits,060,020,Highways Department,,,,,,118953,133800,114600,114600
+2008,11,Others,060,030,Highways Department,,,,,,2542,1470,1600,1600
+2008,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,5737,5930,5875,9542
+2008,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,11563,13564,13984,14048
+2008,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,54,96,25,19
+2008,11,Others,063,030,Home Affairs Department,,,,,,1453,1501,1582,1686
+2008,11,Chinese nationality applications,070,012,Immigration Department,,,,,,5170,6480,4703,5107
+2008,11,Travel documents,070,020,Immigration Department,,,,,,170804,300689,226350,270369
+2008,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,103058,116604,118363,129740
+2008,11,Certification fees,070,040,Immigration Department,,,,,,4801,5795,5611,6869
+2008,11,Replacement of identity cards,070,060,Immigration Department,,,,,,38890,35732,34801,32548
+2008,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,30835,33284,31718,34512
+2008,11,Marriage registration fees,070,080,Immigration Department,,,,,,71998,76369,58319,56734
+2008,11,Others,070,090,Immigration Department,,,,,,26172,27465,29348,29438
+2008,11,Sale of publications,074,010,Information Services Department,,,,,,10104,9573,9612,9082
+2008,11,Others,074,020,Information Services Department,,,,,,624,730,640,620
+2008,11,Business registration fees,076,010,Inland Revenue Department,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,1497902,1500000,1550000,120000
+2008,11,Others,076,020,Inland Revenue Department,,,,,,17842,16113,14154,16594
+2008,11,Patents fees,078,010,Intellectual Property Department,,,,,,15124,14867,16326,16103
+2008,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,82910,82179,85777,85720
+2008,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,7856,7737,8075,7942
+2008,11,Others,078,040,Intellectual Property Department,,,,,,93,79,25,25
+2008,11,Commission,080,010,Judiciary,,,,,,8480,9522,5929,5802
+2008,11,Court fees,080,020,Judiciary,,,,,,201361,117065,145868,145868
+2008,11,Possession,080,030,Judiciary,,,,,,614,647,553,553
+2008,11,Others,080,040,Judiciary,,,,,,13956,14510,10491,10490
+2008,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,174879,198931,199082,200139
+2008,11,Works executed on private account,082,020,Buildings Department,,,,,,208,8,30,30
+2008,11,Others,082,030,Buildings Department,,,,,,615,424,447,375
+2008,11,Labour Department,090,,Buildings Department,,,,,,20882,19770,20309,20768
+2008,11,Administrative and legal land services,091,010,Lands Department,,,,,,47097,35355,45772,39066
+2008,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,4516,6935,7949,2987
+2008,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,824,265,172,122
+2008,11,Excavation permits,091,020,Lands Department,,,,,,10798,11020,10509,10621
+2008,11,Works executed on private account,091,040,Lands Department,,,,,,1327,1126,1542,385
+2008,11,Services to KCRC,091,042,Lands Department,,,,,,46643,50756,39842,43047
+2008,11,Services to MTRCL,091,046,Lands Department,,,,,,5677,6184,8670,8613
+2008,11,Others,091,050,Lands Department,,,,,,17680,15652,21436,18262
+2008,11,Department of Justice,092,,Lands Department,,,,,,1042,3237,11354,4796
+2008,11,Legal Aid Department,094,,Lands Department,,,,,,187428,192700,193200,194000
+2008,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,544922,529743,563172,433934
+2008,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,37041,38024,38067,38387
+2008,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,607,673,619,619
+2008,11,Others,095,040,Leisure and Cultural Services Department,,,,,,34166,27666,27266,23186
+2008,11,Anchorage,100,010,Marine Department,,,,,,15381,18000,15070,15070
+2008,11,Buoy,100,020,Marine Department,,,,,,28814,28200,29051,29051
+2008,11,Permit fees,100,030,Marine Department,,,,,,116032,83616,118699,118699
+2008,11,Cargo working area charges,100,040,Marine Department,,,,,,156068,158965,145953,145953
+2008,11,Examination and registration fees,100,050,Marine Department,,,,,,69024,77070,74705,74585
+2008,11,Vessel licences,100,070,Marine Department,,,,,,32084,30400,33046,33046
+2008,11,Port and light dues,100,080,Marine Department,,,,,,227583,218900,234000,234000
+2008,11,Port clearance fees,100,090,Marine Department,,,,,,22487,23900,22470,22470
+2008,11,Survey fees,100,100,Marine Department,,,,,,25789,22953,29726,26794
+2008,11,Others,100,110,Marine Department,,,,,,4672,4313,4357,4159
+2008,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,151181,124300,105500,93500
+2008,11,Liquidation,116,020,Official Receiver’s Office,,,,,,26664,40400,41000,37400
+2008,11,Others,116,030,Official Receiver’s Office,,,,,,215,500,400,400
+2008,11,Certificates of no criminal record,122,010,Hong Kong Police Force,,,,,,3820,4114,4197,4197
+2008,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1123,1096,1026,1026
+2008,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,9957,10901,9569,9569
+2008,11,Others,122,030,Hong Kong Police Force,,,,,,5060,4947,5280,5280
+2008,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,6196,5780,5377,5583
+2008,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,1145,1000,1100,1100
+2008,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,13,485,421,467
+2008,11,Government Secretariat: Economic Development and Labour Bureau (Economic Development Branch),145,,Government Secretariat: Civil Service Bureau,,,,,,8674,8976,1552,
+2008,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,43250,42569,43250,43250
+2008,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,1,2,1,1
+2008,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,14978,15357,14820,14535
+2008,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,46,47,23,22
+2008,11,"Government Secretariat: Commerce and Economic Development Bureau (Commerce, Industry and Tourism Branch)",152,,Government Secretariat: Security Bureau,,,,,,,,7431,9011
+2008,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,6110,5753,6166,6254
+2008,11,School fees for senior secondary classes,156,011,Government Secretariat: Education Bureau,,,,,,76048,76350,77413,12003
+2008,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education Bureau,,,,,,3513,3567,3661,3923
+2008,11,Others,156,030,Government Secretariat: Education Bureau,,,,,,3064,3642,3074,3296
+2008,11,Radio Television Hong Kong,160,,Government Secretariat: Education Bureau,,,,,,374,492,674,674
+2008,11,Rating and Valuation Department,162,,Government Secretariat: Education Bureau,,,,,,4223,4367,4347,4348
+2008,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,77000,78092,81554,78993
+2008,11,Others,168,020,Hong Kong Observatory,,,,,,1956,1570,1579,1553
+2008,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,13977,13521,14994,14692
+2008,11,Others,170,020,Social Welfare Department,,,,,,3476,3543,3451,3501
+2008,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,15275,21383,19318,22571
+2008,11,Entertainment licences,180,010,Television and Entertainment Licensing Authority,,,,,,18293,18963,19465,20720
+2008,11,Film censorship fees,180,020,Television and Entertainment Licensing Authority,,,,,,2552,2367,2397,2397
+2008,11,Broadcasting licences,180,025,Television and Entertainment Licensing Authority,,,,,,30941,32243,39617,34078
+2008,11,Others,180,030,Television and Entertainment Licensing Authority,,,,,,1466,1507,1822,1824
+2008,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,3828,4822,3555,2789
+2008,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,3007,3007,2944,2742
+2008,11,Others,181,040,Trade and Industry Department,,,,,,67226,46435,36202,36676
+2008,11,Vehicle examination fees,186,050,Transport Department,,,,,,59078,59601,61082,61662
+2008,11,Vehicle and driving licences,186,010,Transport Department,,,,,,2822436,3104687,2869165,2943770
+2008,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,246991,247247,263051,265634
+2008,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,1052,1104,1124,1168
+2008,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,35257,70000,54703,53327
+2008,11,Others,186,060,Transport Department,,,,,,10697,10890,11306,11962
+2008,11,Differences in exchange,188,030,Treasury,,,,,,9832,15,15,
+2008,11,Others,188,040,Treasury,,,,,,37494,36867,42707,42970
+2008,11,Other bureaux/departments,200,,Treasury,,,,,,12428,14928,17179,12693
+2009,1,Hydrocarbon oils,010,,,,,,,,3359729,3131250,2767049,2549239
+2009,1,Alcoholic beverages,020,,,,,,,,687198,190160,202334,203514
+2009,1,Other alcohol products,030,,,,,,,,7471,6000,7500,7500
+2009,1,Tobacco,050,,,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,3005127,2871286,3024325,3821558
+2009,2,General Rates,030,,,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,9494544,7333000,7240000,13899000
+2009,3,Bets and sweeps tax,010,,,,,,,,13048425,13128000,12500000,12388000
+2009,3,Property tax,030,040,Earnings and profits tax,,,,,,1240605,620000,800000,1200000
+2009,3,Profits tax,030,020,Earnings and profits tax,,,,,,91422706,83270000,103200000,71000000
+2009,3,Personal assessment,030,030,Earnings and profits tax,,,,† After Budget revenue measures but subject to the passing of the relevant legislation by the Legislative Council.,,3586574,2600000,2200000,3200000
+2009,3,Salaries tax,030,050,Earnings and profits tax,,,,,,37479476,26380000,36000000,35190000
+2009,3,Estate duty,050,,Earnings and profits tax,,,,,,353353,85000,200000,80000
+2009,3,Hotel accommodation tax,060,,Earnings and profits tax,,,,,,450401,115000,238000,
+2009,3,Stamp duties,070,,Earnings and profits tax,,,,,,51549090,35000000,33000000,25000000
+2009,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1670811,1752517,1657405,1593588
+2009,4,First registration,010,,,,,,,,5552874,5570100,4823695,4080832
+2009,5,Court fines and statutory penalties,010,,,,,,,,479030,478453,460543,513573
+2009,5,Forfeitures,020,,,,,,,,44667,39936,43139,30670
+2009,5,Fixed penalty system (Traffic Contraventions) .,030,,,,,,,,236861,243004,231775,231775
+2009,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,233381,249769,216419,234165
+2009,5,Payments by civil servants,050,,,,,,,,3029,2315,2726,2316
+2009,6,Quarries and mining,020,,,,,,,,45264,44600,45463,50078
+2009,6,Bridges and tunnels,030,,,,,,,,17537,95345,64925,259125
+2009,6,Petrol filling,070,,,,,,,,3133,1408,1565,1664
+2009,6,Television broadcasting,090,,,,,,,,,1237,,
+2009,6,Parking,100,,,,,,,,323494,318270,296922,245356
+2009,6,Vehicle examination,170,,,,,,,,53420,56453,54288,54288
+2009,6,Slaughterhouse concessions,201,,,,,,,,16500,16500,16500,16500
+2009,6,Other royalties and concessions,202,,,,,,,,403922,337101,1873910,377330
+2009,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,† After Budget revenue measures.,,1584264,1523404,1609251,1619728
+2009,7,Rents from government quarters,020,,,,,,,,718565,690990,743720,744171
+2009,7,Rents from government properties,030,,,,,,,,1073450,1061875,1136372,1085662
+2009,7,Investment income and interest,040,,,,,,,,12004965,22947417,23379232,16298000
+2009,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,2364586,2593718,2805961,2866300
+2009,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,4521676,482918,470997,969978
+2009,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,5810879,5939000,5905000,5844000
+2009,9,Repayments of loans and advances,010,,,,,,,,3390,1022,1751,508
+2009,9,Pension contributions,020,,,,,,,,16995,14732,15739,14234
+2009,9,Recovery of salaries and staff on-costs,030,,,,,,,,2122131,2179873,2264134,2310999
+2009,9,Light and fuel in government buildings,040,,,,,,,,24813,23118,22934,23620
+2009,9,Recovery of overpayments and losses,050,,,,,,,,452339,346455,842867,426898
+2009,9,Transfers from Funds,080,,,,,,,,31600000,21700000,1800000,600000
+2009,9,Other receipts,090,,,,,,,,3564522,4394106,3328440,1819890
+2009,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,2930,3029,3029,3107
+2009,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,205898,132282,198993,79630
+2009,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,163,195,847,847
+2009,10,Berthing fee,040,010,Marine ferry terminals,,,,,,43022,58137,51102,66773
+2009,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,174714,141723,149623,158786
+2009,10,Others,040,030,Marine ferry terminals,,,,,,6250,6805,6881,6891
+2009,10,Chargeable water,070,010,Waterworks,,,,,,2414631,2528000,2419400,2433900
+2009,10,Fees and licences,070,020,Waterworks,,,,,,14646,14475,14041,13760
+2009,10,Others,070,040,Waterworks,,,,,,13033,12649,12321,11246
+2009,10,Others,080,030,Sewage services,,,,,,2280,2330,2519,2571
+2009,10,Sewage charge,080,010,Sewage services,,,,,,465772,524800,495500,544600
+2009,10,Trade effluent surcharge,080,020,Sewage services,,,,,,209291,225100,184800,174300
+2009,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,35189,32848,32770,32761
+2009,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,† After Budget revenue measures.,,65361,62475,62765,59531
+2009,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,797,835,818,793
+2009,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,3265,3358,3449,9433
+2009,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,3063,2906,10958,6442
+2009,11,Others,025,030,Architectural Services Department,,,,,,338,367,354,354
+2009,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,16788,11082,11001,10989
+2009,11,Civil Aid Service,027,,Architectural Services Department,,,,,,66,89,44,44
+2009,11,Licences,028,030,Civil Aviation Department,,,,,,65683,70484,67699,68204
+2009,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,649162,698070,644491,704936
+2009,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,200970,217029,205642,199374
+2009,11,Others,028,040,Civil Aviation Department,,,,,,1760,1776,1569,1324
+2009,11,Laundry charges,030,015,Correctional Services Department,,,,,,2895,2863,2925,2925
+2009,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,676,200,300,200
+2009,11,Others,030,020,Correctional Services Department,,,,,,289,325,319,319
+2009,11,Others,031,100,Customs and Excise Department,,,,,,19409,21142,17851,18013
+2009,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,1278518,1247479,1383543,1369703
+2009,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,296,219,230,230
+2009,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,683,683,625,625
+2009,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,358,303,573,573
+2009,11,Import and export licences,031,071,Customs and Excise Department,,,,,,3180,3758,2202,2202
+2009,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,674,674,539,539
+2009,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1597,1540,1375,1360
+2009,11,Storage fees,031,090,Customs and Excise Department,,,,,,3,5,1,1
+2009,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,98669,85337,82209,61192
+2009,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,122077,414,1280,40405
+2009,11,Others,033,030,Civil Engineering and Development Department,,,,,,280,188,178,161
+2009,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,7918,7500,6942,8803
+2009,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,10298,8862,8862,2549
+2009,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,93030,148000,136000,170000
+2009,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,1430,1350,1245,1464
+2009,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,23010,24174,23766,24081
+2009,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,19721,19649,21675,21608
+2009,11,Out-patient charges,037,030,Department of Health,,,,,,32283,34679,32193,32236
+2009,11,Dental charges,037,040,Department of Health,,,,,,9028,8850,8818,8818
+2009,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,26649,27191,27294,27762
+2009,11,Others,037,070,Department of Health,,,,,,670,474,491,493
+2009,11,Works executed on private account,039,010,Drainage Services Department,,,,,,57,60,30,30
+2009,11,Others,039,030,Drainage Services Department,,,,,,1017,999,866,854
+2009,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,37275,32574,32574,34040
+2009,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,10,11,30,11
+2009,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,48348,39110,38829,36547
+2009,11,Others,044,030,Environmental Protection Department,,,,,,2536,569,295,678
+2009,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,32982,35000,32000,32000
+2009,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,41607,33000,38000,41000
+2009,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,34893,39700,44500,52000
+2009,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,9306,8954,9243,8696
+2009,11,Others,045,020,Fire Services Department,,,,,,687,774,926,903
+2009,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,10478,10156,10238,10238
+2009,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,5655,5612,5909,5909
+2009,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,4059,3423,6324,4933
+2009,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,6792,7997,7997,7905
+2009,11,Others,048,020,Government Laboratory,,,,,,5677,5296,5296,5454
+2009,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,244655,239454,243709,243589
+2009,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,23132,25076,20664,20664
+2009,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,61386,63696,65299,89736
+2009,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,3514,2712,3027,2868
+2009,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,74807,69247,71917,69482
+2009,11,Others,051,020,Government Property Agency,,,,,,5584,5430,4775,4707
+2009,11,Printing services,059,010,Government Logistics Department,,,,,,235678,223166,213716,200300
+2009,11,Advertisements,059,020,Government Logistics Department,,,,,,23365,24993,20834,20834
+2009,11,Government transport,059,030,Government Logistics Department,,,,,,15197,18479,16131,16293
+2009,11,Others,059,040,Government Logistics Department,,,,,,13841,10135,10581,9023
+2009,11,Works executed on private account,060,010,Highways Department,,,,,,657,900,3012,3274
+2009,11,Excavation permits,060,020,Highways Department,,,,,,108188,114600,116580,122050
+2009,11,Others,060,030,Highways Department,,,,,,1657,1600,1600,1600
+2009,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,7273,9542,8338,4606
+2009,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,14984,14048,13134,14180
+2009,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,70,19,34,32
+2009,11,Others,063,030,Home Affairs Department,,,,,,1878,1686,2597,2691
+2009,11,Chinese nationality applications,070,012,Immigration Department,,,,,,4674,5107,4734,4509
+2009,11,Travel documents,070,020,Immigration Department,,,,,,212283,270369,212624,219135
+2009,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,112266,129740,134497,132128
+2009,11,Certification fees,070,040,Immigration Department,,,,,,5480,6869,5992,6747
+2009,11,Replacement of identity cards,070,060,Immigration Department,,,,,,35599,32548,35937,36683
+2009,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,33275,34512,34828,37911
+2009,11,Marriage registration fees,070,080,Immigration Department,,,,,,56149,56734,55729,52254
+2009,11,Others,070,090,Immigration Department,,,,,,29181,29438,23496,16391
+2009,11,Sale of publications,074,010,Information Services Department,,,,,,9415,9082,9060,8560
+2009,11,Others,074,020,Information Services Department,,,,,,602,620,530,510
+2009,11,Business registration fees,076,010,Inland Revenue Department,,,,,,1565849,120000,120000,1450000
+2009,11,Others,076,020,Inland Revenue Department,,,,,,14276,16594,16431,18346
+2009,11,Patents fees,078,010,Intellectual Property Department,,,,,,16349,16103,17726,17746
+2009,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,84973,85720,84909,84873
+2009,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,8481,7942,8285,8307
+2009,11,Others,078,040,Intellectual Property Department,,,,,,42,25,81,81
+2009,11,Commission,080,010,Judiciary,,,,,,5491,5802,6495,6626
+2009,11,Court fees,080,020,Judiciary,,,,,,141771,145868,148601,143738
+2009,11,Possession,080,030,Judiciary,,,,,,674,553,555,555
+2009,11,Others,080,040,Judiciary,,,,,,10808,10490,12336,12353
+2009,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,187743,200139,177747,177555
+2009,11,Works executed on private account,082,020,Buildings Department,,,,,,16,30,244,160
+2009,11,Others,082,030,Buildings Department,,,,,,469,375,1426,760
+2009,11,Labour Department,090,,Buildings Department,,,,,,20288,20768,20831,22291
+2009,11,Administrative and legal land services,091,010,Lands Department,,,,,,50480,39066,45659,38499
+2009,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,5353,2987,4575,3996
+2009,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,212,122,103,98
+2009,11,Excavation permits,091,020,Lands Department,,,,,,9648,10621,9799,9804
+2009,11,Works executed on private account,091,040,Lands Department,,,,,,1474,385,778,389
+2009,11,Services to KCRC,091,042,Lands Department,,,,,,39262,43047,35856,40391
+2009,11,Services to MTRCL,091,046,Lands Department,,,,,,48522,8613,5574,24446
+2009,11,Others,091,050,Lands Department,,,,,,21961,18262,18493,18211
+2009,11,Department of Justice,092,,Lands Department,,,,,,8851,4796,10941,8786
+2009,11,Legal Aid Department,094,,Lands Department,,,,,,188573,194000,203926,212821
+2009,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,601582,433934,412547,554409
+2009,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,37825,38387,38346,37967
+2009,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,592,619,620,620
+2009,11,Others,095,040,Leisure and Cultural Services Department,,,,,,29209,23186,22507,25173
+2009,11,Anchorage,100,010,Marine Department,,,,,,16642,15070,17500,16700
+2009,11,Buoy,100,020,Marine Department,,,,,,28290,29051,26551,25285
+2009,11,Permit fees,100,030,Marine Department,,,,,,116757,118699,105657,100581
+2009,11,Cargo working area charges,100,040,Marine Department,,,,,,141882,145953,141579,142623
+2009,11,Examination and registration fees,100,050,Marine Department,,,,,,64909,74585,78668,72408
+2009,11,Vessel licences,100,070,Marine Department,,,,,,30659,33046,33000,31350
+2009,11,Port and light dues,100,080,Marine Department,,,,,,240756,234000,221850,210800
+2009,11,Port clearance fees,100,090,Marine Department,,,,,,22586,22470,20800,19750
+2009,11,Survey fees,100,100,Marine Department,,,,,,23084,26794,27956,23219
+2009,11,Others,100,110,Marine Department,,,,,,4331,4159,4429,4001
+2009,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,119023,93500,94500,94600
+2009,11,Liquidation,116,020,Official Receiver’s Office,,,,,,44430,37400,36600,38800
+2009,11,Others,116,030,Official Receiver’s Office,,,,,,303,400,200,200
+2009,11,Certificates of no criminal record,122,010,Hong Kong Police Force,,,,,,3972,4197,4557,4557
+2009,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1101,1026,1087,1071
+2009,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,9030,9569,10486,10486
+2009,11,Others,122,030,Hong Kong Police Force,,,,,,5292,5280,5678,5678
+2009,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,5727,5583,6354,7737
+2009,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,1211,1100,1500,1500
+2009,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,16,467,494,443
+2009,11,Government Secretariat: Economic Development and Labour Bureau (Economic Development Branch),145,,Government Secretariat: Civil Service Bureau,,,,,,1552,,,
+2009,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,42340,43250,42488,42488
+2009,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,,1,1,1
+2009,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,14475,14535,15102,14363
+2009,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,47,22,4,29
+2009,11,"Government Secretariat: Commerce and Economic Development Bureau (Commerce, Industry and Tourism Branch)",152,,Government Secretariat: Security Bureau,,,,,,7505,9011,9075,8901
+2009,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,6407,6254,6534,6492
+2009,11,School fees for senior secondary classes,156,011,Government Secretariat: Education Bureau,,,,,,80924,12003,12476,
+2009,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education Bureau,,,,,,3661,3923,3810,4093
+2009,11,Others,156,030,Government Secretariat: Education Bureau,,,,,,2900,3296,3234,3596
+2009,11,Radio Television Hong Kong,160,,Government Secretariat: Education Bureau,,,,,,596,674,591,591
+2009,11,Rating and Valuation Department,162,,Government Secretariat: Education Bureau,,,,,,4691,4348,4610,4617
+2009,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,78096,78993,79434,79158
+2009,11,Others,168,020,Hong Kong Observatory,,,,,,1296,1553,1648,1523
+2009,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,14468,14692,19113,16155
+2009,11,Others,170,020,Social Welfare Department,,,,,,3490,3501,3537,3538
+2009,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,17670,22571,22351,25353
+2009,11,Entertainment licences,180,010,Television and Entertainment Licensing Authority,,,,,,17934,20720,19460,19536
+2009,11,Film censorship fees,180,020,Television and Entertainment Licensing Authority,,,,,,2568,2397,2501,2501
+2009,11,Broadcasting licences,180,025,Television and Entertainment Licensing Authority,,,,,,39713,34078,34527,34527
+2009,11,Others,180,030,Television and Entertainment Licensing Authority,,,,,,1808,1824,1413,1413
+2009,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,3440,2789,2189,1330
+2009,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,2690,2742,2196,1787
+2009,11,Others,181,040,Trade and Industry Department,,,,,,35993,36676,31757,28404
+2009,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,51314,53327,32657,28738
+2009,11,Vehicle and driving licences,186,010,Transport Department,,,,,,3109226,2943770,3160425,3192596
+2009,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,262193,265634,257871,260325
+2009,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,1755,1168,1302,1363
+2009,11,Vehicle examination fees,186,050,Transport Department,,,,,,62839,61662,60662,62112
+2009,11,Others,186,060,Transport Department,,,,,,11848,11962,10900,11105
+2009,11,Others,188,040,Treasury,,,,,,42446,42970,45701,46692
+2009,11,Other bureaux/departments,200,,Treasury,,,,,,17736,12693,11714,13962
+2010,1,Hydrocarbon oils,010,,,,,,,,2836130,2549239,2825735,2910507
+2010,1,Alcoholic beverages,020,,,,,,,,235898,203514,238686,235898
+2010,1,Other alcohol products,030,,,,,,,,11779,7500,14000,14000
+2010,1,Tobacco,050,,,,,,,,2962847,3821558,3100000,3012000
+2010,2,General Rates,030,,,,,,,,7174835,13899000,9205000,9375000
+2010,3,Bets and sweeps tax,010,,,,,,,,12620289,12388000,12642000,13175000
+2010,3,Profits tax,030,020,Earnings and profits tax,,,,,,104151492,71000000,75500000,78500000
+2010,3,Personal assessment,030,030,Earnings and profits tax,,,,,,2151110,3200000,3600000,3180000
+2010,3,Property tax,030,040,Earnings and profits tax,,,,,,832547,1200000,1600000,1500000
+2010,3,Salaries tax,030,050,Earnings and profits tax,,,,,,39007872,35190000,39000000,39810000
+2010,3,Estate duty,050,,Earnings and profits tax,,,,,,175973,80000,170000,70000
+2010,3,Hotel accommodation tax,060,,Earnings and profits tax,,,,,,222870,,,
+2010,3,Stamp duties,070,,Earnings and profits tax,,,,,,32162101,25000000,40500000,30000000
+2010,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1625470,1593588,1597032,1669243
+2010,4,First registration,010,,,,,,,,4980925,4080832,4332466,4552883
+2010,5,Court fines and statutory penalties,010,,,,,,,,500033,513573,457066,528959
+2010,5,Forfeitures,020,,,,,,,,52450,30670,36872,28684
+2010,5,Fixed penalty system (Traffic Contraventions),030,,,,,,,,238864,231775,239725,246888
+2010,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,212188,234165,200548,206564
+2010,5,Payments by civil servants,050,,,,,,,,2856,2316,2665,2100
+2010,6,Quarries and mining,020,,,,,,,,45503,50078,45000,46000
+2010,6,Bridges and tunnels,030,,,,,,,,70794,259125,612384,1263806
+2010,6,Petrol filling,070,,,,,,,,1549,1664,1587,1631
+2010,6,Parking,100,,,,,,,,332976,245356,338254,344498
+2010,6,Vehicle examination,170,,,,,,,,49088,54288,38791,38805
+2010,6,Slaughterhouse concessions,201,,,,,,,,16500,16500,25125,28000
+2010,6,Other royalties and concessions,202,,,,,,,,1872678,377330,423340,443560
+2010,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,,,1807951,1619728,1603812,1724195
+2010,7,Rents from government quarters,020,,,,,,,,748138,744171,719516,701515
+2010,7,Rents from government properties,030,,,,,,,,1177409,1085662,1146773,1260987
+2010,7,Investment income and interest,040,,,,,,,,23352113,16298000,17895726,15564000
+2010,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,2805961,2866300,3119833,3480989
+2010,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,470996,969978,864100,118472
+2010,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,5943721,5844000,5730000,6004000
+2010,9,Repayments of loans and advances,010,,,,,,,,2230,508,635,143
+2010,9,Pension contributions,020,,,,,,,,15701,14234,13926,12933
+2010,9,Recovery of salaries and staff on-costs,030,,,,,,,,2231184,2310999,2194212,2216066
+2010,9,Light and fuel in government buildings,040,,,,,,,,25894,23620,26440,26830
+2010,9,Recovery of overpayments and losses,050,,,,,,,,829525,426898,853431,411654
+2010,9,Transfers from Funds,080,,,,,,,,1800000,600000,0,0
+2010,9,Other receipts,090,,,,,,,,3485530,1819890,6035644,1697128
+2010,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,198993,79630,161875,68857
+2010,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,3028,3107,3107,3082
+2010,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,574,847,44,188
+2010,10,Berthing fee,040,010,Marine ferry terminals,,,,,,46357,66773,48519,57307
+2010,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,140272,158786,125432,128941
+2010,10,Others,040,030,Marine ferry terminals,,,,,,7450,6891,6923,7127
+2010,10,Chargeable water,070,010,Waterworks,,,,,,2413824,2433900,2445200,2467200
+2010,10,Fees and licences,070,020,Waterworks,,,,,,12816,13760,13760,13760
+2010,10,Others,070,040,Waterworks,,,,,,8883,11246,8900,12000
+2010,10,Sewage charge,080,010,Sewage services,,,,,,493790,544600,549300,606500
+2010,10,Trade effluent surcharge,080,020,Sewage services,,,,,,194657,174300,182300,185100
+2010,10,Others,080,030,Sewage services,,,,,,2301,2571,2486,2536
+2010,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,,,64773,59531,54852,68707
+2010,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,583,793,595,595
+2010,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,29939,32761,29711,29694
+2010,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,3415,9433,9032,9194
+2010,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,8737,6442,10707,5907
+2010,11,Others,025,030,Architectural Services Department,,,,,,4306,354,362,362
+2010,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,5025,10989,16510,10503
+2010,11,Civil Aid Service,027,,Architectural Services Department,,,,,,20,44,175,124
+2010,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,640040,704936,658510,676483
+2010,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,191972,199374,173267,176602
+2010,11,Licences,028,030,Civil Aviation Department,,,,,,74499,68204,67544,66316
+2010,11,Others,028,040,Civil Aviation Department,,,,,,1621,1324,959,1182
+2010,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,379,200,200,200
+2010,11,Laundry charges,030,015,Correctional Services Department,,,,,,2949,2925,3006,3006
+2010,11,Others,030,020,Correctional Services Department,,,,,,288,319,398,398
+2010,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,1263200,1369703,1125101,1226134
+2010,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,273,230,296,296
+2010,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,625,625,317,317
+2010,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,721,573,1272,1272
+2010,11,Import and export licences,031,071,Customs and Excise Department,,,,,,1996,2202,1762,1762
+2010,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,577,539,597,597
+2010,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1438,1360,1350,1331
+2010,11,Storage fees,031,090,Customs and Excise Department,,,,,,,1,1,1
+2010,11,Others,031,100,Customs and Excise Department,,,,,,17108,18013,17818,18004
+2010,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,85600,61192,81257,81257
+2010,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,1108,40405,13478,100950
+2010,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,1226,1464,1460,2400
+2010,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,8193,8803,9600,26000
+2010,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,7096,2549,9592,9435
+2010,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,135867,170000,170000,220000
+2010,11,Others,033,030,Civil Engineering and Development Department,,,,,,167,161,183,246
+2010,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,22122,21608,23527,24602
+2010,11,Out-patient charges,037,030,Department of Health,,,,,,32066,32236,32395,32467
+2010,11,Dental charges,037,040,Department of Health,,,,,,8645,8818,8368,8168
+2010,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,27286,27762,27801,28313
+2010,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,23728,24081,24204,24206
+2010,11,Others,037,070,Department of Health,,,,,,512,493,528,485
+2010,11,Works executed on private account,039,010,Drainage Services Department,,,,,,1,30,24,24
+2010,11,Others,039,030,Drainage Services Department,,,,,,900,854,1262,737
+2010,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,34270,34040,30299,33680
+2010,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,38654,36547,36895,49056
+2010,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,21,11,20,20
+2010,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,31597,32000,29000,29000
+2010,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,45895,41000,45000,45000
+2010,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,48289,52000,52000,54000
+2010,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,9056,8696,9611,9429
+2010,11,Producer Responsibility Scheme,044,025,Environmental Protection Department,,,,,,,,13000,26000
+2010,11,Others,044,030,Environmental Protection Department,,,,,,713,678,658,387
+2010,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,10491,10238,10244,10244
+2010,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,5823,5909,5803,5803
+2010,11,Others,045,020,Fire Services Department,,,,,,1038,903,1103,1103
+2010,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,6431,4933,6133,5987
+2010,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,7287,7905,7750,7219
+2010,11,Others,048,020,Government Laboratory,,,,,,5986,5454,5454,5912
+2010,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,248620,243589,123918,219587
+2010,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,20848,20664,22864,22864
+2010,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,63126,89736,124384,61023
+2010,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,3370,2868,1857,9111
+2010,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,77984,69482,69412,67964
+2010,11,Others,051,020,Government Property Agency,,,,,,5315,4707,5948,5273
+2010,11,Government Secretariat: Commerce and Economic Development Bureau (Communications and Technology Branch),055,,Government Property Agency,,,,,,,,460,700
+2010,11,Printing services,059,010,Government Logistics Department,,,,,,227885,200300,240851,230000
+2010,11,Advertisements,059,020,Government Logistics Department,,,,,,21887,20834,23718,22000
+2010,11,Government transport,059,030,Government Logistics Department,,,,,,15750,16293,16749,18018
+2010,11,Others,059,040,Government Logistics Department,,,,,,10716,9023,9996,9111
+2010,11,Works executed on private account,060,010,Highways Department,,,,,,2377,3274,3274,3274
+2010,11,Excavation permits,060,020,Highways Department,,,,,,118963,122050,130505,130505
+2010,11,Others,060,030,Highways Department,,,,,,1464,1600,2200,1680
+2010,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,9629,4606,3625,4970
+2010,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,14237,14180,13340,15039
+2010,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,53,32,37,42
+2010,11,Others,063,030,Home Affairs Department,,,,,,2523,2691,3256,3298
+2010,11,Chinese nationality applications,070,012,Immigration Department,,,,,,4211,4509,3708,3277
+2010,11,Travel documents,070,020,Immigration Department,,,,,,190228,219135,195540,199878
+2010,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,120998,132128,108370,116781
+2010,11,Certification fees,070,040,Immigration Department,,,,,,6331,6747,7810,9208
+2010,11,Replacement of identity cards,070,060,Immigration Department,,,,,,37151,36683,35810,37225
+2010,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,37002,37911,36978,39444
+2010,11,Marriage registration fees,070,080,Immigration Department,,,,,,55484,52254,57286,54291
+2010,11,Others,070,090,Immigration Department,,,,,,29564,16391,16678,13332
+2010,11,Sale of publications,074,010,Information Services Department,,,,,,8361,8560,7565,7565
+2010,11,Others,074,020,Information Services Department,,,,,,652,510,510,510
+2010,11,Business registration fees,076,010,Inland Revenue Department,,,,,,154448,1450000,580000,26000
+2010,11,Others,076,020,Inland Revenue Department,,,,,,16347,18346,17601,17562
+2010,11,Patents fees,078,010,Intellectual Property Department,,,,,,17500,17746,17275,17292
+2010,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,80741,84873,84907,84913
+2010,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,7929,8307,7376,7405
+2010,11,Others,078,040,Intellectual Property Department,,,,,,115,81,59,59
+2010,11,Commission,080,010,Judiciary,,,,,,7337,6626,9506,9615
+2010,11,Court fees,080,020,Judiciary,,,,,,157615,143738,168588,168588
+2010,11,Possession,080,030,Judiciary,,,,,,539,555,483,483
+2010,11,Others,080,040,Judiciary,,,,,,12033,12353,12040,12041
+2010,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,186214,177555,156862,163439
+2010,11,Works executed on private account,082,020,Buildings Department,,,,,,181,160,123,104
+2010,11,Others,082,030,Buildings Department,,,,,,642,760,1140,1024
+2010,11,Labour Department,090,,Buildings Department,,,,,,20817,22291,21965,21905
+2010,11,Administrative and legal land services,091,010,Lands Department,,,,,,52423,38499,49538,47238
+2010,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,5593,3996,3799,2771
+2010,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,95,98,121,118
+2010,11,Excavation permits,091,020,Lands Department,,,,,,10572,9804,10492,10436
+2010,11,Works executed on private account,091,040,Lands Department,,,,,,138,389,1205,275
+2010,11,Services to KCRC,091,042,Lands Department,,,,,,33384,40391,15514,27221
+2010,11,Services to MTRCL,091,046,Lands Department,,,,,,5221,24446,18285,47208
+2010,11,Others,091,050,Lands Department,,,,,,18181,18211,20650,19399
+2010,11,Department of Justice,092,,Lands Department,,,,,,10668,8786,7770,2333
+2010,11,Legal Aid Department,094,,Lands Department,,,,,,196498,212821,199023,197969
+2010,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,436873,554409,564414,563240
+2010,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,37558,37967,37729,38288
+2010,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,626,620,653,653
+2010,11,Others,095,040,Leisure and Cultural Services Department,,,,,,21804,25173,25673,26094
+2010,11,Anchorage,100,010,Marine Department,,,,,,22283,16700,30900,30900
+2010,11,Buoy,100,020,Marine Department,,,,,,26408,25285,23000,22650
+2010,11,Permit fees,100,030,Marine Department,,,,,,104181,100581,105578,105580
+2010,11,Cargo working area charges,100,040,Marine Department,,,,,,131573,142623,116151,120398
+2010,11,Examination and registration fees,100,050,Marine Department,,,,,,79096,72408,62025,52529
+2010,11,Vessel licences,100,070,Marine Department,,,,,,31520,31350,20750,27380
+2010,11,Port and light dues,100,080,Marine Department,,,,,,236212,210800,233030,232056
+2010,11,Port clearance fees,100,090,Marine Department,,,,,,21003,19750,15250,13100
+2010,11,Survey fees,100,100,Marine Department,,,,,,27665,23219,25942,24011
+2010,11,Others,100,110,Marine Department,,,,,,4612,4001,4599,4322
+2010,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,94008,94600,81962,72990
+2010,11,Liquidation,116,020,Official Receiver’s Office,,,,,,31028,38800,72351,31764
+2010,11,Others,116,030,Official Receiver’s Office,,,,,,207,200,209,209
+2010,11,Certificates of no criminal record,122,010,Hong Kong Police Force,,,,,,4253,4557,4057,4057
+2010,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1140,1071,1223,1223
+2010,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,10481,10486,10778,10778
+2010,11,Others,122,030,Hong Kong Police Force,,,,,,5609,5678,5650,5650
+2010,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,6071,7737,7703,7623
+2010,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,2062,1500,3134,3000
+2010,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,51,443,503,452
+2010,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,42289,42488,42260,42260
+2010,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,1,1,6,6
+2010,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,14464,14363,14935,15845
+2010,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,3,29,27,50
+2010,11,"Government Secretariat: Commerce and Economic Development Bureau (Commerce, Industry and Tourism Branch)",152,,Government Secretariat: Security Bureau,,,,,,9182,8901,1956,7209
+2010,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,6758,6492,7379,7975
+2010,11,School fees for senior secondary classes,156,011,Government Secretariat: Education Bureau,,,,,,12482,,4,
+2010,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education Bureau,,,,,,3809,4093,3937,4764
+2010,11,Others,156,030,Government Secretariat: Education Bureau,,,,,,3368,3596,3513,3720
+2010,11,Radio Television Hong Kong,160,,Government Secretariat: Education Bureau,,,,,,622,591,925,834
+2010,11,Rating and Valuation Department,162,,Government Secretariat: Education Bureau,,,,,,4308,4617,5318,5239
+2010,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,80450,79158,83764,84685
+2010,11,Others,168,020,Hong Kong Observatory,,,,,,1644,1523,1492,1430
+2010,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,18320,16155,15344,14741
+2010,11,Others,170,020,Social Welfare Department,,,,,,3502,3538,3604,3627
+2010,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,21096,25353,23896,26448
+2010,11,Entertainment licences,180,010,Television and Entertainment Licensing Authority,,,,,,16995,19536,19142,18820
+2010,11,Film censorship fees,180,020,Television and Entertainment Licensing Authority,,,,,,2623,2501,2753,2753
+2010,11,Broadcasting licences,180,025,Television and Entertainment Licensing Authority,,,,,,31775,34527,38187,35171
+2010,11,Others,180,030,Television and Entertainment Licensing Authority,,,,,,1394,1413,813,569
+2010,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,1674,1330,490,250
+2010,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,2051,1787,1432,1009
+2010,11,Others,181,040,Trade and Industry Department,,,,,,29489,28404,22652,18579
+2010,11,Vehicle and driving licences,186,010,Transport Department,,,,,,3177798,3192596,2763595,3025574
+2010,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,243825,260325,232573,243044
+2010,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,1667,1363,1661,1670
+2010,11,Vehicle examination fees,186,050,Transport Department,,,,,,58312,62112,54378,55776
+2010,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,34920,28738,42014,38513
+2010,11,Others,186,060,Transport Department,,,,,,11463,11105,9612,11343
+2010,11,Others,188,040,Treasury,,,,,,45457,46692,45127,44470
+2010,11,Other bureaux/departments,200,,Treasury,,,,,,7728,13962,21089,15260
+2011,1,Hydrocarbon oils,010,,,,,,,,2840951,2910507,3001829,3101799
+2011,1,Alcoholic beverages,020,,,,,,,,256330,235898,285027,289558
+2011,1,Other alcohol products,030,,,,,,,,13045,14000,9535,9535
+2011,1,Tobacco,050,,,,,,,,3354551,3012000,3664147,4396976
+2011,2,General Rates,030,,,,,,,,9957161,9375000,9385000,11011000
+2011,3,Bets and sweeps tax,010,,,,,,,,12767135,13175000,14629000,14240000
+2011,3,Profits tax,030,020,Earnings and profits tax,,,,,,76605363,78500000,93500000,96900000
+2011,3,Personal assessment,030,030,Earnings and profits tax,,,,,,3655847,3180000,3850000,3830000
+2011,3,Property tax,030,040,Earnings and profits tax,,,,,,1677621,1500000,1650000,1650000
+2011,3,Salaries tax,030,050,Earnings and profits tax,,,,,,41245415,39810000,47000000,43220000
+2011,3,Estate duty,050,,Earnings and profits tax,,,,,,185040,70000,190000,50000
+2011,3,Stamp duties,070,,Earnings and profits tax,,,,,,42382613,30000000,51000000,40000000
+2011,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1616767,1669243,1809043,1879118
+2011,4,First registration,010,,,,,,,,4816338,4552883,6199158,7493607
+2011,5,Court fines and statutory penalties,010,,,,,,,,480409,528959,503622,500155
+2011,5,Forfeitures,020,,,,,,,,257463,28684,166252,34389
+2011,5,Fixed penalty system (Traffic Contraventions) .,030,,,,,,,,241185,246888,239598,246781
+2011,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,201189,206564,196758,202660
+2011,5,Payments by civil servants,050,,,,,,,,2569,2100,2069,1694
+2011,6,Quarries and mining,020,,,,,,,,45731,46000,48800,55200
+2011,6,Bridges and tunnels,030,,,,,,,,698948,1263806,1314124,1316877
+2011,6,Petrol filling,070,,,,,,,,1620,1631,1745,1789
+2011,6,Parking,100,,,,,,,,359599,344498,353002,352920
+2011,6,Vehicle examination,170,,,,,,,,42264,38805,39394,39394
+2011,6,Slaughterhouse concessions,201,,,,,,,,26478,28000,30372,30372
+2011,6,Other royalties and concessions,202,,,,,,,,421970,443560,593967,613621
+2011,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,,,1747793,1724195,1690643,1774516
+2011,7,Rents from government quarters,020,,,,,,,,723458,701515,682565,671949
+2011,7,Rents from government properties,030,,,,,,,,1142489,1260987,1237536,1257759
+2011,7,Investment income and interest,040,,,,,,,,17892185,15564000,17821179,19283000
+2011,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,3119833,3480989,5802380,4905967
+2011,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,864100,118472,142205,142075
+2011,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,5867677,6004000,6224000,6927000
+2011,9,Repayments of loans and advances,010,,,,,,,,791,143,179,
+2011,9,Pension contributions,020,,,,,,,,14023,12933,12337,11405
+2011,9,Recovery of salaries and staff on-costs,030,,,,,,,,2144139,2216066,2161260,2191708
+2011,9,Light and fuel in government buildings,040,,,,,,,,26638,26830,26881,27086
+2011,9,Recovery of overpayments and losses,050,,,,,,,,914507,411654,416877,355698
+2011,9,Transfers from Funds,080,,,,,,,,,,,1800000
+2011,9,Other receipts,090,,,,,,,,5945633,1697128,1260975,1323310
+2011,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,174712,68857,232670,122205
+2011,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,3107,3082,3082,3078
+2011,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,26,188,229,191
+2011,10,Berthing fee,040,010,Marine ferry terminals,,,,,,47676,57307,50923,54326
+2011,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,128395,128941,144758,149505
+2011,10,Others,040,030,Marine ferry terminals,,,,,,6913,7127,6910,6919
+2011,10,Chargeable water,070,010,Waterworks,,,,,,2491308,2467200,2526200,2554000
+2011,10,Fees and licences,070,020,Waterworks,,,,,,13269,13760,13760,13760
+2011,10,Others,070,040,Waterworks,,,,,,8354,12000,13774,11636
+2011,10,Sewage charge,080,010,Sewage services,,,,,,551109,606500,603400,667300
+2011,10,Trade effluent surcharge,080,020,Sewage services,,,,,,188830,185100,194200,195200
+2011,10,Others,080,030,Sewage services,,,,,,1981,2536,2713,2740
+2011,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,,,57195,68707,68021,67989
+2011,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,438,595,520,590
+2011,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,30578,29694,30285,30290
+2011,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,8959,9194,8911,9227
+2011,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,10181,5907,7739,4743
+2011,11,Others,025,030,Architectural Services Department,,,,,,377,362,561,561
+2011,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,14835,10503,8485,9006
+2011,11,Civil Aid Service,027,,Architectural Services Department,,,,,,156,124,84,124
+2011,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,660040,676483,674850,692560
+2011,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,179651,176602,201119,216465
+2011,11,Licences,028,030,Civil Aviation Department,,,,,,60315,66316,66830,67528
+2011,11,Others,028,040,Civil Aviation Department,,,,,,1102,1182,1037,1066
+2011,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,292,200,498,510
+2011,11,Laundry charges,030,015,Correctional Services Department,,,,,,2978,3006,2965,2965
+2011,11,Others,030,020,Correctional Services Department,,,,,,366,398,236,236
+2011,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,1235897,1226134,1463182,1486595
+2011,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,298,296,317,339
+2011,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,317,317,112,112
+2011,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,1237,1272,1442,1442
+2011,11,Import and export licences,031,071,Customs and Excise Department,,,,,,1855,1762,1994,2012
+2011,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,616,597,664,665
+2011,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1356,1331,1471,1456
+2011,11,Storage fees,031,090,Customs and Excise Department,,,,,,,1,1,1
+2011,11,Others,031,100,Customs and Excise Department,,,,,,12453,18004,20419,17097
+2011,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,88664,81257,110969,113008
+2011,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,514,100950,31959,8426
+2011,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,1206,2400,1780,2100
+2011,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,8772,26000,21000,28580
+2011,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,6862,9435,9225,8590
+2011,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,158391,220000,220000,330000
+2011,11,Others,033,030,Civil Engineering and Development Department,,,,,,193,246,413,394
+2011,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,23929,24602,24327,24808
+2011,11,Out-patient charges,037,030,Department of Health,,,,,,32447,32467,32224,32073
+2011,11,Dental charges,037,040,Department of Health,,,,,,8174,8168,8020,7820
+2011,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,29665,28313,29887,29985
+2011,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,25010,24206,25152,25549
+2011,11,Others,037,070,Department of Health,,,,,,523,485,587,593
+2011,11,Works executed on private account,039,010,Drainage Services Department,,,,,,1,24,25,20
+2011,11,Others,039,030,Drainage Services Department,,,,,,841,737,875,865
+2011,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,30299,33680,33680,34858
+2011,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,36343,49056,49615,40215
+2011,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,12,20,20,20
+2011,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,29134,29000,26500,26800
+2011,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,37723,45000,16000,14500
+2011,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,55907,54000,58000,58000
+2011,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,9492,9429,10086,9911
+2011,11,Producer Responsibility Scheme,044,025,Environmental Protection Department,,,,,,13112,26000,24600,24600
+2011,11,Others,044,030,Environmental Protection Department,,,,,,1733,387,281,296
+2011,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,10596,10244,10036,10036
+2011,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,6035,5803,6772,6772
+2011,11,Others,045,020,Fire Services Department,,,,,,951,1103,724,724
+2011,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,6072,5987,6938,6551
+2011,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,6499,7219,6399,6076
+2011,11,Others,048,020,Government Laboratory,,,,,,5461,5912,6732,6884
+2011,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,130651,219587,243651,274318
+2011,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,22796,22864,23276,23276
+2011,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,125516,61023,66924,65268
+2011,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,2666,9111,2953,4296
+2011,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,55732,67964,67091,67522
+2011,11,Others,051,020,Government Property Agency,,,,,,7292,5273,4025,4166
+2011,11,Government Secretariat: Commerce and Economic Development Bureau (Communications and Technology Branch),055,,Government Property Agency,,,,,,595,700,800,850
+2011,11,Printing services,059,010,Government Logistics Department,,,,,,239700,230000,227039,237000
+2011,11,Advertisements,059,020,Government Logistics Department,,,,,,25607,22000,23099,22700
+2011,11,Government transport,059,030,Government Logistics Department,,,,,,17040,18018,19791,19869
+2011,11,Others,059,040,Government Logistics Department,,,,,,10034,9111,8089,8337
+2011,11,Works executed on private account,060,010,Highways Department,,,,,,624,3274,3057,2743
+2011,11,Excavation permits,060,020,Highways Department,,,,,,120912,130505,128974,128859
+2011,11,Others,060,030,Highways Department,,,,,,2374,1680,1680,1680
+2011,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,3907,4970,5046,7564
+2011,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,14087,15039,12829,15151
+2011,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,41,42,46,55
+2011,11,Others,063,030,Home Affairs Department,,,,,,3055,3298,2949,2949
+2011,11,Chinese nationality applications,070,012,Immigration Department,,,,,,3414,3277,3218,2860
+2011,11,Travel documents,070,020,Immigration Department,,,,,,189643,199878,228400,223232
+2011,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,103110,116781,122350,127850
+2011,11,Certification fees,070,040,Immigration Department,,,,,,8023,9208,9335,11159
+2011,11,Replacement of identity cards,070,060,Immigration Department,,,,,,37255,37225,36543,37891
+2011,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,38516,39444,39727,42272
+2011,11,Marriage registration fees,070,080,Immigration Department,,,,,,59706,54291,56729,58283
+2011,11,Others,070,090,Immigration Department,,,,,,16412,13332,12786,12422
+2011,11,Sale of publications,074,010,Information Services Department,,,,,,6627,7565,6565,6265
+2011,11,Others,074,020,Information Services Department,,,,,,468,510,450,440
+2011,11,Business registration fees,076,010,Inland Revenue Department,,,,,,578647,26000,38000,1100000
+2011,11,Others,076,020,Inland Revenue Department,,,,,,16190,17562,16390,17513
+2011,11,Patents fees,078,010,Intellectual Property Department,,,,,,17800,17292,18164,18164
+2011,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,80224,84913,70394,70394
+2011,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,7292,7405,7783,7783
+2011,11,Others,078,040,Intellectual Property Department,,,,,,104,59,64,64
+2011,11,Commission,080,010,Judiciary,,,,,,8635,9615,9349,5317
+2011,11,Court fees,080,020,Judiciary,,,,,,154125,168588,141965,141965
+2011,11,Possession,080,030,Judiciary,,,,,,543,483,525,525
+2011,11,Others,080,040,Judiciary,,,,,,12151,12041,12522,12512
+2011,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,139288,163439,199340,196194
+2011,11,Works executed on private account,082,020,Buildings Department,,,,,,156,104,90,90
+2011,11,Others,082,030,Buildings Department,,,,,,1253,1024,986,1188
+2011,11,Labour Department,090,,Buildings Department,,,,,,21966,21905,21281,22072
+2011,11,Administrative and legal land services,091,010,Lands Department,,,,,,56941,47238,49045,49074
+2011,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,4138,2771,3187,2678
+2011,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,114,118,197,311
+2011,11,Excavation permits,091,020,Lands Department,,,,,,10527,10436,10817,10876
+2011,11,Works executed on private account,091,040,Lands Department,,,,,,523,275,313,300
+2011,11,Services to KCRC,091,042,Lands Department,,,,,,5332,27221,,
+2011,11,Services to MTRCL,091,046,Lands Department,,,,,,16990,47208,16293,72672
+2011,11,Others,091,050,Lands Department,,,,,,20154,19399,21121,20315
+2011,11,Department of Justice,092,,Lands Department,,,,,,5327,2333,5295,4371
+2011,11,Legal Aid Department,094,,Lands Department,,,,,,191239,197969,250371,234046
+2011,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,573685,563240,608395,586156
+2011,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,37113,38288,38582,38398
+2011,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,634,653,609,609
+2011,11,Others,095,040,Leisure and Cultural Services Department,,,,,,25559,26094,26713,26608
+2011,11,Anchorage,100,010,Marine Department,,,,,,27865,30900,26600,26600
+2011,11,Buoy,100,020,Marine Department,,,,,,22619,22650,20700,20700
+2011,11,Permit fees,100,030,Marine Department,,,,,,104508,105580,110622,110630
+2011,11,Cargo working area charges,100,040,Marine Department,,,,,,117026,120398,121318,121318
+2011,11,Examination and registration fees,100,050,Marine Department,,,,,,69133,52529,85154,79213
+2011,11,Vessel licences,100,070,Marine Department,,,,,,20315,27380,29700,32400
+2011,11,Port and light dues,100,080,Marine Department,,,,,,230779,232056,248620,248620
+2011,11,Port clearance fees,100,090,Marine Department,,,,,,14877,13100,12600,12600
+2011,11,Survey fees,100,100,Marine Department,,,,,,27246,24011,22582,22582
+2011,11,Others,100,110,Marine Department,,,,,,5395,4322,4735,4500
+2011,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,94870,72990,88927,78982
+2011,11,Liquidation,116,020,Official Receiver’s Office,,,,,,79063,31764,100487,100500
+2011,11,Others,116,030,Official Receiver’s Office,,,,,,161,209,150,120
+2011,11,Certificates of no criminal record,122,010,Hong Kong Police Force,,,,,,3923,4057,4339,4339
+2011,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1283,1223,1203,1203
+2011,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,9211,10778,8301,8301
+2011,11,Others,122,030,Hong Kong Police Force,,,,,,5703,5650,5705,5705
+2011,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,7889,7623,7199,7383
+2011,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,3007,3000,3017,3017
+2011,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,214,452,570,455
+2011,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,42032,42260,41579,41579
+2011,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,6,6,4,4
+2011,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,14602,15845,15222,14983
+2011,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,26,50,62,37
+2011,11,"Government Secretariat: Commerce and Economic Development Bureau (Commerce, Industry and Tourism Branch)",152,,Government Secretariat: Security Bureau,,,,,,1958,7209,7311,10202
+2011,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,7322,7975,7808,8459
+2011,11,School fees for senior secondary classes,156,011,Government Secretariat: Education Bureau,,,,,,4,,,
+2011,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education Bureau,,,,,,3937,4764,4760,4592
+2011,11,Others,156,030,Government Secretariat: Education Bureau,,,,,,3598,3720,3565,3424
+2011,11,Radio Television Hong Kong,160,,Government Secretariat: Education Bureau,,,,,,1064,834,960,960
+2011,11,Rating and Valuation Department,162,,Government Secretariat: Education Bureau,,,,,,5281,5239,5290,5358
+2011,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,80124,84685,83048,87684
+2011,11,Others,168,020,Hong Kong Observatory,,,,,,1504,1430,1445,1393
+2011,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,15693,14741,15203,15050
+2011,11,Others,170,020,Social Welfare Department,,,,,,4080,3627,3992,3974
+2011,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,22450,26448,26914,29846
+2011,11,Entertainment licences,180,010,Television and Entertainment Licensing Authority,,,,,,17314,18820,18866,18491
+2011,11,Film censorship fees,180,020,Television and Entertainment Licensing Authority,,,,,,2907,2753,3039,3039
+2011,11,Broadcasting licences,180,025,Television and Entertainment Licensing Authority,,,,,,35970,35171,38406,35466
+2011,11,Others,180,030,Television and Entertainment Licensing Authority,,,,,,803,569,583,576
+2011,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,521,250,448,471
+2011,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,1448,1009,1313,929
+2011,11,Others,181,040,Trade and Industry Department,,,,,,23296,18579,22283,20364
+2011,11,Vehicle and driving licences,186,010,Transport Department,,,,,,2780978,3025574,3115366,3344549
+2011,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,251439,243044,272095,275878
+2011,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,1793,1670,1753,1823
+2011,11,Vehicle examination fees,186,050,Transport Department,,,,,,59638,55776,62407,64107
+2011,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,38784,38513,35763,32783
+2011,11,Others,186,060,Transport Department,,,,,,9275,11343,12489,13676
+2011,11,Others,188,040,Treasury,,,,,,45142,44470,41906,43469
+2011,11,Other bureaux/departments,200,,Treasury,,,,,,20142,15260,16525,15780
+2012,1,Hydrocarbon oils,010,,,,,,,,3026665,3101799,3144190,3271239
+2012,1,Alcoholic beverages,020,,,,,,,,298345,289558,344032,350374
+2012,1,Other alcohol products,030,,,,,,,,5132,9535,5132,5132
+2012,1,Tobacco,050,,,,,,,,4220944,4396976,4704900,4704900
+2012,2,General Rates,030,,,,,,,,8955850,11011000,9693000,10471000
+2012,3,Bets and sweeps tax,010,,,,,,,,14759060,14240000,15714000,15827000
+2012,3,Interest tax,030,010,Earnings and profits tax,,,,,,169,,,
+2012,3,Profits tax,030,020,Earnings and profits tax,,,,,,93183050,96900000,118000000,105580000
+2012,3,Personal assessment,030,030,Earnings and profits tax,,,,,,3921584,3830000,4200000,4700000
+2012,3,Property tax,030,040,Earnings and profits tax,,,,,,1647134,1650000,1900000,2000000
+2012,3,Salaries tax,030,050,Earnings and profits tax,,,,,,44254738,43220000,52000000,49340000
+2012,3,Estate duty,050,,Earnings and profits tax,,,,,,212843,50000,90000,70000
+2012,3,Stamp duties,070,,Earnings and profits tax,,,,,,51005062,40000000,42000000,37000000
+2012,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1813594,1879118,1928670,1987833
+2012,4,First registration,010,,,,,,,,6657392,7493607,7544495,7360111
+2012,5,Court fines and statutory penalties,010,,,,,,,,528982,500155,479807,448855
+2012,5,Forfeitures,020,,,,,,,,180822,34389,1621336,81940
+2012,5,Fixed penalty system (Traffic Contraventions),030,,,,,,,,248915,246781,258640,266393
+2012,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,198460,202660,191822,197577
+2012,5,Payments by civil servants,050,,,,,,,,1868,1694,2929,2362
+2012,5,Fixed penalty system (Motor Vehicle Idling),060,,,,,,,,,,16,1152
+2012,6,Quarries and mining,020,,,,,,,,49781,55200,58040,54700
+2012,6,Bridges and tunnels,030,,,,,,,,1372790,1316877,1372202,1369465
+2012,6,Petrol filling,070,,,,,,,,1767,1789,1871,1920
+2012,6,Parking,100,,,,,,,,361429,352920,383174,393324
+2012,6,Vehicle examination,170,,,,,,,,40516,39394,39658,39658
+2012,6,Slaughterhouse concessions,201,,,,,,,,31114,30372,28179,28179
+2012,6,Other royalties and concessions,202,,,,,,,,594046,613621,2476908,1209164
+2012,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,,,1764557,1774516,1729770,1775312
+2012,7,Rents from government quarters,020,,,,,,,,691548,671949,737324,737151
+2012,7,Rents from government properties,030,,,,,,,,1243078,1257759,1521887,1328537
+2012,7,Investment income and interest,040,,,,,,,,17823701,19283000,20037200,19171000
+2012,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,5802380,4905967,6204187,6404187
+2012,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,142204,142075,162375,204533
+2012,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,6304693,6927000,6470000,7289000
+2012,9,Repayments of loans and advances,010,,,,,,,,254,,206,
+2012,9,Pension contributions,020,,,,,,,,12641,11405,11946,11163
+2012,9,Recovery of salaries and staff on-costs,030,,,,,,,,2144530,2191708,2315488,2357509
+2012,9,Light and fuel in government buildings,040,,,,,,,,28575,27086,22866,22887
+2012,9,Recovery of overpayments and losses,050,,,,,,,,464888,355698,805856,382701
+2012,9,Transfers from Funds,080,,,,,,,,,1800000,1800000,500000
+2012,9,Other receipts,090,,,,,,,,1212139,1323310,2609053,5878129
+2012,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,232671,122205,227575,125749
+2012,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,3082,3078,3078,3174
+2012,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,100,191,248,234
+2012,10,Berthing fee,040,010,Marine ferry terminals,,,,,,54495,54326,50854,51480
+2012,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,144752,149505,156010,162509
+2012,10,Others,040,030,Marine ferry terminals,,,,,,6876,6919,6909,6909
+2012,10,Chargeable water,070,010,Waterworks,,,,,,2445027,2554000,2531100,2550800
+2012,10,Fees and licences,070,020,Waterworks,,,,,,12158,13760,13450,13450
+2012,10,Others,070,040,Waterworks,,,,,,16280,11636,13530,13200
+2012,10,Sewage charge,080,010,Sewage services,,,,,,596194,667300,661900,731400
+2012,10,Trade effluent surcharge,080,020,Sewage services,,,,,,204461,195200,202200,201000
+2012,10,Others,080,030,Sewage services,,,,,,3114,2740,3050,3060
+2012,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,,,67303,67989,68602,74965
+2012,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,505,590,505,445
+2012,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,30950,30290,31497,31534
+2012,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,8655,9227,9455,10319
+2012,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,4153,4743,4827,1825
+2012,11,Others,025,030,Architectural Services Department,,,,,,415,561,344,344
+2012,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,8762,9006,10275,9316
+2012,11,Civil Aid Service,027,,Architectural Services Department,,,,,,77,124,80,88
+2012,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,666026,692560,721150,731588
+2012,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,200301,216465,214008,216994
+2012,11,Licences,028,030,Civil Aviation Department,,,,,,65261,67528,74100,79918
+2012,11,Others,028,040,Civil Aviation Department,,,,,,991,1066,1889,1864
+2012,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,801,510,471,490
+2012,11,Laundry charges,030,015,Correctional Services Department,,,,,,2997,2965,3096,3096
+2012,11,Others,030,020,Correctional Services Department,,,,,,255,236,308,308
+2012,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,1514735,1486595,1617982,1020037
+2012,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,365,339,452,524
+2012,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,112,112,83,83
+2012,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,1264,1442,735,735
+2012,11,Import and export licences,031,071,Customs and Excise Department,,,,,,2116,2012,2417,2417
+2012,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,665,665,664,665
+2012,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1504,1456,1463,1450
+2012,11,Storage fees,031,090,Customs and Excise Department,,,,,,,1,1,1
+2012,11,Others,031,100,Customs and Excise Department,,,,,,24703,17097,13057,20057
+2012,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,116064,113008,123051,51051
+2012,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,18121,8426,14057,238594
+2012,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,2297,2100,3080,2920
+2012,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,24697,28580,34000,37100
+2012,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,12139,8590,3015,3015
+2012,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,254459,330000,280000,280000
+2012,11,Others,033,030,Civil Engineering and Development Department,,,,,,589,394,450,310
+2012,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,23294,24808,23262,24433
+2012,11,Out-patient charges,037,030,Department of Health,,,,,,32466,32073,31083,31165
+2012,11,Dental charges,037,040,Department of Health,,,,,,7979,7820,7810,7610
+2012,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,28797,29985,29157,29173
+2012,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,25572,25549,26648,28208
+2012,11,Others,037,070,Department of Health,,,,,,546,593,493,474
+2012,11,Works executed on private account,039,010,Drainage Services Department,,,,,,43,20,20,20
+2012,11,Others,039,030,Drainage Services Department,,,,,,817,865,842,832
+2012,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,34207,34858,36431,38070
+2012,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,50553,40215,40483,38110
+2012,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,16,20,15,15
+2012,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,28199,26800,28000,28000
+2012,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,13414,14500,5500,5500
+2012,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,69951,58000,111750,114500
+2012,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,10998,9911,10723,10999
+2012,11,Producer Responsibility Scheme,044,025,Environmental Protection Department,,,,,,24909,24600,25500,25500
+2012,11,Others,044,030,Environmental Protection Department,,,,,,2388,296,283,287
+2012,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,10544,10036,10303,10303
+2012,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,6768,6772,6640,6640
+2012,11,Others,045,020,Fire Services Department,,,,,,830,724,972,972
+2012,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,6938,6551,7378,6906
+2012,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,5992,6076,6076,7376
+2012,11,Others,048,020,Government Laboratory,,,,,,6015,6884,6884,5794
+2012,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,245625,274318,279007,279767
+2012,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,22962,23276,20885,20885
+2012,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,66622,65268,65220,65273
+2012,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,3142,4296,4258,2681
+2012,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,85140,67522,66393,65381
+2012,11,Others,051,020,Government Property Agency,,,,,,4621,4166,4773,4166
+2012,11,Government Secretariat: Commerce and Economic Development Bureau (Communications and Technology Branch),055,,Government Property Agency,,,,,,1051,850,1287,1212
+2012,11,Printing services,059,010,Government Logistics Department,,,,,,226052,237000,231210,240220
+2012,11,Advertisements,059,020,Government Logistics Department,,,,,,21616,22700,21113,20256
+2012,11,Government transport,059,030,Government Logistics Department,,,,,,19647,19869,21382,22439
+2012,11,Others,059,040,Government Logistics Department,,,,,,8176,8337,7267,7011
+2012,11,Works executed on private account,060,010,Highways Department,,,,,,2409,2743,6296,2279
+2012,11,Excavation permits,060,020,Highways Department,,,,,,130000,128859,135767,135767
+2012,11,Others,060,030,Highways Department,,,,,,1546,1680,1600,1600
+2012,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,4954,7564,9277,5395
+2012,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,12866,15151,15723,15294
+2012,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,63,55,35,59
+2012,11,Entertainment licences,063,021,Home Affairs Department,,,,,,,,,18543
+2012,11,Others,063,030,Home Affairs Department,,,,,,3144,2949,3210,3231
+2012,11,Chinese nationality applications,070,012,Immigration Department,,,,,,3127,2860,3433,3250
+2012,11,Travel documents,070,020,Immigration Department,,,,,,213055,223232,233143,238972
+2012,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,117223,127850,131621,137840
+2012,11,Certification fees,070,040,Immigration Department,,,,,,9987,11159,9808,9898
+2012,11,Replacement of identity cards,070,060,Immigration Department,,,,,,37578,37891,36994,39287
+2012,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,42052,42272,45963,49521
+2012,11,Marriage registration fees,070,080,Immigration Department,,,,,,58067,58283,60275,61443
+2012,11,Others,070,090,Immigration Department,,,,,,12569,12422,14594,15097
+2012,11,Sale of publications,074,010,Information Services Department,,,,,,6436,6265,6315,6365
+2012,11,Others,074,020,Information Services Department,,,,,,546,440,440,440
+2012,11,Business registration fees,076,010,Inland Revenue Department,,,,,,35752,1100000,1200000,25000
+2012,11,Others,076,020,Inland Revenue Department,,,,,,15232,17513,19031,18756
+2012,11,Patents fees,078,010,Intellectual Property Department,,,,,,18435,18164,18029,18029
+2012,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,70188,70394,78685,78685
+2012,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,7999,7783,7935,7935
+2012,11,Others,078,040,Intellectual Property Department,,,,,,66,64,98,98
+2012,11,Commission,080,010,Judiciary,,,,,,9093,5317,7664,7502
+2012,11,Court fees,080,020,Judiciary,,,,,,141416,141965,141002,133961
+2012,11,Possession,080,030,Judiciary,,,,,,484,525,404,404
+2012,11,Others,080,040,Judiciary,,,,,,12664,12512,12918,12936
+2012,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,364616,196194,151524,149832
+2012,11,Works executed on private account,082,020,Buildings Department,,,,,,19,90,14,2134
+2012,11,Others,082,030,Buildings Department,,,,,,840,1188,831,952
+2012,11,Labour Department,090,,Buildings Department,,,,,,21573,22072,22104,23957
+2012,11,Administrative and legal land services,091,010,Lands Department,,,,,,55178,49074,53511,53216
+2012,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,3428,2678,2091,2062
+2012,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,304,311,254,260
+2012,11,Excavation permits,091,020,Lands Department,,,,,,11189,10876,10981,11248
+2012,11,Works executed on private account,091,040,Lands Department,,,,,,351,300,326,326
+2012,11,Services to KCRC,091,042,Lands Department,,,,,,,,,
+2012,11,Services to MTRCL,091,046,Lands Department,,,,,,14288,72672,73503,44693
+2012,11,Others,091,050,Lands Department,,,,,,20103,20315,19905,20680
+2012,11,Department of Justice,092,,Lands Department,,,,,,4239,4371,6154,4962
+2012,11,Legal Aid Department,094,,Lands Department,,,,,,239863,234046,274882,255821
+2012,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,618089,586156,613717,622766
+2012,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,37867,38398,39391,39432
+2012,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,596,609,609,609
+2012,11,Others,095,040,Leisure and Cultural Services Department,,,,,,29347,26608,26642,26575
+2012,11,Anchorage,100,010,Marine Department,,,,,,29385,26600,34840,34840
+2012,11,Buoy,100,020,Marine Department,,,,,,21113,20700,21200,21200
+2012,11,Permit fees,100,030,Marine Department,,,,,,111771,110630,112640,112640
+2012,11,Cargo working area charges,100,040,Marine Department,,,,,,120580,121318,127152,129990
+2012,11,Examination and registration fees,100,050,Marine Department,,,,,,87772,79213,91018,94881
+2012,11,Vessel licences,100,070,Marine Department,,,,,,30564,32400,39370,39370
+2012,11,Port and light dues,100,080,Marine Department,,,,,,251050,248620,210280,167280
+2012,11,Port clearance fees,100,090,Marine Department,,,,,,12579,12600,12410,12410
+2012,11,Survey fees,100,100,Marine Department,,,,,,27039,22582,25286,24162
+2012,11,Others,100,110,Marine Department,,,,,,5433,4500,5171,4872
+2012,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,102548,78982,82895,70557
+2012,11,Liquidation,116,020,Official Receiver’s Office,,,,,,114749,100500,145327,141750
+2012,11,Others,116,030,Official Receiver’s Office,,,,,,78,120,58,58
+2012,11,Confirmation of criminal record,122,010,Hong Kong Police Force,,,,,,3991,4339,4603,7986
+2012,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1211,1203,1265,1265
+2012,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,8097,8301,11954,11954
+2012,11,Others,122,030,Hong Kong Police Force,,,,,,5877,5705,6145,6145
+2012,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,7224,7383,7214,7299
+2012,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,2788,3017,3431,3431
+2012,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,523,455,559,559
+2012,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,42380,41579,41122,41122
+2012,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,5,4,4,4
+2012,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,14838,14983,15574,14937
+2012,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,66,37,34,33
+2012,11,"Government Secretariat: Commerce and Economic Development Bureau (Commerce, Industry and Tourism Branch)",152,,Government Secretariat: Security Bureau,,,,,,8083,10202,10175,10611
+2012,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,8274,8459,8392,8712
+2012,11,School fees for senior secondary classes,156,011,Government Secretariat: Education Bureau,,,,,,,,,
+2012,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education Bureau,,,,,,4760,4592,4600,5100
+2012,11,Others,156,030,Government Secretariat: Education Bureau,,,,,,3256,3424,3300,3300
+2012,11,Radio Television Hong Kong,160,,Government Secretariat: Education Bureau,,,,,,1040,960,1031,1201
+2012,11,Rating and Valuation Department,162,,Government Secretariat: Education Bureau,,,,,,5064,5358,5249,5179
+2012,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,83137,87684,92334,96379
+2012,11,Others,168,020,Hong Kong Observatory,,,,,,1475,1393,1505,1479
+2012,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,15201,15050,15194,15340
+2012,11,Others,170,020,Social Welfare Department,,,,,,3970,3974,4115,1418
+2012,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,25706,29846,28364,31350
+2012,11,Entertainment licences,180,010,"Office for Film, Newspaper and Article Administration",,,,,,17489,18491,18728,
+2012,11,Film censorship fees,180,020,"Office for Film, Newspaper and Article Administration",,,,,,3129,3039,3043,3043
+2012,11,Broadcasting licences,180,025,"Office for Film, Newspaper and Article Administration",,,,,,32218,35466,45735,
+2012,11,Others,180,030,"Office for Film, Newspaper and Article Administration",,,,,,598,576,1386,587
+2012,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,437,471,361,363
+2012,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,1296,929,836,684
+2012,11,Others,181,040,Trade and Industry Department,,,,,,21916,20364,18844,17118
+2012,11,Vehicle and driving licences,186,010,Transport Department,,,,,,3163766,3344549,3418608,3516395
+2012,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,271121,275878,284894,289690
+2012,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,1427,1823,1682,1765
+2012,11,Vehicle examination fees,186,050,Transport Department,,,,,,65559,64107,64570,64570
+2012,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,35557,32783,31238,28635
+2012,11,Others,186,060,Transport Department,,,,,,11992,13676,13406,13757
+2012,11,Others,188,040,Treasury,,,,,,42197,43469,47202,48066
+2012,11,Other bureaux/departments,200,,Treasury,,,,,,16640,15780,15792,15889
+2013,1,Hydrocarbon oils,010,,,,,,,,3146665,3271239,3292564,3436958
+2013,1,Alcoholic beverages,020,,,,,,,,363547,350374,375279,390109
+2013,1,Other alcohol products,030,,,,,,,,7921,5132,7921,7921
+2013,1,Tobacco,050,,,,,,,,4206609,4704900,4960806,4960806
+2013,2,General Rates,030,,,,,,,,9722268,10471000,10939000,12971000
+2013,3,Bets and sweeps tax,010,,,,,,,,15760595,15827000,16298000,16443490
+2013,3,Interest tax,030,010,Earnings and profits tax,,,,,,68,,,
+2013,3,Profits tax,030,020,Earnings and profits tax,,,,,,118599871,105580000,128500000,131000000
+2013,3,Personal assessment,030,030,Earnings and profits tax,,,,,,4512151,4700000,4100000,4900000
+2013,3,Property tax,030,040,Earnings and profits tax,,,,,,1948429,2000000,2300000,2500000
+2013,3,Salaries tax,030,050,Earnings and profits tax,,,,,,51761323,49340000,51500000,51000000
+2013,3,Estate duty,050,,Earnings and profits tax,,,,,,94174,70000,130000,70000
+2013,3,Stamp duties,070,,Earnings and profits tax,,,,,,44355853,37000000,43000000,40000000
+2013,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1947671,1987833,2022034,2062480
+2013,4,First registration,010,,,,,,,,7070073,7360111,7759622,7651649
+2013,5,Court fines and statutory penalties,010,,,,,,,,537334,448855,517363,464665
+2013,5,Forfeitures,020,,,,,,,,1648936,81940,84497,64587
+2013,5,Fixed penalty system (Traffic Contraventions),030,,,,,,,,276709,266393,295778,304641
+2013,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,193227,197577,214642,221081
+2013,5,Payments by civil servants,050,,,,,,,,3441,2362,3087,2490
+2013,5,Fixed penalty system (Motor Vehicle Idling),060,,,,,,,,,1152,2,2
+2013,6,Quarries and mining,020,,,,,,,,57168,54700,61643,53012
+2013,6,Bridges and tunnels,030,,,,,,,,1395857,1369465,1370600,1416433
+2013,6,Petrol filling,070,,,,,,,,1787,1920,1880,1887
+2013,6,Parking,100,,,,,,,,381178,393324,400907,411108
+2013,6,Vehicle examination,170,,,,,,,,41689,39658,38539,32359
+2013,6,Slaughterhouse concessions,201,,,,,,,,29651,28179,31417,31417
+2013,6,Other royalties and concessions,202,,,,,,,,2941919,1209164,791647,1586256
+2013,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,,,2008048,1775312,1718302,1776103
+2013,7,Rents from government quarters,020,,,,,,,,756774,737151,789996,783469
+2013,7,Rents from government properties,030,,,,,,,,1531845,1328537,1354135,1348360
+2013,7,Investment income and interest,040,,,,,,,,20105273,19171000,20053468,19365000
+2013,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,6204186,6404187,7270260,7270260
+2013,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,162375,204533,229973,67106
+2013,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,6470471,7289000,7784000,7915000
+2013,9,Repayments of loans and advances,010,,,,,,,,344,,290,
+2013,9,Pension contributions,020,,,,,,,,12642,11163,10408,9684
+2013,9,Recovery of salaries and staff on-costs,030,,,,,,,,2313090,2357509,2518332,2608233
+2013,9,Light and fuel in government buildings,040,,,,,,,,24856,22887,26490,26499
+2013,9,Recovery of overpayments and losses,050,,,,,,,,842863,382701,635901,595655
+2013,9,Transfers from Funds,080,,,,,,,,1800000,500000,500000,1000000
+2013,9,Other receipts,090,,,,,,,,2358767,5878129,16171319,5227920
+2013,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,227574,125749,195543,123149
+2013,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,3078,3174,3174,3280
+2013,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,309,234,508,256
+2013,10,Berthing fee,040,010,Marine ferry terminals,,,,,,48005,51480,46758,46758
+2013,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,146489,162509,155180,159910
+2013,10,Others,040,030,Marine ferry terminals,,,,,,6252,6909,7089,7089
+2013,10,Chargeable water,070,010,Waterworks,,,,,,2478737,2550800,2550000,2573000
+2013,10,Fees and licences,070,020,Waterworks,,,,,,13366,13450,15000,15700
+2013,10,Others,070,040,Waterworks,,,,,,16367,13200,13800,14200
+2013,10,Sewage charge,080,010,Sewage services,,,,,,654112,731400,723300,797000
+2013,10,Trade effluent surcharge,080,020,Sewage services,,,,,,206910,201000,204200,205000
+2013,10,Others,080,030,Sewage services,,,,,,2965,3060,3310,3310
+2013,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,,,66843,74965,70090,76284
+2013,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,437,445,395,395
+2013,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,32179,31534,33082,32093
+2013,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,9461,10319,9957,10006
+2013,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,2733,1825,2153,2147
+2013,11,Others,025,030,Architectural Services Department,,,,,,3367,344,542,542
+2013,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,12857,9316,8756,11951
+2013,11,Civil Aid Service,027,,Architectural Services Department,,,,,,75,88,235,197
+2013,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,721150,731588,735060,767426
+2013,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,218109,216994,242175,272670
+2013,11,Licences,028,030,Civil Aviation Department,,,,,,87406,79918,77469,87680
+2013,11,Others,028,040,Civil Aviation Department,,,,,,2512,1864,2630,2618
+2013,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,658,490,212,212
+2013,11,Laundry charges,030,015,Correctional Services Department,,,,,,3082,3096,3152,3152
+2013,11,Others,030,020,Correctional Services Department,,,,,,290,308,238,238
+2013,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,1645379,1020037,1131067,882909
+2013,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,391,524,394,416
+2013,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,83,83,63,63
+2013,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,800,735,450,450
+2013,11,Import and export licences,031,071,Customs and Excise Department,,,,,,2361,2417,2352,2352
+2013,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,709,665,709,665
+2013,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1523,1450,1543,1540
+2013,11,Storage fees,031,090,Customs and Excise Department,,,,,,,1,7,1
+2013,11,Others,031,100,Customs and Excise Department,,,,,,24581,20057,38862,23724
+2013,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,127236,51051,36375,8356
+2013,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,14035,238594,228048,41859
+2013,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,3267,2920,3246,3577
+2013,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,37729,37100,35375,27292
+2013,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,2783,3015,8911,6768
+2013,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,319816,280000,350000,260000
+2013,11,Others,033,030,Civil Engineering and Development Department,,,,,,633,310,464,596
+2013,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,24895,24433,23056,23856
+2013,11,Out-patient charges,037,030,Department of Health,,,,,,32186,31165,34873,35015
+2013,11,Dental charges,037,040,Department of Health,,,,,,7702,7610,7687,7600
+2013,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,29323,29173,30923,30919
+2013,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,26707,28208,29182,29556
+2013,11,Others,037,070,Department of Health,,,,,,521,474,805,793
+2013,11,Works executed on private account,039,010,Drainage Services Department,,,,,,11,20,325,290
+2013,11,Others,039,030,Drainage Services Department,,,,,,772,832,1189,798
+2013,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,30915,38070,32646,34441
+2013,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,40646,38110,39638,55376
+2013,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,3,15,15,15
+2013,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,23306,28000,16100,16100
+2013,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,5559,5500,4800,4800
+2013,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,110555,114500,121200,121200
+2013,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,12116,10999,11184,11359
+2013,11,Producer Responsibility Scheme,044,025,Environmental Protection Department,,,,,,26800,25500,29400,29400
+2013,11,Others,044,030,Environmental Protection Department,,,,,,346,287,273,273
+2013,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,10490,10303,10077,10077
+2013,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,6387,6640,6549,6549
+2013,11,Others,045,020,Fire Services Department,,,,,,1052,972,976,984
+2013,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,7326,6906,8248,8014
+2013,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,7424,7376,7376,8315
+2013,11,Others,048,020,Government Laboratory,,,,,,4606,5794,5794,6011
+2013,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,273386,279767,272976,242730
+2013,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,20944,20885,21906,21906
+2013,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,63288,65273,93381,127138
+2013,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,3863,2681,2565,2280
+2013,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,68046,65381,66195,65264
+2013,11,Others,051,020,Government Property Agency,,,,,,5367,4166,5012,4858
+2013,11,Government Secretariat: Commerce and Economic Development Bureau (Communications and Technology Branch),055,,Government Property Agency,,,,,,1166,1212,1042,1147
+2013,11,Printing services,059,010,Government Logistics Department,,,,,,234625,240220,249397,224486
+2013,11,Advertisements,059,020,Government Logistics Department,,,,,,19611,20256,20659,20000
+2013,11,Government transport,059,030,Government Logistics Department,,,,,,20216,22439,21382,22332
+2013,11,Others,059,040,Government Logistics Department,,,,,,7242,7011,13483,10355
+2013,11,Works executed on private account,060,010,Highways Department,,,,,,6303,2279,250,250
+2013,11,Excavation permits,060,020,Highways Department,,,,,,141746,135767,147174,147205
+2013,11,Others,060,030,Highways Department,,,,,,1533,1600,1600,1600
+2013,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,8174,5395,8894,7257
+2013,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,14510,15294,14548,14894
+2013,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,48,59,38,44
+2013,11,Entertainment licences,063,021,Home Affairs Department,,,,,,,18543,17826,17307
+2013,11,Others,063,030,Home Affairs Department,,,,,,3083,3231,2802,2803
+2013,11,Chinese nationality applications,070,012,Immigration Department,,,,,,3587,3250,3280,3273
+2013,11,Travel documents,070,020,Immigration Department,,,,,,234373,238972,262824,291908
+2013,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,118792,137840,115551,117337
+2013,11,Certification fees,070,040,Immigration Department,,,,,,9917,9898,11416,10666
+2013,11,Replacement of identity cards,070,060,Immigration Department,,,,,,38750,39287,38847,40750
+2013,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,44368,49521,44790,47258
+2013,11,Marriage registration fees,070,080,Immigration Department,,,,,,64238,61443,72210,78305
+2013,11,Others,070,090,Immigration Department,,,,,,10755,15097,16172,16381
+2013,11,Sale of publications,074,010,Information Services Department,,,,,,5987,6365,5665,5665
+2013,11,Others,074,020,Information Services Department,,,,,,362,440,280,280
+2013,11,Business registration fees,076,010,Inland Revenue Department,,,,,,1292919,25000,160000,13000
+2013,11,Others,076,020,Inland Revenue Department,,,,,,17900,18756,18000,18000
+2013,11,Patents fees,078,010,Intellectual Property Department,,,,,,20139,18029,18804,18804
+2013,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,76362,78685,78470,144654
+2013,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,8460,7935,8117,8117
+2013,11,Others,078,040,Intellectual Property Department,,,,,,140,98,228,228
+2013,11,Commission,080,010,Judiciary,,,,,,16619,7502,8221,8013
+2013,11,Court fees,080,020,Judiciary,,,,,,144933,133961,153690,153690
+2013,11,Possession,080,030,Judiciary,,,,,,361,404,314,314
+2013,11,Others,080,040,Judiciary,,,,,,12996,12936,13937,13937
+2013,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,158973,149832,173533,173843
+2013,11,Works executed on private account,082,020,Buildings Department,,,,,,48,2134,2245,48
+2013,11,Others,082,030,Buildings Department,,,,,,862,952,849,1586
+2013,11,Labour Department,090,,Buildings Department,,,,,,22038,23957,24125,25302
+2013,11,Administrative and legal land services,091,010,Lands Department,,,,,,53245,53216,56376,58544
+2013,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,3098,2062,2617,2447
+2013,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,285,260,251,251
+2013,11,Excavation permits,091,020,Lands Department,,,,,,10632,11248,11486,11506
+2013,11,Works executed on private account,091,040,Lands Department,,,,,,863,326,545,545
+2013,11,Services to KCRC,091,042,Lands Department,,,,,,,,33256,27551
+2013,11,Services to MTRCL,091,046,Lands Department,,,,,,74722,44693,38738,39867
+2013,11,Others,091,050,Lands Department,,,,,,20083,20680,22977,22742
+2013,11,Department of Justice,092,,Lands Department,,,,,,5096,4962,5507,2446
+2013,11,Legal Aid Department,094,,Lands Department,,,,,,249532,255821,213537,214808
+2013,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,650727,622766,652779,646355
+2013,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,38277,39432,39310,39475
+2013,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,526,609,616,616
+2013,11,Others,095,040,Leisure and Cultural Services Department,,,,,,28479,26575,28533,27090
+2013,11,Anchorage,100,010,Marine Department,,,,,,34295,34840,30500,30500
+2013,11,Buoy,100,020,Marine Department,,,,,,21625,21200,24567,23232
+2013,11,Permit fees,100,030,Marine Department,,,,,,109007,112640,109056,109056
+2013,11,Cargo working area charges,100,040,Marine Department,,,,,,123399,129990,128037,132294
+2013,11,Examination and registration fees,100,050,Marine Department,,,,,,95845,94881,110837,115467
+2013,11,Vessel licences,100,070,Marine Department,,,,,,36772,39370,39744,39744
+2013,11,Port and light dues,100,080,Marine Department,,,,,,208001,167280,195788,190701
+2013,11,Port clearance fees,100,090,Marine Department,,,,,,11938,12410,11582,11582
+2013,11,Survey fees,100,100,Marine Department,,,,,,26868,24162,21702,21988
+2013,11,Others,100,110,Marine Department,,,,,,5574,4872,5105,4975
+2013,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,147491,70557,94606,73991
+2013,11,Liquidation,116,020,Official Receiver’s Office,,,,,,128410,141750,40902,44075
+2013,11,Others,116,030,Official Receiver’s Office,,,,,,26,58,40,19
+2013,11,Confirmation of criminal record,122,010,Hong Kong Police Force,,,,,,4341,7986,9811,12988
+2013,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1299,1265,1429,1429
+2013,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,10801,11954,10982,10982
+2013,11,Others,122,030,Hong Kong Police Force,,,,,,6111,6145,7065,7053
+2013,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,8703,7299,7850,9103
+2013,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,2102,3431,6688,4385
+2013,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,571,559,600,600
+2013,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,45177,41122,39759,39759
+2013,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,3,4,4,4
+2013,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,15084,14937,15483,15693
+2013,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,51,33,35,35
+2013,11,"Government Secretariat: Commerce and Economic Development Bureau (Commerce, Industry and Tourism Branch)",152,,Government Secretariat: Security Bureau,,,,,,10109,10611,10556,11033
+2013,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,8859,8712,9319,9944
+2013,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education Bureau,,,,,,4724,5100,5100,5200
+2013,11,Others,156,030,Government Secretariat: Education Bureau,,,,,,3555,3300,3300,3300
+2013,11,Radio Television Hong Kong,160,,Government Secretariat: Education Bureau,,,,,,983,1201,1185,1195
+2013,11,Rating and Valuation Department,162,,Government Secretariat: Education Bureau,,,,,,3619,5179,7317,4545
+2013,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,86144,96379,94253,96844
+2013,11,Others,168,020,Hong Kong Observatory,,,,,,1501,1479,1673,1694
+2013,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,15395,15340,16219,16311
+2013,11,Others,170,020,Social Welfare Department,,,,,,4124,1418,1615,1557
+2013,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,27014,31350,30032,31521
+2013,11,Entertainment licences,180,010,"Office for Film, Newspaper and Article Administration",,,,,,12369,,,
+2013,11,Film censorship fees,180,020,"Office for Film, Newspaper and Article Administration",,,,,,3250,3043,3761,3761
+2013,11,Broadcasting licences,180,025,"Office for Film, Newspaper and Article Administration",,,,,,25453,,,
+2013,11,Others,180,030,"Office for Film, Newspaper and Article Administration",,,,,,1354,587,636,636
+2013,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,338,363,345,341
+2013,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,799,684,606,486
+2013,11,Others,181,040,Trade and Industry Department,,,,,,17109,17118,11804,10959
+2013,11,Vehicle and driving licences,186,010,Transport Department,,,,,,3409023,3516395,3538106,3671243
+2013,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,281818,289690,299916,302521
+2013,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,1600,1765,1726,1786
+2013,11,Vehicle examination fees,186,050,Transport Department,,,,,,64538,64570,65299,66981
+2013,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,30735,28635,28061,25723
+2013,11,Others,186,060,Transport Department,,,,,,12992,13757,13843,14192
+2013,11,Others,188,040,Treasury,,,,,,47308,48066,41093,46625
+2013,11,Other bureaux/departments,200,,Treasury,,,,,,16272,15889,18898,18200

@@ -1,0 +1,976 @@
+2013,1,Hydrocarbon oils,010,,,,,,,,3146665,3271239,3292564,3436958
+2013,1,Alcoholic beverages,020,,,,,,,,363547,350374,375279,390109
+2013,1,Other alcohol products,030,,,,,,,,7921,5132,7921,7921
+2013,1,Tobacco,050,,,,,,,,4206609,4704900,4960806,4960806
+2013,1,Total,,,,,,,,,7724742,8331645,8636570,8795794
+2013,2,General Rates,030,,,,,,,,9722268,10471000,10939000,12971000
+2013,2,Total,,,,,,,,,9722268,10471000,10939000,12971000
+2013,3,Bets and sweeps tax,010,,,,,,,,15760595,15827000,16298000,16443490
+2013,3,Interest tax,030,010,Earnings and profits tax,,,,,,68,,,
+2013,3,Profits tax,030,020,Earnings and profits tax,,,,,,118599871,105580000,128500000,131000000
+2013,3,Personal assessment,030,030,Earnings and profits tax,,,,,,4512151,4700000,4100000,4900000
+2013,3,Property tax,030,040,Earnings and profits tax,,,,,,1948429,2000000,2300000,2500000
+2013,3,Salaries tax,030,050,Earnings and profits tax,,,,,,51761323,49340000,51500000,51000000
+2013,3,Sub-total,030,050,Earnings and profits tax,,,,,,176821842,161620000,186400000,189400000
+2013,3,Estate duty,050,,Earnings and profits tax,,,,,,94174,70000,130000,70000
+2013,3,Stamp duties,070,,Earnings and profits tax,,,,,,44355853,37000000,43000000,40000000
+2013,3,Air passenger departure tax,080,,Earnings and profits tax,,,,,,1947671,1987833,2022034,2062480
+2013,3,Total,,,,,,,,,238980135,216504833,247850034,247975970
+2013,4,First registration,010,,,,,,,,7070073,7360111,7759622,7651649
+2013,4,Total,,,,,,,,,7070073,7360111,7759622,7651649
+2013,5,Court fines and statutory penalties,010,,,,,,,,537334,448855,517363,464665
+2013,5,Forfeitures,020,,,,,,,,1648936,81940,84497,64587
+2013,5,Fixed penalty system (Traffic Contraventions),030,,,,,,,,276709,266393,295778,304641
+2013,5,Fixed penalty system (Criminal Proceedings),040,,,,,,,,193227,197577,214642,221081
+2013,5,Payments by civil servants,050,,,,,,,,3441,2362,3087,2490
+2013,5,Fixed penalty system (Motor Vehicle Idling),060,,,,,,,,,1152,2,2
+2013,5,Total,,,,,,,,,2659647,998279,1115369,1057466
+2013,6,Quarries and mining,020,,,,,,,,57168,54700,61643,53012
+2013,6,Bridges and tunnels,030,,,,,,,,1395857,1369465,1370600,1416433
+2013,6,Petrol filling,070,,,,,,,,1787,1920,1880,1887
+2013,6,Parking,100,,,,,,,,381178,393324,400907,411108
+2013,6,Vehicle examination,170,,,,,,,,41689,39658,38539,32359
+2013,6,Slaughterhouse concessions,201,,,,,,,,29651,28179,31417,31417
+2013,6,Other royalties and concessions,202,,,,,,,,2941919,1209164,791647,1586256
+2013,6,Total,,,,,,,,,4849249,3096410,2696633,3532472
+2013,7,"Government land licences, government rents (other than those charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515) ) and rents from short term tenancies",010,,,,,,,,2008048,1775312,1718302,1776103
+2013,7,Rents from government quarters,020,,,,,,,,756774,737151,789996,783469
+2013,7,Rents from government properties,030,,,,,,,,1531845,1328537,1354135,1348360
+2013,7,Investment income and interest,040,,,,,,,,20105273,19171000,20053468,19365000
+2013,7,Returns on equity investments in statutory agencies/corporations,060,,,,,,,,6204186,6404187,7270260,7270260
+2013,7,Recovery from Housing Authority under current financial arrangement,080,,,,,,,,162375,204533,229973,67106
+2013,7,Government rents charged at 3% of rateable values in accordance with the Government Rent (Assessment and Collection) Ordinance (Cap. 515),090,,,,,,,,6470471,7289000,7784000,7915000
+2013,7,Total,,,,,,,,,37238972,36909720,39200134,38525298
+2013,9,Repayments of loans and advances,010,,,,,,,,344,,290,
+2013,9,Pension contributions,020,,,,,,,,12642,11163,10408,9684
+2013,9,Recovery of salaries and staff on-costs,030,,,,,,,,2313090,2357509,2518332,2608233
+2013,9,Light and fuel in government buildings,040,,,,,,,,24856,22887,26490,26499
+2013,9,Recovery of overpayments and losses,050,,,,,,,,842863,382701,635901,595655
+2013,9,Transfers from Funds,080,,,,,,,,1800000,500000,500000,1000000
+2013,9,Other receipts,090,,,,,,,,2358767,5878129,16171319,5227920
+2013,9,Payments in lieu of profits tax,110,001,Payments made by Trading Funds,,,,,,227574,125749,195543,123149
+2013,9,Payments for “insurance” premium,110,002,Payments made by Trading Funds,,,,,,3078,3174,3174,3280
+2013,9,Reimbursements by trading funds arising from policy on “insurance”,110,003,Payments made by Trading Funds,,,,,,309,234,508,256
+2013,9,Total,,003,,,,,,,7583523,9281546,20061965,9594676
+2013,10,Berthing fee,040,010,Marine ferry terminals,,,,,,48005,51480,46758,46758
+2013,10,Embarkation fee,040,020,Marine ferry terminals,,,,,,146489,162509,155180,159910
+2013,10,Others,040,030,Marine ferry terminals,,,,,,6252,6909,7089,7089
+2013,10,Sub-total,040,030,Marine ferry terminals,,,,,,200746,220898,209027,213757
+2013,10,Chargeable water,070,010,Waterworks,,,,,,2478737,2550800,2550000,2573000
+2013,10,Fees and licences,070,020,Waterworks,,,,,,13366,13450,15000,15700
+2013,10,Others,070,040,Waterworks,,,,,,16367,13200,13800,14200
+2013,10,Sub-total,070,040,Waterworks,,,,,,2508470,2577450,2578800,2602900
+2013,10,Sewage charge,080,010,Sewage services,,,,,,654112,731400,723300,797000
+2013,10,Trade effluent surcharge,080,020,Sewage services,,,,,,206910,201000,204200,205000
+2013,10,Others,080,030,Sewage services,,,,,,2965,3060,3310,3310
+2013,10,Sub-total,080,030,Sewage services,,,,,,863987,935460,930810,1005310
+2013,10,Total,,030,,,,,,,3573203,3733808,3718637,3821967
+2013,11,Markets,022,010,"Agriculture, Fisheries and Conservation Department",,,,,,66843,74965,70090,76284
+2013,11,Agricultural services and products,022,020,"Agriculture, Fisheries and Conservation Department",,,,,,437,445,395,395
+2013,11,Others,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,32179,31534,33082,32093
+2013,11,Sub-total,022,030,"Agriculture, Fisheries and Conservation Department",,,,,,99459,106944,103567,108772
+2013,11,Audit Commission,024,,"Agriculture, Fisheries and Conservation Department",,,,,,9461,10319,9957,10006
+2013,11,Services to trading funds and subvented projects,025,025,Architectural Services Department,,,,,,2733,1825,2153,2147
+2013,11,Others,025,030,Architectural Services Department,,,,,,3367,344,542,542
+2013,11,Sub-total,025,030,Architectural Services Department,,,,,,6100,2169,2695,2689
+2013,11,Census and Statistics Department,026,,Architectural Services Department,,,,,,12857,9316,8756,11951
+2013,11,Civil Aid Service,027,,Architectural Services Department,,,,,,75,88,235,197
+2013,11,Services to the Airport Authority,028,010,Civil Aviation Department,,,,,,721150,731588,735060,767426
+2013,11,Aircraft en route navigation charges,028,020,Civil Aviation Department,,,,,,218109,216994,242175,272670
+2013,11,Licences,028,030,Civil Aviation Department,,,,,,87406,79918,77469,87680
+2013,11,Others,028,040,Civil Aviation Department,,,,,,2512,1864,2630,2618
+2013,11,Sub-total,028,040,Civil Aviation Department,,,,,,1029177,1030364,1057334,1130394
+2013,11,Recovery other than cost of raw materials for correctional services industries,030,010,Correctional Services Department,,,,,,658,490,212,212
+2013,11,Laundry charges,030,015,Correctional Services Department,,,,,,3082,3096,3152,3152
+2013,11,Others,030,020,Correctional Services Department,,,,,,290,308,238,238
+2013,11,Sub-total,030,020,Correctional Services Department,,,,,,4030,3894,3602,3602
+2013,11,Import and export declarations,031,010,Customs and Excise Department,,,,,,1645379,1020037,1131067,882909
+2013,11,Bonded warehouse supervision charges,031,020,Customs and Excise Department,,,,,,391,524,394,416
+2013,11,Clothing industry training levy service charges,031,030,Customs and Excise Department,,,,,,83,83,63,63
+2013,11,Denaturing fees,031,040,Customs and Excise Department,,,,,,800,735,450,450
+2013,11,Import and export licences,031,071,Customs and Excise Department,,,,,,2361,2417,2352,2352
+2013,11,Warehouse licences,031,072,Customs and Excise Department,,,,,,709,665,709,665
+2013,11,Miscellaneous licences,031,080,Customs and Excise Department,,,,,,1523,1450,1543,1540
+2013,11,Storage fees,031,090,Customs and Excise Department,,,,,,,1,7,1
+2013,11,Others,031,100,Customs and Excise Department,,,,,,24581,20057,38862,23724
+2013,11,Sub-total,031,100,Customs and Excise Department,,,,,,1675827,1045969,1175447,912120
+2013,11,Hong Kong companies registration fees,032,010,Companies Registry,,,,,,127236,51051,36375,8356
+2013,11,Works executed on private account,033,010,Civil Engineering and Development Department,,,,,,14035,238594,228048,41859
+2013,11,"Dangerous goods, mining and prospecting licences",033,011,Civil Engineering and Development Department,,,,,,3267,2920,3246,3577
+2013,11,Explosives permit and storage fees,033,012,Civil Engineering and Development Department,,,,,,37729,37100,35375,27292
+2013,11,Mud disposal,033,013,Civil Engineering and Development Department,,,,,,2783,3015,8911,6768
+2013,11,Disposal of construction waste at public fill reception facilities,033,014,Civil Engineering and Development Department,,,,,,319816,280000,350000,260000
+2013,11,Others,033,030,Civil Engineering and Development Department,,,,,,633,310,464,596
+2013,11,Sub-total,033,030,Civil Engineering and Development Department,,,,,,378263,561939,626044,340092
+2013,11,"Dangerous drugs, pharmacy, poisons and other licences",037,010,Department of Health,,,,,,24895,24433,23056,23856
+2013,11,Out-patient charges,037,030,Department of Health,,,,,,32186,31165,34873,35015
+2013,11,Dental charges,037,040,Department of Health,,,,,,7702,7610,7687,7600
+2013,11,"Medical and health charges other than hospital, out-patient and dental charges",037,050,Department of Health,,,,,,29323,29173,30923,30919
+2013,11,Registrations and certificates of medical and supplementary medical professionals,037,060,Department of Health,,,,,,26707,28208,29182,29556
+2013,11,Others,037,070,Department of Health,,,,,,521,474,805,793
+2013,11,Sub-total,037,070,Department of Health,,,,,,121334,121063,126526,127739
+2013,11,Works executed on private account,039,010,Drainage Services Department,,,,,,11,20,325,290
+2013,11,Others,039,030,Drainage Services Department,,,,,,772,832,1189,798
+2013,11,Sub-total,039,030,Drainage Services Department,,,,,,783,852,1514,1088
+2013,11,Services to Electrical and Mechanical Services Trading Fund,042,025,Electrical and Mechanical Services Department,,,,,,30915,38070,32646,34441
+2013,11,"Registration, certification and permit fees",042,027,Electrical and Mechanical Services Department,,,,,,40646,38110,39638,55376
+2013,11,Others,042,030,Electrical and Mechanical Services Department,,,,,,3,15,15,15
+2013,11,Sub-total,042,030,Electrical and Mechanical Services Department,,,,,,71564,76195,72299,89832
+2013,11,Chemical waste charging scheme,044,010,Environmental Protection Department,,,,,,23306,28000,16100,16100
+2013,11,MARPOL waste charging scheme,044,015,Environmental Protection Department,,,,,,5559,5500,4800,4800
+2013,11,Waste disposal charges,044,017,Environmental Protection Department,,,,,,110555,114500,121200,121200
+2013,11,Licence and permit fees,044,020,Environmental Protection Department,,,,,,12116,10999,11184,11359
+2013,11,Producer Responsibility Scheme,044,025,Environmental Protection Department,,,,,,26800,25500,29400,29400
+2013,11,Others,044,030,Environmental Protection Department,,,,,,346,287,273,273
+2013,11,Sub-total,044,030,Environmental Protection Department,,,,,,178682,184786,182957,183132
+2013,11,Dangerous goods licences,045,010,Fire Services Department,,,,,,10490,10303,10077,10077
+2013,11,Official certificates and fire reports,045,012,Fire Services Department,,,,,,6387,6640,6549,6549
+2013,11,Others,045,020,Fire Services Department,,,,,,1052,972,976,984
+2013,11,Sub-total,045,020,Fire Services Department,,,,,,17929,17915,17602,17610
+2013,11,Government Secretariat: Office of the Government Chief Information Officer,047,,Fire Services Department,,,,,,7326,6906,8248,8014
+2013,11,Services to the Hospital Authority,048,015,Government Laboratory,,,,,,7424,7376,7376,8315
+2013,11,Others,048,020,Government Laboratory,,,,,,4606,5794,5794,6011
+2013,11,Sub-total,048,020,Government Laboratory,,,,,,12030,13170,13170,14326
+2013,11,Licences and permits,049,010,Food and Environmental Hygiene Department,,,,,,273386,279767,272976,242730
+2013,11,Meat inspection,049,020,Food and Environmental Hygiene Department,,,,,,20944,20885,21906,21906
+2013,11,Cemeteries and crematoria,049,030,Food and Environmental Hygiene Department,,,,,,63288,65273,93381,127138
+2013,11,Others,049,040,Food and Environmental Hygiene Department,,,,,,3863,2681,2565,2280
+2013,11,Sub-total,049,040,Food and Environmental Hygiene Department,,,,,,361481,368606,390828,394054
+2013,11,Management and air conditioning charges,051,010,Government Property Agency,,,,,,68046,65381,66195,65264
+2013,11,Others,051,020,Government Property Agency,,,,,,5367,4166,5012,4858
+2013,11,Sub-total,051,020,Government Property Agency,,,,,,73413,69547,71207,70122
+2013,11,Government Secretariat: Commerce and Economic Development Bureau (Communications and Technology Branch),055,,Government Property Agency,,,,,,1166,1212,1042,1147
+2013,11,Printing services,059,010,Government Logistics Department,,,,,,234625,240220,249397,224486
+2013,11,Advertisements,059,020,Government Logistics Department,,,,,,19611,20256,20659,20000
+2013,11,Government transport,059,030,Government Logistics Department,,,,,,20216,22439,21382,22332
+2013,11,Others,059,040,Government Logistics Department,,,,,,7242,7011,13483,10355
+2013,11,Sub-total,059,040,Government Logistics Department,,,,,,281694,289926,304921,277173
+2013,11,Works executed on private account,060,010,Highways Department,,,,,,6303,2279,250,250
+2013,11,Excavation permits,060,020,Highways Department,,,,,,141746,135767,147174,147205
+2013,11,Others,060,030,Highways Department,,,,,,1533,1600,1600,1600
+2013,11,Sub-total,060,030,Highways Department,,,,,,149582,139646,149024,149055
+2013,11,Guesthouse licences,063,015,Home Affairs Department,,,,,,8174,5395,8894,7257
+2013,11,Clubhouse certificates,063,016,Home Affairs Department,,,,,,14510,15294,14548,14894
+2013,11,Karaoke establishments licences and permits,063,020,Home Affairs Department,,,,,,48,59,38,44
+2013,11,Entertainment licences,063,021,Home Affairs Department,,,,,,,18543,17826,17307
+2013,11,Others,063,030,Home Affairs Department,,,,,,3083,3231,2802,2803
+2013,11,Sub-total,063,030,Home Affairs Department,,,,,,25815,42522,44108,42305
+2013,11,Chinese nationality applications,070,012,Immigration Department,,,,,,3587,3250,3280,3273
+2013,11,Travel documents,070,020,Immigration Department,,,,,,234373,238972,262824,291908
+2013,11,"Visas, entry permits and extension of stay",070,030,Immigration Department,,,,,,118792,137840,115551,117337
+2013,11,Certification fees,070,040,Immigration Department,,,,,,9917,9898,11416,10666
+2013,11,Replacement of identity cards,070,060,Immigration Department,,,,,,38750,39287,38847,40750
+2013,11,Births and deaths registration fees,070,070,Immigration Department,,,,,,44368,49521,44790,47258
+2013,11,Marriage registration fees,070,080,Immigration Department,,,,,,64238,61443,72210,78305
+2013,11,Others,070,090,Immigration Department,,,,,,10755,15097,16172,16381
+2013,11,Sub-total,070,090,Immigration Department,,,,,,524780,555308,565090,605878
+2013,11,Sale of publications,074,010,Information Services Department,,,,,,5987,6365,5665,5665
+2013,11,Others,074,020,Information Services Department,,,,,,362,440,280,280
+2013,11,Sub-total,074,020,Information Services Department,,,,,,6349,6805,5945,5945
+2013,11,Business registration fees,076,010,Inland Revenue Department,,,,,,1292919,25000,160000,13000
+2013,11,Others,076,020,Inland Revenue Department,,,,,,17900,18756,18000,18000
+2013,11,Sub-total,076,020,Inland Revenue Department,,,,,,1310819,43756,178000,31000
+2013,11,Patents fees,078,010,Intellectual Property Department,,,,,,20139,18029,18804,18804
+2013,11,Trade marks fees,078,020,Intellectual Property Department,,,,,,76362,78685,78470,144654
+2013,11,Registered designs fees,078,030,Intellectual Property Department,,,,,,8460,7935,8117,8117
+2013,11,Others,078,040,Intellectual Property Department,,,,,,140,98,228,228
+2013,11,Sub-total,078,040,Intellectual Property Department,,,,,,105101,104747,105619,171803
+2013,11,Commission,080,010,Judiciary,,,,,,16619,7502,8221,8013
+2013,11,Court fees,080,020,Judiciary,,,,,,144933,133961,153690,153690
+2013,11,Possession,080,030,Judiciary,,,,,,361,404,314,314
+2013,11,Others,080,040,Judiciary,,,,,,12996,12936,13937,13937
+2013,11,Sub-total,080,040,Judiciary,,,,,,174909,154803,176162,175954
+2013,11,Buildings Ordinance fees,082,010,Buildings Department,,,,,,158973,149832,173533,173843
+2013,11,Works executed on private account,082,020,Buildings Department,,,,,,48,2134,2245,48
+2013,11,Others,082,030,Buildings Department,,,,,,862,952,849,1586
+2013,11,Sub-total,082,030,Buildings Department,,,,,,159883,152918,176627,175477
+2013,11,Labour Department,090,,Buildings Department,,,,,,22038,23957,24125,25302
+2013,11,Administrative and legal land services,091,010,Lands Department,,,,,,53245,53216,56376,58544
+2013,11,Lands Department consent fees and Government lease fees,091,012,Lands Department,,,,,,3098,2062,2617,2447
+2013,11,Administrative fees for conveyancing services for FSI,091,013,Lands Department,,,,,,285,260,251,251
+2013,11,Excavation permits,091,020,Lands Department,,,,,,10632,11248,11486,11506
+2013,11,Works executed on private account,091,040,Lands Department,,,,,,863,326,545,545
+2013,11,Services to KCRC,091,042,Lands Department,,,,,,,,33256,27551
+2013,11,Services to MTRCL,091,046,Lands Department,,,,,,74722,44693,38738,39867
+2013,11,Others,091,050,Lands Department,,,,,,20083,20680,22977,22742
+2013,11,Sub-total,091,050,Lands Department,,,,,,162928,132485,166246,163453
+2013,11,Department of Justice,092,,Lands Department,,,,,,5096,4962,5507,2446
+2013,11,Legal Aid Department,094,,Lands Department,,,,,,249532,255821,213537,214808
+2013,11,Admission and hire charges,095,010,Leisure and Cultural Services Department,,,,,,650727,622766,652779,646355
+2013,11,Programme entry fees for recreational and sports activities,095,020,Leisure and Cultural Services Department,,,,,,38277,39432,39310,39475
+2013,11,Licences,095,030,Leisure and Cultural Services Department,,,,,,526,609,616,616
+2013,11,Others,095,040,Leisure and Cultural Services Department,,,,,,28479,26575,28533,27090
+2013,11,Sub-total,095,040,Leisure and Cultural Services Department,,,,,,718009,689382,721238,713536
+2013,11,Anchorage,100,010,Marine Department,,,,,,34295,34840,30500,30500
+2013,11,Buoy,100,020,Marine Department,,,,,,21625,21200,24567,23232
+2013,11,Permit fees,100,030,Marine Department,,,,,,109007,112640,109056,109056
+2013,11,Cargo working area charges,100,040,Marine Department,,,,,,123399,129990,128037,132294
+2013,11,Examination and registration fees,100,050,Marine Department,,,,,,95845,94881,110837,115467
+2013,11,Vessel licences,100,070,Marine Department,,,,,,36772,39370,39744,39744
+2013,11,Port and light dues,100,080,Marine Department,,,,,,208001,167280,195788,190701
+2013,11,Port clearance fees,100,090,Marine Department,,,,,,11938,12410,11582,11582
+2013,11,Survey fees,100,100,Marine Department,,,,,,26868,24162,21702,21988
+2013,11,Others,100,110,Marine Department,,,,,,5574,4872,5105,4975
+2013,11,Sub-total,100,110,Marine Department,,,,,,673324,641645,676918,679539
+2013,11,Bankruptcy,116,010,Official Receiver’s Office,,,,,,147491,70557,94606,73991
+2013,11,Liquidation,116,020,Official Receiver’s Office,,,,,,128410,141750,40902,44075
+2013,11,Others,116,030,Official Receiver’s Office,,,,,,26,58,40,19
+2013,11,Sub-total,116,030,Official Receiver’s Office,,,,,,275927,212365,135548,118085
+2013,11,Confirmation of criminal record,122,010,Hong Kong Police Force,,,,,,4341,7986,9811,12988
+2013,11,Establishments and trades licences,122,020,Hong Kong Police Force,,,,,,1299,1265,1429,1429
+2013,11,Security personnel permits,122,025,Hong Kong Police Force,,,,,,10801,11954,10982,10982
+2013,11,Others,122,030,Hong Kong Police Force,,,,,,6111,6145,7065,7053
+2013,11,Sub-total,122,030,Hong Kong Police Force,,,,,,22552,27350,29287,32452
+2013,11,Translation and interpretation services,143,010,Government Secretariat: Civil Service Bureau,,,,,,8703,7299,7850,9103
+2013,11,Training and development services,143,020,Government Secretariat: Civil Service Bureau,,,,,,2102,3431,6688,4385
+2013,11,Others,143,030,Government Secretariat: Civil Service Bureau,,,,,,571,559,600,600
+2013,11,Sub-total,143,030,Government Secretariat: Civil Service Bureau,,,,,,11376,11289,15138,14088
+2013,11,Insurance companies,148,010,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,45177,41122,39759,39759
+2013,11,Others,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,3,4,4,4
+2013,11,Sub-total,148,030,Government Secretariat: Financial Services and the Treasury Bureau (Financial Services Branch),,,,,,45180,41126,39763,39763
+2013,11,Security companies,151,010,Government Secretariat: Security Bureau,,,,,,15084,14937,15483,15693
+2013,11,Others,151,090,Government Secretariat: Security Bureau,,,,,,51,33,35,35
+2013,11,Sub-total,151,090,Government Secretariat: Security Bureau,,,,,,15135,14970,15518,15728
+2013,11,"Government Secretariat: Commerce and Economic Development Bureau (Commerce, Industry and Tourism Branch)",152,,Government Secretariat: Security Bureau,,,,,,10109,10611,10556,11033
+2013,11,Government Secretariat: Innovation and Technology Commission,155,,Government Secretariat: Security Bureau,,,,,,8859,8712,9319,9944
+2013,11,Grant and subsidised schools provident funds—supervision fees,156,020,Government Secretariat: Education Bureau,,,,,,4724,5100,5100,5200
+2013,11,Others,156,030,Government Secretariat: Education Bureau,,,,,,3555,3300,3300,3300
+2013,11,Sub-total,156,030,Government Secretariat: Education Bureau,,,,,,8279,8400,8400,8500
+2013,11,Radio Television Hong Kong,160,,Government Secretariat: Education Bureau,,,,,,983,1201,1185,1195
+2013,11,Rating and Valuation Department,162,,Government Secretariat: Education Bureau,,,,,,3619,5179,7317,4545
+2013,11,Services to the Airport Authority,168,010,Hong Kong Observatory,,,,,,86144,96379,94253,96844
+2013,11,Others,168,020,Hong Kong Observatory,,,,,,1501,1479,1673,1694
+2013,11,Sub-total,168,020,Hong Kong Observatory,,,,,,87645,97858,95926,98538
+2013,11,Traffic Accident Victims Assistance Scheme administration fee,170,010,Social Welfare Department,,,,,,15395,15340,16219,16311
+2013,11,Others,170,020,Social Welfare Department,,,,,,4124,1418,1615,1557
+2013,11,Sub-total,170,020,Social Welfare Department,,,,,,19519,16758,17834,17868
+2013,11,Student Financial Assistance Agency,173,,Social Welfare Department,,,,,,27014,31350,30032,31521
+2013,11,Entertainment licences,180,010,"Office for Film, Newspaper and Article Administration",,,,,,12369,,,
+2013,11,Film censorship fees,180,020,"Office for Film, Newspaper and Article Administration",,,,,,3250,3043,3761,3761
+2013,11,Broadcasting licences,180,025,"Office for Film, Newspaper and Article Administration",,,,,,25453,,,
+2013,11,Others,180,030,"Office for Film, Newspaper and Article Administration",,,,,,1354,587,636,636
+2013,11,Sub-total,180,030,"Office for Film, Newspaper and Article Administration",,,,,,42426,3630,4397,4397
+2013,11,Application fees for certificates of origin,181,010,Trade and Industry Department,,,,,,338,363,345,341
+2013,11,Application fees for textile export licences,181,030,Trade and Industry Department,,,,,,799,684,606,486
+2013,11,Others,181,040,Trade and Industry Department,,,,,,17109,17118,11804,10959
+2013,11,Sub-total,181,040,Trade and Industry Department,,,,,,18246,18165,12755,11786
+2013,11,Vehicle and driving licences,186,010,Transport Department,,,,,,3409023,3516395,3538106,3671243
+2013,11,"Transfer of vehicle and registration mark, driving test and permits",186,030,Transport Department,,,,,,281818,289690,299916,302521
+2013,11,Traffic Accident Victims Assistance Scheme administration fee,186,040,Transport Department,,,,,,1600,1765,1726,1786
+2013,11,Vehicle examination fees,186,050,Transport Department,,,,,,64538,64570,65299,66981
+2013,11,Personalized vehicle registration mark,186,055,Transport Department,,,,,,30735,28635,28061,25723
+2013,11,Others,186,060,Transport Department,,,,,,12992,13757,13843,14192
+2013,11,Sub-total,186,060,Transport Department,,,,,,3800706,3914812,3946951,4082446
+2013,11,Others,188,040,Treasury,,,,,,47308,48066,41093,46625
+2013,11,Other bureaux/departments,200,,Treasury,,,,,,16272,15889,18898,18200
+2013,11,Total,,,,,,,,,13219207,11408719,11862389,11435631
+2013,21,Operational expenses,000,,Recurrent,,,,,,90155,93070,92372,94481
+2013,21,"Total, Recurrent",,,,,,,,,90155,93070,92372,94481
+2013,21,"Total, Operating Account",,,,,,,,,90155,93070,92372,94481
+2013,21,Total Expenditure,,,,,,,,,90155,93070,92372,94481
+2013,22,Operational expenses,000,,Recurrent,,,,,,922418,991113,992272,1034123
+2013,22,"Total, Recurrent",,,,,,,,,922418,991113,992272,1034123
+2013,22,General non-recurrent,700,,Non-Recurrent,,,,,,9791,1198457,986133,521842
+2013,22,"Total, Non-Recurrent",,,,,,,,,9791,1198457,986133,521842
+2013,22,"Total, Operating Account",,,,,,,,,932209,2189570,1978405,1555965
+2013,22,Works,600,,"Plant, Equipment and Works",,,,,,153,1798,1977,3000
+2013,22,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,,400,7912,4900
+2013,22,Minor irrigation works in the New Territories (block vote),609,,"Plant, Equipment and Works",,,,,,712,1153,1153,980
+2013,22,Minor recreational facilities and roadworks in country parks (block vote),610,,"Plant, Equipment and Works",,,,,,9019,11250,11250,9104
+2013,22,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,9721,7671,7348,5290
+2013,22,"Total, Plant, Equipment and Works",,,,,,,,,19605,22272,29640,23274
+2013,22,"Total, Capital Account",,,,,,,,,19605,22272,29640,23274
+2013,22,Total Expenditure,,,,,,,,,951814,2211842,2008045,1579239
+2013,23,Operational expenses,000,,Recurrent,,,,,,66467,68098,68316,74287
+2013,23,"Total, Recurrent",,,,,,,,,66467,68098,68316,74287
+2013,23,"Total, Operating Account",,,,,,,,,66467,68098,68316,74287
+2013,23,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,110,3872,3872,871
+2013,23,"Total, Plant, Equipment and Works",,,,,,,,,110,3872,3872,871
+2013,23,"Total, Capital Account",,,,,,,,,110,3872,3872,871
+2013,23,Total Expenditure,,,,,,,,,66577,71970,72188,75158
+2013,24,Operational expenses,000,,Recurrent,,,,,,124754,129568,134519,137368
+2013,24,"Total, Recurrent",,,,,,,,,124754,129568,134519,137368
+2013,24,"Total, Operating Account",,,,,,,,,124754,129568,134519,137368
+2013,24,Total Expenditure,,,,,,,,,124754,129568,134519,137368
+2013,25,Operational expenses,000,,Recurrent,,,,,,1616696,1643927,1683979,1733990
+2013,25,"Total, Recurrent",,,,,,,,,1616696,1643927,1683979,1733990
+2013,25,"Total, Operating Account",,,,,,,,,1616696,1643927,1683979,1733990
+2013,25,Total Expenditure,,,,,,,,,1616696,1643927,1683979,1733990
+2013,26,Operational expenses,000,,Recurrent,,,,,,771440,571367,543231,583890
+2013,26,"Total, Recurrent",,,,,,,,,771440,571367,543231,583890
+2013,26,General non-recurrent,700,,Non-Recurrent,,,,,,4903,5000,3200,6823
+2013,26,"Total, Non-Recurrent",,,,,,,,,4903,5000,3200,6823
+2013,26,"Total, Operating Account",,,,,,,,,776343,576367,546431,590713
+2013,26,Total Expenditure,,,,,,,,,776343,576367,546431,590713
+2013,27,Operational expenses,000,,Recurrent,,,,,,81116,86674,87218,95563
+2013,27,"Total, Recurrent",,,,,,,,,81116,86674,87218,95563
+2013,27,"Total, Operating Account",,,,,,,,,81116,86674,87218,95563
+2013,27,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,495,1700,1700,690
+2013,27,"Total, Plant, Equipment and Works",,,,,,,,,495,1700,1700,690
+2013,27,"Total, Capital Account",,,,,,,,,495,1700,1700,690
+2013,27,Total Expenditure,,,,,,,,,81611,88374,88918,96253
+2013,28,Operational expenses,000,,Recurrent,,,,,,758088,811983,826309,845090
+2013,28,Airport insurance,170,,Recurrent,,,,,,7607,8348,7472,8145
+2013,28,"Total, Recurrent",,,,,,,,,765695,820331,833781,853235
+2013,28,"Total, Operating Account",,,,,,,,,765695,820331,833781,853235
+2013,28,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,1400,,,578
+2013,28,"Total, Plant, Equipment and Works",,,,,,,,,1400,,,578
+2013,28,"Total, Capital Account",,,,,,,,,1400,,,578
+2013,28,Total Expenditure,,,,,,,,,767095,820331,833781,853813
+2013,30,Operational expenses,000,,Recurrent,,,,,,2814307,2886450,2959259,3059565
+2013,30,Provisions for institutions,118,,Recurrent,,,,,,97077,99683,89211,97240
+2013,30,Earnings scheme for persons in custody,193,,Recurrent,,,,,,40542,36046,36046,37596
+2013,30,"Total, Recurrent",,,,,,,,,2951926,3022179,3084516,3194401
+2013,30,"Total, Operating Account",,,,,,,,,2951926,3022179,3084516,3194401
+2013,30,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,5805,9100,7889,10540
+2013,30,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,25886,27621,31665,30961
+2013,30,"Total, Plant, Equipment and Works",,,,,,,,,31691,36721,39554,41501
+2013,30,"Total, Capital Account",,,,,,,,,31691,36721,39554,41501
+2013,30,Total Expenditure,,,,,,,,,2983617,3058900,3124070,3235902
+2013,31,Operational expenses,000,,Recurrent,,,,,,2473792,2629597,2688718,2858017
+2013,31,Rewards and special services,103,,Recurrent,,,,,,9884,10000,10500,11000
+2013,31,Seizure management,292,,Recurrent,,,,,,40993,44000,44000,47000
+2013,31,"Total, Recurrent",,,,,,,,,2524669,2683597,2743218,2916017
+2013,31,"Total, Operating Account",,,,,,,,,2524669,2683597,2743218,2916017
+2013,31,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,11160,61373,24955,152622
+2013,31,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,13941,34186,19858,39050
+2013,31,"Total, Plant, Equipment and Works",,,,,,,,,25101,95559,44813,191672
+2013,31,"Total, Capital Account",,,,,,,,,25101,95559,44813,191672
+2013,31,Total Expenditure,,,,,,,,,2549770,2779156,2788031,3107689
+2013,33,Operational expenses,000,,Recurrent,,,,,,1785435,1902839,1812267,2025489
+2013,33,"Total, Recurrent",,,,,,,,,1785435,1902839,1812267,2025489
+2013,33,General non-recurrent,700,,Non-Recurrent,,,,,,78,80,80,80
+2013,33,"Total, Non-Recurrent",,,,,,,,,78,80,80,80
+2013,33,"Total, Operating Account",,,,,,,,,1785513,1902919,1812347,2025569
+2013,33,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,3708,3060,3260,3772
+2013,33,"Plant, vehicles and equipment",661,,"Plant, Equipment and Works",,,,,,2752,,,
+2013,33,"Total, Plant, Equipment and Works",,,,,,,,,6460,3060,3260,3772
+2013,33,"Total, Capital Account",,,,,,,,,6460,3060,3260,3772
+2013,33,Total Expenditure,,,,,,,,,1791973,1905979,1815607,2029341
+2013,37,Operational expenses,000,,Recurrent,,,,,,4224093,4911916,4761324,5118960
+2013,37,Recoverable salaries and allowances (General),003,,Recurrent,,,,,968000,,,,
+2013,37,"Total, Recurrent",,,,,,,,,4224093,4911916,4761324,5118960
+2013,37,General non-recurrent,700,,Non-Recurrent,,,,,,106856,301628,245100,314890
+2013,37,"Total, Non-Recurrent",,,,,,,,,106856,301628,245100,314890
+2013,37,"Total, Operating Account",,,,,,,,,4330949,5213544,5006424,5433850
+2013,37,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,10904,43786,10350,84640
+2013,37,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,46702,35815,36666,59554
+2013,37,"Total, Plant, Equipment and Works",,,,,,,,,57606,79601,47016,144194
+2013,37,"Subvented institutions - maintenance, repairs, and minor improvements (block vote)",974,,Subventions,,,,,,1936,2863,2575,2006
+2013,37,"Subvented institutions - minor plant, vehicles and equipment (block vote)",975,,Subventions,,,,,,3034,5168,5168,268
+2013,37,"Total, Subventions",,,,,,,,,4970,8031,7743,2274
+2013,37,"Total, Capital Account",,,,,,,,,62576,87632,54759,146468
+2013,37,Total Expenditure,,,,,,,,,4393525,5301176,5061183,5580318
+2013,39,Operational expenses,000,,Recurrent,,,,,,1838614,1869060,1914382,1965603
+2013,39,"Total, Recurrent",,,,,,,,,1838614,1869060,1914382,1965603
+2013,39,"Total, Operating Account",,,,,,,,,1838614,1869060,1914382,1965603
+2013,39,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,18703,17367,13706,11113
+2013,39,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,23096,17130,17130,19632
+2013,39,"Total, Plant, Equipment and Works",,,,,,,,,41799,34497,30836,30745
+2013,39,"Total, Capital Account",,,,,,,,,41799,34497,30836,30745
+2013,39,Total Expenditure,,,,,,,,,1880413,1903557,1945218,1996348
+2013,42,Operational expenses,000,,Recurrent,,,,,,296840,339745,343090,394837
+2013,42,"Total, Recurrent",,,,,,,,,296840,339745,343090,394837
+2013,42,"Total, Operating Account",,,,,,,,,296840,339745,343090,394837
+2013,42,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,11815,11088,6686,16200
+2013,42,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,47047,34070,34070,97995
+2013,42,"Total, Plant, Equipment and Works",,,,,,,,,58862,45158,40756,114195
+2013,42,"Total, Capital Account",,,,,,,,,58862,45158,40756,114195
+2013,42,Total Expenditure,,,,,,,,,355702,384903,383846,509032
+2013,44,Operational expenses,000,,Recurrent,,,,,,1189352,1237417,1270073,1371230
+2013,44,Fees for operation of waste facilities,297,,Recurrent,,,,,,1071389,1277900,1259600,1376934
+2013,44,"Total, Recurrent",,,,,,,,,2260741,2515317,2529673,2748164
+2013,44,General non-recurrent,700,,Non-Recurrent,"# The provision includes the capital injection of $500,000,000 into the Environment and Conservation Fundapproved by the Finance Committee on 13 May 2011.",,,,,699291,235058,156351,369087
+2013,44,"Total, Non-Recurrent",,,,,,,,,699291,235058,156351,369087
+2013,44,"Total, Operating Account",,,,,,,,,2960032,2750375,2686024,3117251
+2013,44,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,,5500,6481,7000
+2013,44,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,9811,9700,9700,8640
+2013,44,"Total, Plant, Equipment and Works",,,,,,,,,9811,15200,16181,15640
+2013,44,"Total, Capital Account",,,,,,,,,9811,15200,16181,15640
+2013,44,Total Expenditure,,,,,,,,,2969843,2765575,2702205,3132891
+2013,45,Operational expenses,000,,Recurrent,,,,,,3975453,4111430,4307544,4425216
+2013,45,"Total, Recurrent",,,,,,,,,3975453,4111430,4307544,4425216
+2013,45,"Total, Operating Account",,,,,,,,,3975453,4111430,4307544,4425216
+2013,45,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,101887,160098,93598,160606
+2013,45,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,17166,19687,16410,18220
+2013,45,Town ambulances (block vote),690,,"Plant, Equipment and Works",,,,,,78768,107706,79206,87754
+2013,45,"Total, Plant, Equipment and Works",,,,,,,,,197821,287491,189214,266580
+2013,45,"Total, Capital Account",,,,,,,,,197821,287491,189214,266580
+2013,45,Total Expenditure,,,,,,,,,4173274,4398921,4496758,4691796
+2013,46,Salaries,001,,Recurrent,,,,,,61756,77143,80411,75830
+2013,46,Recoverable salaries and allowances (Companies Registry Trading Fund),006,,Recurrent,,,,,135000,,,,
+2013,46,Recoverable salaries and allowances (Hong Kong Monetary Authority),008,,Recurrent,,,,,19510,,,,
+2013,46,Recoverable salaries and allowances (Land Registry Trading Fund),009,,Recurrent,,,,,213235,,,,
+2013,46,Recoverable salaries and allowances (Office of the Communications Authority Trading Fund),081,,Recurrent,,,,,201223,,,,
+2013,46,Recoverable salaries and allowances (Post Office Trading Fund),082,,Recurrent,,,,,1753000,,,,
+2013,46,Recoverable salaries and allowances (Electrical and Mechanical Services Trading Fund),083,,Recurrent,,,,,1447743,,,,
+2013,46,Recoverable salaries and allowances (Legal Aid Services Council),084,,Recurrent,,,,,2140,,,,
+2013,46,"Total, Personal Emoluments",,,,,,,,,61756,77143,80411,75830
+2013,46,Recruiting expenses,010,,,,,,,,812,900,900,900
+2013,46,Civil service examinations,011,,,,,,,,9312,10130,10130,10320
+2013,46,Personal allowances,013,,,,,,,,727784,793440,715260,750570
+2013,46,Home purchase allowance,014,,,,,,,,747550,780000,769000,803000
+2013,46,Payments to estates of deceased officers,020,,,,,,,,12905,15500,15500,16500
+2013,46,Passages,022,,,,,,,,154216,172550,154500,166660
+2013,46,Quartering,023,,,,,,,,9227,12516,7310,8057
+2013,46,Staff relief and welfare,024,,,,,,,,10880,10097,9452,10121
+2013,46,Long and Meritorious Service Travel Award Scheme,025,,,,,,,,78489,91801,89539,97303
+2013,46,Legal assistance,028,,,,,,,,634,1448,1650,1448
+2013,46,Accommodation allowance,032,,,,,,,,16246,18000,16000,17000
+2013,46,Home financing allowance,033,,,,,,,,416080,395000,385000,375000
+2013,46,Pensioners’ welfare fund,037,,,,,,,,1096,1100,1100,1100
+2013,46,Private tenancy allowance,038,,,,,,,,164268,180000,177100,188000
+2013,46,Rent allowance,039,,,,,,,,516,900,420,800
+2013,46,Non-accountable cash allowance,040,,,,,,,,243418,341000,347000,520000
+2013,46,Mandatory Provident Fund contribution,041,,,,,,,,133,87,146,274
+2013,46,Civil Service Provident Fund contribution,042,,,,,,,,545,996,1204,1441
+2013,46,"Total, Personnel Related Expenses",,,,,,,,,2594111,2825465,2701211,2968494
+2013,46,"Total, Recurrent",,,,,,,,,2655867,2902608,2781622,3044324
+2013,46,"Total, Operating Account",,,,,,,,,2655867,2902608,2781622,3044324
+2013,46,Total Expenditure,,,,,,,,,2655867,2902608,2781622,3044324
+2013,47,Operational expenses,000,,Recurrent,,,,,,600650,606478,624478,635037
+2013,47,"Total, Recurrent",,,,,,,,,600650,606478,624478,635037
+2013,47,General non-recurrent,700,,Non-Recurrent,,,,,,54511,20000,13820,36320
+2013,47,"Total, Non-Recurrent",,,,,,,,,54511,20000,13820,36320
+2013,47,"Total, Operating Account",,,,,,,,,655161,626478,638298,671357
+2013,47,Total Expenditure,,,,,,,,,655161,626478,638298,671357
+2013,48,Operational expenses,000,,Recurrent,,,,,,312056,324520,334384,340992
+2013,48,"Total, Recurrent",,,,,,,,,312056,324520,334384,340992
+2013,48,"Total, Operating Account",,,,,,,,,312056,324520,334384,340992
+2013,48,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,20056,35483,31469,57695
+2013,48,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,15194,15225,15225,12553
+2013,48,"Total, Plant, Equipment and Works",,,,,,,,,35250,50708,46694,70248
+2013,48,"Total, Capital Account",,,,,,,,,35250,50708,46694,70248
+2013,48,Total Expenditure,,,,,,,,,347306,375228,381078,411240
+2013,49,Operational expenses,000,,Recurrent,,,,,,4604152,4904132,4968194,5162186
+2013,49,"Total, Recurrent",,,,,,,,,4604152,4904132,4968194,5162186
+2013,49,General non-recurrent,,,Non-Recurrent,,,,,,461,1170,1170,
+2013,49,"Total, Non-Recurrent",,,,,,,,,461,1170,1170,
+2013,49,"Total, Operating Account",,,,,,,,,4604613,4905302,4969364,5162186
+2013,49,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,,10540,6140,8900
+2013,49,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,64357,21332,27107,29456
+2013,49,"Total, Plant, Equipment and Works",,,,,,,,,64357,31872,33247,38356
+2013,49,"Total, Capital Account",,,,,,,,,64357,31872,33247,38356
+2013,49,Total Expenditure,,,,,,,,,4668970,4937174,5002611,5200542
+2013,51,Operational expenses,000,,Recurrent,,,,,,1636015,1750621,1729938,1874172
+2013,51,"Total, Recurrent",,,,,,,,,1636015,1750621,1729938,1874172
+2013,51,General non-recurrent,,,Non-Recurrent,,,,,,,750,750,
+2013,51,"Total, Non-Recurrent",,,,,,,,,,750,750,
+2013,51,"Total, Operating Account",,,,,,,,,1636015,1751371,1730688,1874172
+2013,51,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,16961,17458,17458,14985
+2013,51,"Total, Plant, Equipment and Works",,,,,,,,,16961,17458,17458,14985
+2013,51,"Total, Capital Account",,,,,,,,,16961,17458,17458,14985
+2013,51,Total Expenditure,,,,,,,,,1652976,1768829,1748146,1889157
+2013,53,Operational expenses,000,,Recurrent,,,,,,1232059,1286337,1264673,1362780
+2013,53,Recoverable salaries and allowances (General),003,,Recurrent,,,,,12367,,,,
+2013,53,"Total, Recurrent",,,,,,,,,1232059,1286337,1264673,1362780
+2013,53,General non-recurrent,700,,Non-Recurrent,,,,,,13504504,2716,9516,4390
+2013,53,"Total, Non-Recurrent",,,,,,,,,13504504,2716,9516,4390
+2013,53,"Total, Operating Account",,,,,,,,,14736563,1289053,1274189,1367170
+2013,53,"Sports Federation and Olympic Committee of Hong Kong, China",,,Subventions,,,,,,3241,1525,1525,1030
+2013,53,Hong Kong Arts Development Council,865,,Subventions,,,,,,,300,,3660
+2013,53,Hong Kong Academy for Performing Arts,942,,Subventions,,,,,,8165,12346,9316,7682
+2013,53,"Hong Kong Academy for Performing Arts - minor plant, vehicles and equipment (block vote)",973,,Subventions,,,,,,16546,16579,16579,14102
+2013,53,"Total, Subventions",,,,,,,,,27952,30750,27420,26474
+2013,53,"Total, Capital Account",,,,,,,,,27952,30750,27420,26474
+2013,53,Total Expenditure,,,,,,,,,14764515,1319803,1301609,1393644
+2013,55,Operational expenses,000,,Recurrent,,,,,,109206,151708,148868,140490
+2013,55,"Total, Recurrent",,,,,,,,,109206,151708,148868,140490
+2013,55,General non-recurrent,700,,Non-Recurrent,,,,,,137547,146506,186803,185541
+2013,55,"Total, Non-Recurrent",,,,,,,,,137547,146506,186803,185541
+2013,55,"Total, Operating Account",,,,,,,,,246753,298214,335671,326031
+2013,55,Total Expenditure,,,,,,,,,246753,298214,335671,326031
+2013,59,Operational expenses,000,,Recurrent,,,,,,355604,392611,387590,385740
+2013,59,Recoverable salaries and allowances (General),003,,Recurrent,,,,,12900,,,,
+2013,59,Motor Insurers’ Bureau - government contribution,224,,Recurrent,,,,,,72,78,78,78
+2013,59,Traffic Accident Victims Assistance Scheme - levies,225,,Recurrent,,,,,,867,866,874,874
+2013,59,Allocated stores: local landing charges,226,,Recurrent,,,,,,2,10,10,10
+2013,59,Unallocated stores: suspense account adjustment,267,,Recurrent,,,,,,,1,1,1
+2013,59,"Total, Recurrent",,,,,,,,,356545,393566,388553,386703
+2013,59,"Total, Operating Account",,,,,,,,,356545,393566,388553,386703
+2013,59,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,,6300,4612,8500
+2013,59,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,1694,2588,4287,468
+2013,59,General purpose vehicles (block vote),691,,"Plant, Equipment and Works",,,,,,86971,137000,137000,130500
+2013,59,"Total, Plant, Equipment and Works",,,,,,,,,88665,145888,145899,139468
+2013,59,"Total, Capital Account",,,,,,,,,88665,145888,145899,139468
+2013,59,Total Expenditure,,,,,,,,,445210,539454,534452,526171
+2013,60,Operational expenses,000,,Recurrent,,,,,,2054918,2130866,2125417,2250372
+2013,60,Electricity for public lighting,272,,Recurrent,,,,,,198002,205808,194788,204888
+2013,60,"Total, Recurrent",,,,,,,,,2252920,2336674,2320205,2455260
+2013,60,General non-recurrent,700,,Non-Recurrent,,,,,,10004,21800,16000,16996
+2013,60,"Total, Non-Recurrent",,,,,,,,,10004,21800,16000,16996
+2013,60,"Total, Operating Account",,,,,,,,,2262924,2358474,2336205,2472256
+2013,60,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,108,1800,1800,2805
+2013,60,"Total, Plant, Equipment and Works",,,,,,,,,108,1800,1800,2805
+2013,60,"Total, Capital Account",,,,,,,,,108,1800,1800,2805
+2013,60,Total Expenditure,,,,,,,,,2263032,2360274,2338005,2475061
+2013,62,Operational expenses,000,,Recurrent,,,,,,153476,173196,177062,210178
+2013,62,Recoverable salaries and allowances (General),003,,Recurrent,,,,,3837261,,,,
+2013,62,"Total, Recurrent",,,,,,,,,153476,173196,177062,210178
+2013,62,General non-recurrent,,,Non-Recurrent, The actual expenditure is for the two months’ rent payments for the tenants/licencees living in the rental unitsof HA and HKHS.,,μ The provision is for the two months’ rent payments for the tenants/licencees living in the rental units of HAand HKHS.,,,1896902,,1900000,
+2013,62,"Total, Non-Recurrent",,,,,,,,,1896902,,1900000,
+2013,62,"Total, Operating Account",,,,,,,,,2050378,173196,2077062,210178
+2013,62,Total Expenditure,,,,,,,,,2050378,173196,2077062,210178
+2013,63,Operational expenses,000,,Recurrent,,,,,,1654940,1822090,1831028,1984940
+2013,63,"Total, Recurrent",,,,,,,,,1654940,1822090,1831028,1984940
+2013,63,General non-recurrent,700,,Non-Recurrent,,,,,,32296,33960,16150,5150
+2013,63,"Total, Non-Recurrent",,,,,,,,,32296,33960,16150,5150
+2013,63,"Total, Operating Account",,,,,,,,,1687236,1856050,1847178,1990090
+2013,63,Local public works (block vote),654,,"Plant, Equipment and Works",,,,,,34779,35220,35220,29985
+2013,63,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,1411,1788,1788,2457
+2013,63,"Total, Plant, Equipment and Works",,,,,,,,,36190,37008,37008,32442
+2013,63,"Total, Capital Account",,,,,,,,,36190,37008,37008,32442
+2013,63,Total Expenditure,,,,,,,,,1723426,1893058,1884186,2022532
+2013,70,Operational expenses,000,,Recurrent,,,,,,3115574,3296488,3361928,3532072
+2013,70,Repatriation expenses,202,,Recurrent,,,,,,6644,7363,7769,8334
+2013,70,"Total, Recurrent",,,,,,,,,3122218,3303851,3369697,3540406
+2013,70,"Total, Operating Account",,,,,,,,,3122218,3303851,3369697,3540406
+2013,70,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,,3465,,3465
+2013,70,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,2659,4882,4882,2984
+2013,70,"Total, Plant, Equipment and Works",,,,,,,,,2659,8347,4882,6449
+2013,70,"Total, Capital Account",,,,,,,,,2659,8347,4882,6449
+2013,70,Total Expenditure,,,,,,,,,3124877,3312198,3374579,3546855
+2013,72,Operational expenses,000,,Recurrent,,,,,,801903,857155,857229,910510
+2013,72,Rewards and special services,103,,Recurrent,,,,,,17747,17200,17000,16200
+2013,72,"Expenses of witnesses, suspects and detainees",203,,Recurrent,,,,,,458,630,600,630
+2013,72,"Total, Recurrent",,,,,,,,,820108,874985,874829,927340
+2013,72,"Total, Operating Account",,,,,,,,,820108,874985,874829,927340
+2013,72,"Minor plant, vehicles and equipment (block vote)",,,"Plant, Equipment and Works",,,,,,1137,560,560,
+2013,72,"Total, Plant, Equipment and Works",,,,,,,,,1137,560,560,
+2013,72,"Total, Capital Account",,,,,,,,,1137,560,560,
+2013,72,Total Expenditure,,,,,,,,,821245,875545,875389,927340
+2013,74,Operational expenses,000,,Recurrent,,,,,,362080,391622,398729,405986
+2013,74,"Total, Recurrent",,,,,,,,,362080,391622,398729,405986
+2013,74,"Total, Operating Account",,,,,,,,,362080,391622,398729,405986
+2013,74,"Plant, vehicles and equipment",,,"Plant, Equipment and Works",,,,,,,4080,4080,
+2013,74,"Minor plant, vehicles and equipment (block vote)",,,"Plant, Equipment and Works",,,,,,,,857,
+2013,74,"Total, Plant, Equipment and Works",,,,,,,,,,4080,4937,
+2013,74,"Total, Capital Account",,,,,,,,,,4080,4937,
+2013,74,Total Expenditure,,,,,,,,,362080,395702,403666,405986
+2013,76,Operational expenses,000,,Recurrent,,,,,,1179099,1267169,1260733,1341994
+2013,76,Interest on tax reserve certificates,189,,Recurrent,,,,,,6115,104000,60000,86000
+2013,76,Special legal expenses,209,,Recurrent,,,,,,3243,4704,4003,4005
+2013,76,"Total, Recurrent",,,,,,,,,1188457,1375873,1324736,1431999
+2013,76,"Total, Operating Account",,,,,,,,,1188457,1375873,1324736,1431999
+2013,76,Total Expenditure,,,,,,,,,1188457,1375873,1324736,1431999
+2013,78,Operational expenses,000,,Recurrent,,,,,,100556,115177,113970,121505
+2013,78,"Total, Recurrent",,,,,,,,,100556,115177,113970,121505
+2013,78,"Total, Operating Account",,,,,,,,,100556,115177,113970,121505
+2013,78,Total Expenditure,,,,,,,,,100556,115177,113970,121505
+2013,79,Operational expenses,000,,Recurrent,,,,,,112055,113679,113679,116913
+2013,79,"Total, Recurrent",,,,,,,,,112055,113679,113679,116913
+2013,79,"Total, Operating Account",,,,,,,,,112055,113679,113679,116913
+2013,79,Total Expenditure,,,,,,,,,112055,113679,113679,116913
+2013,80,Operational expenses,000,,Recurrent,,,,,,1026342,1194899,1122611,1258578
+2013,80,Expenses of witnesses and jurors,206,,Recurrent,,,,,,7586,8800,7765,8612
+2013,80,"Total, Recurrent",,,,,,,,,1033928,1203699,1130376,1267190
+2013,80,General non-recurrent,700,,Non-Recurrent,,,,,,63,474,40,535
+2013,80,"Total, Non-Recurrent",,,,,,,,,63,474,40,535
+2013,80,"Total, Operating Account",,,,,,,,,1033991,1204173,1130416,1267725
+2013,80,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,,558,350,698
+2013,80,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,1300,4831,5831,3702
+2013,80,Law library acquisitions (block vote),661,,"Plant, Equipment and Works",,,,,,22400,,,
+2013,80,"Total, Plant, Equipment and Works",,,,,,,,,23700,5389,6181,4400
+2013,80,"Total, Capital Account",,,,,,,,,23700,5389,6181,4400
+2013,80,Total Expenditure,,,,,,,,,1057691,1209562,1136597,1272125
+2013,82,Operational expenses,000,,Recurrent,,,,,,841094,1002231,958519,1023363
+2013,82,Payment for Land Registry/Companies Registry Trading Fund services,227,,Recurrent,,,,,,30445,82225,70874,101572
+2013,82,"Total, Recurrent",,,,,,,,,871539,1084456,1029393,1124935
+2013,82,General non-recurrent,,,Non-Recurrent,,,,,,523,1244,1045,
+2013,82,"Total, Non-Recurrent",,,,,,,,,523,1244,1045,
+2013,82,"Total, Operating Account",,,,,,,,,872062,1085700,1030438,1124935
+2013,82,Total Expenditure,,,,,,,,,872062,1085700,1030438,1124935
+2013,90,Operational expenses,000,,Recurrent,,,,,,1089386,1300096,1180273,1486931
+2013,90,Contribution to the Occupational Safety and Health Council,280,,Recurrent,,,,,,4014,4246,5162,5420
+2013,90,Contribution to the Occupational Deafness Compensation Board,295,,Recurrent,,,,,,1405,1486,1807,1897
+2013,90,"Total, Recurrent",,,,,,,,,1094805,1305828,1187242,1494248
+2013,90,General non-recurrent,700,,Non-Recurrent,,,,,,175509,1624475,259783,546184
+2013,90,"Total, Non-Recurrent",,,,,,,,,175509,1624475,259783,546184
+2013,90,"Total, Operating Account",,,,,,,,,1270314,2930303,1447025,2040432
+2013,90,Total Expenditure,,,,,,,,,1270314,2930303,1447025,2040432
+2013,91,Operational expenses,000,,Recurrent,,,,,,1847060,1937684,2007952,2064597
+2013,91,Recoverable salaries and allowances (General),003,,Recurrent,,,,,28074,,,,
+2013,91,Clearance of government land - ex-gratia allowances,221,,Recurrent,,,,,,472,4354,211,4924
+2013,91,"Total, Recurrent",,,,,,,,,1847532,1942038,2008163,2069521
+2013,91,"Total, Operating Account",,,,,,,,,1847532,1942038,2008163,2069521
+2013,91,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,2151,1871,1480,2081
+2013,91,"Total, Plant, Equipment and Works",,,,,,,,,2151,1871,1480,2081
+2013,91,"Total, Capital Account",,,,,,,,,2151,1871,1480,2081
+2013,91,Total Expenditure,,,,,,,,,1849683,1943909,2009643,2071602
+2013,92,Operational expenses,000,,Recurrent,,,,,,933669,1026824,1066907,1178848
+2013,92,Recoverable salaries and allowances (General),003,,Recurrent,,,,,600,,,,
+2013,92,Court costs,234,,Recurrent,,,,,,186050,222825,209887,222000
+2013,92,"Total, Recurrent",,,,,,,,,1119719,1249649,1276794,1400848
+2013,92,General non-recurrent,700,,Non-Recurrent,,,,,,143,870,552,870
+2013,92,"Total, Non-Recurrent",,,,,,,,,143,870,552,870
+2013,92,"Total, Operating Account",,,,,,,,,1119862,1250519,1277346,1401718
+2013,92,Total Expenditure,,,,,,,,,1119862,1250519,1277346,1401718
+2013,94,Operational expenses,000,,Recurrent,,,,,,241545,255734,261667,271205
+2013,94,Legal aid costs,208,,Recurrent,,,,,,463161,538789,508550,570958
+2013,94,"Total, Recurrent",,,,,,,,,704706,794523,770217,842163
+2013,94,General non-recurrent,,,Non-Recurrent,,,,,,,,100000,
+2013,94,"Total, Non-Recurrent",,,,,,,,,,,100000,
+2013,94,"Total, Operating Account",,,,,,,,,704706,794523,870217,842163
+2013,94,Total Expenditure,,,,,,,,,704706,794523,870217,842163
+2013,95,Operational expenses,000,,Recurrent,,,,,,5711253,6022867,6121531,6423250
+2013,95,"Total, Recurrent",,,,,,,,,5711253,6022867,6121531,6423250
+2013,95,General non-recurrent,700,,Non-Recurrent,,,,,,42,100,5560,12224
+2013,95,"Total, Non-Recurrent",,,,,,,,,42,100,5560,12224
+2013,95,"Total, Operating Account",,,,,,,,,5711295,6022967,6127091,6435474
+2013,95,Works,600,,"Plant, Equipment and Works",,,,,,8691,15082,12756,14453
+2013,95,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,27179,21221,11280,11321
+2013,95,Restoration of historic buildings (block vote),653,,"Plant, Equipment and Works",,,,,,9130,10107,10107,13103
+2013,95,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,65363,73530,73530,60747
+2013,95,Archaeological excavations (block vote),694,,"Plant, Equipment and Works",,,,,,882,945,945,750
+2013,95,"Total, Plant, Equipment and Works",,,,,,,,,111245,120885,108618,100374
+2013,95,Non-government organisation camps (block vote),863,,Subventions,,,,,,2875,2930,2500,2168
+2013,95,"Total, Subventions",,,,,,,,,2875,2930,2500,2168
+2013,95,"Total, Capital Account",,,,,,,,,114120,123815,111118,102542
+2013,95,Total Expenditure,,,,,,,,,5825415,6146782,6238209,6538016
+2013,96,Operational expenses,000,,Recurrent,,,,,,299991,303129,306019,324678
+2013,96,"Total, Recurrent",,,,,,,,,299991,303129,306019,324678
+2013,96,General non-recurrent,,,Non-Recurrent,,,,,,1341,,,
+2013,96,"Total, Non-Recurrent",,,,,,,,,1341,,,
+2013,96,"Total, Operating Account",,,,,,,,,301332,303129,306019,324678
+2013,96,"Minor plant, vehicles and equipment (block vote)",,,"Plant, Equipment and Works",,,,,,780,417,378,
+2013,96,"Total, Plant, Equipment and Works",,,,,,,,,780,417,378,
+2013,96,"Total, Capital Account",,,,,,,,,780,417,378,
+2013,96,Total Expenditure,,,,,,,,,302112,303546,306397,324678
+2013,100,Operational expenses,000,,Recurrent,,,,,,942745,972433,986104,997333
+2013,100,"Total, Recurrent",,,,,,,,,942745,972433,986104,997333
+2013,100,General non-recurrent,700,,Non-Recurrent,,,,,,2109,3460,3100,3100
+2013,100,"Total, Non-Recurrent",,,,,,,,,2109,3460,3100,3100
+2013,100,"Total, Operating Account",,,,,,,,,944854,975893,989204,1000433
+2013,100,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,,8354,,12439
+2013,100,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,29655,29744,29744,32178
+2013,100,"Total, Plant, Equipment and Works",,,,,,,,,29655,38098,29744,44617
+2013,100,"Total, Capital Account",,,,,,,,,29655,38098,29744,44617
+2013,100,Total Expenditure,,,,,,,,,974509,1013991,1018948,1045050
+2013,106,Additional commitments,251,,Recurrent,,,,,,,1199000,,794000
+2013,106,Compensation,284,,Recurrent,,,,,,69442,1459000,945100,1865500
+2013,106,"Total, Recurrent",,,,,,,,,69442,2658000,945100,2659500
+2013,106,Additional commitments,789,,Non-Recurrent,,,,,,,31739000,,54473000
+2013,106,Contribution to the eighth replenishment of the Asian Development Fund,821,,Non-Recurrent,,,,,,19378,13460,13460,7745
+2013,106,Contribution to the ninth replenishment of the Asian Development Fund,822,,Non-Recurrent,,,,,,26705,32047,32047,32252
+2013,106,"Total, Non-Recurrent",,,,,,,,,46083,31784507,45507,54512997
+2013,106,"Total, Operating Account",,,,,,,,,115525,34442507,990607,57172497
+2013,106,Additional commitments,689,,"Plant, Equipment and Works",,,,,,,100000,,100000
+2013,106,"Total, Plant, Equipment and Works",,,,,,,,,,100000,,100000
+2013,106,"Total, Capital Account",,,,,,,,,,100000,,100000
+2013,106,Total Expenditure,,,,,,,,,115525,34542507,990607,57272497
+2013,112,Operational expenses,000,,Recurrent,,,,,,355503,396420,412880,443781
+2013,112,Remuneration and reimbursements for Members of the Legislative Council,366,,Recurrent,,,,,,160015,179807,208988,208375
+2013,112,"Total, Recurrent",,,,,,,,,515518,576227,621868,652156
+2013,112,General non-recurrent,700,,Non-Recurrent,,,,,,1581,1307,1010,427
+2013,112,"Total, Non-Recurrent",,,,,,,,,1581,1307,1010,427
+2013,112,"Total, Operating Account",,,,,,,,,517099,577534,622878,652583
+2013,112,Non-recurrent expenses reimbursements for Members of the Legislative Council,872,,Subventions,,,,,,1400,1600,11240,4025
+2013,112,Legislative Council Commission,885,,Subventions,,,,,,50428,6651,16248,7776
+2013,112,"Total, Subventions",,,,,,,,,51828,8251,27488,11801
+2013,112,"Total, Capital Account",,,,,,,,,51828,8251,27488,11801
+2013,112,Total Expenditure,,,,,,,,,568927,585785,650366,664384
+2013,114,Operational expenses,000,,Recurrent,,,,,,94089,94555,98985,99465
+2013,114,"Total, Recurrent",,,,,,,,,94089,94555,98985,99465
+2013,114,General non-recurrent,700,,Non-Recurrent,,,,,,75,100,100,75
+2013,114,"Total, Non-Recurrent",,,,,,,,,75,100,100,75
+2013,114,"Total, Operating Account",,,,,,,,,94164,94655,99085,99540
+2013,114,Total Expenditure,,,,,,,,,94164,94655,99085,99540
+2013,116,Operational expenses,000,,Recurrent,,,,,,126029,148081,141030,155059
+2013,116,"Total, Recurrent",,,,,,,,,126029,148081,141030,155059
+2013,116,General non-recurrent,700,,Non-Recurrent,,,,,,53,100,60,100
+2013,116,"Total, Non-Recurrent",,,,,,,,,53,100,60,100
+2013,116,"Total, Operating Account",,,,,,,,,126082,148181,141090,155159
+2013,116,Total Expenditure,,,,,,,,,126082,148181,141090,155159
+2013,118,Operational expenses,000,,Recurrent,,,,,,486959,522749,534781,563117
+2013,118,"Total, Recurrent",,,,,,,,,486959,522749,534781,563117
+2013,118,General non-recurrent,700,,Non-Recurrent,,,,,,3795,5754,5667,11280
+2013,118,"Total, Non-Recurrent",,,,,,,,,3795,5754,5667,11280
+2013,118,"Total, Operating Account",,,,,,,,,490754,528503,540448,574397
+2013,118,Total Expenditure,,,,,,,,,490754,528503,540448,574397
+2013,120,Public and judicial service pension benefits and compensation,015,,Recurrent,,,,,,18934736,22150400,21124200,24568700
+2013,120,Contract gratuities,016,,Recurrent,,,,,,314755,406000,395000,367200
+2013,120,Surviving spouses’ and children’s pensions and widows’ and orphans’ pensions,017,,Recurrent,,,,,,424612,462300,462300,499050
+2013,120,"Volunteer and defence force pensions, allowances and grants",018,,Recurrent,,,,,,27457,29000,27000,27000
+2013,120,"Ex-gratia pensions, awards and allowances",021,,Recurrent,,,,,,104,110,160,150
+2013,120,"Employees’ compensation, injury, incapacity and death related payments and expenses",026,,Recurrent,,,,,,35685,45500,44000,47400
+2013,120,"Total, Recurrent",,,,,,,,,19737349,23093310,22052660,25509500
+2013,120,"Total, Operating Account",,,,,,,,,19737349,23093310,22052660,25509500
+2013,120,Total Expenditure,,,,,,,,,19737349,23093310,22052660,25509500
+2013,121,Operational expenses,000,,Recurrent,,,,,,35107,37414,46180,47977
+2013,121,"Total, Recurrent",,,,,,,,,35107,37414,46180,47977
+2013,121,"Total, Operating Account",,,,,,,,,35107,37414,46180,47977
+2013,121,"Independent Police Complaints Council - minor plant, vehicles and equipment (block vote)",852,,Subventions,,,,,,982,505,505,1856
+2013,121,"Total, Subventions",,,,,,,,,982,505,505,1856
+2013,121,"Total, Capital Account",,,,,,,,,982,505,505,1856
+2013,121,Total Expenditure,,,,,,,,,36089,37919,46685,49833
+2013,122,Operational expenses,000,,Recurrent,,,,,,13491544,13691890,14121200,14427157
+2013,122,Rewards and special services,103,,Recurrent,,,,,,81771,80000,78000,80000
+2013,122,"Expenses of witnesses, prisoners and deportees",207,,Recurrent,,,,,,2990,5000,4650,5000
+2013,122,"Total, Recurrent",,,,,,,,,13576305,13776890,14203850,14512157
+2013,122,"Total, Operating Account",,,,,,,,,13576305,13776890,14203850,14512157
+2013,122,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,10817,93192,24309,92409
+2013,122,"Alterations, additions and improvements to in-service Marine Police craft (block vote)",614,,"Plant, Equipment and Works",,,,,,1137,1187,1187,996
+2013,122,Repairs and improvements to land boundary fences,624,,"Plant, Equipment and Works",,,,,,,3520,,3520
+2013,122,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,64328,66049,66049,84799
+2013,122,Police specialised vehicles (block vote),695,,"Plant, Equipment and Works",,,,,,98276,118371,118371,82573
+2013,122,"Total, Plant, Equipment and Works",,,,,,,,,174558,282319,209916,264297
+2013,122,"Total, Capital Account",,,,,,,,,174558,282319,209916,264297
+2013,122,Total Expenditure,,,,,,,,,13750863,14059209,14413766,14776454
+2013,136,Operational expenses,000,,Recurrent,,,,,,18932,18114,18319,20059
+2013,136,"Total, Recurrent",,,,,,,,,18932,18114,18319,20059
+2013,136,"Total, Operating Account",,,,,,,,,18932,18114,18319,20059
+2013,136,Total Expenditure,,,,,,,,,18932,18114,18319,20059
+2013,137,Operational expenses,000,,Recurrent,,,,,,61418,62171,57503,67755
+2013,137,"Total, Recurrent",,,,,,,,,61418,62171,57503,67755
+2013,137,General non-recurrent,700,,Non-Recurrent,,,,,,3874,5000,5500,5000
+2013,137,"Total, Non-Recurrent",,,,,,,,,3874,5000,5500,5000
+2013,137,"Total, Operating Account",,,,,,,,,65292,67171,63003,72755
+2013,137,Total Expenditure,,,,,,,,,65292,67171,63003,72755
+2013,138,Operational expenses,000,,Recurrent,,,,,,135112,144664,144255,164405
+2013,138,"Total, Recurrent",,,,,,,,,135112,144664,144255,164405
+2013,138,General non-recurrent,700,,Non-Recurrent,,,,,,554489,656000,486210,599240
+2013,138,"Total, Non-Recurrent",,,,,,,,,554489,656000,486210,599240
+2013,138,"Total, Operating Account",,,,,,,,,689601,800664,630465,763645
+2013,138,Total Expenditure,,,,,,,,,689601,800664,630465,763645
+2013,139,Operational expenses,000,,Recurrent,,,,,,58852,78531,59803,80496
+2013,139,"Total, Recurrent",,,,,,,,,58852,78531,59803,80496
+2013,139,"Total, Operating Account",,,,,,,,,58852,78531,59803,80496
+2013,139,Total Expenditure,,,,,,,,,58852,78531,59803,80496
+2013,140,Operational expenses,000,,Recurrent,,,,,,38159266,40823599,42386628,44779654
+2013,140,"Total, Recurrent",,,,,,,,,38159266,40823599,42386628,44779654
+2013,140,General non-recurrent,700,,Non-Recurrent,,,,,,54353,100000,10059000,120000
+2013,140,"Total, Non-Recurrent",,,,,,,,,54353,100000,10059000,120000
+2013,140,"Total, Operating Account",,,,,,,,,38213619,40923599,52445628,44899654
+2013,140,Prince Philip Dental Hospital,,,Subventions,,,,,,33141,7220,7220,10150
+2013,140,"Prince Philip Dental Hospital - minor plant, vehicles, equipment, maintenance, and improvement (block vote)",899,,Subventions,,,,,,2992,7865,7865,6685
+2013,140,Hospital Authority - equipment and information systems (block vote),979,,Subventions,,,,,,714400,762780,752880,652450
+2013,140,Hospital Authority - information technology system for health care vouchers,979,,Subventions,,,,,,4994,4416,4416,
+2013,140,"Total, Subventions",,,,,,,,,755527,782281,772381,669285
+2013,140,"Total, Capital Account",,,,,,,,,755527,782281,772381,669285
+2013,140,Total Expenditure,,,,,,,,,38969146,41705880,53218009,45568939
+2013,141,Operational expenses,000,,Recurrent,,,,,,520229,631520,601015,664404
+2013,141,"Total, Recurrent",,,,,,,,,520229,631520,601015,664404
+2013,141,General non-recurrent,700,,Non-Recurrent,,,,,,24088,41802,24970,47847
+2013,141,"Total, Non-Recurrent",,,,,,,,,24088,41802,24970,47847
+2013,141,"Total, Operating Account",,,,,,,,,544317,673322,625985,712251
+2013,141,Skills centres (block vote),864,,Subventions,,,,,,10680,6556,6556,5534
+2013,141,"Total, Subventions",,,,,,,,,10680,6556,6556,5534
+2013,141,"Total, Capital Account",,,,,,,,,10680,6556,6556,5534
+2013,141,Total Expenditure,,,,,,,,,554997,679878,632541,717785
+2013,142,Operational expenses,000,,Recurrent,,,,,,592044,693193,695687,738253
+2013,142,"Total, Recurrent",,,,,,,,,592044,693193,695687,738253
+2013,142,General non-recurrent,700,,Non-Recurrent,,,,,,275,850,2300,1429
+2013,142,"Total, Non-Recurrent",,,,,,,,,275,850,2300,1429
+2013,142,"Total, Operating Account",,,,,,,,,592319,694043,697987,739682
+2013,142,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,2088,746,746,158
+2013,142,"Total, Plant, Equipment and Works",,,,,,,,,2088,746,746,158
+2013,142,"Total, Capital Account",,,,,,,,,2088,746,746,158
+2013,142,Total Expenditure,,,,,,,,,594407,694789,698733,739840
+2013,143,Operational expenses,000,,Recurrent,,,,,,440218,459454,466894,499053
+2013,143,"Total, Recurrent",,,,,,,,,440218,459454,466894,499053
+2013,143,General non-recurrent,700,,Non-Recurrent,,,,,,126,120,120,120
+2013,143,"Total, Non-Recurrent",,,,,,,,,126,120,120,120
+2013,143,"Total, Operating Account",,,,,,,,,440344,459574,467014,499173
+2013,143,Total Expenditure,,,,,,,,,440344,459574,467014,499173
+2013,144,Operational expenses,000,,Recurrent,,,,,,386471,457332,450783,497186
+2013,144,Recoverable salaries and allowances (General),003,,Recurrent,,,,,2510,,,,
+2013,144,"Total, Recurrent",,,,,,,,,386471,457332,450783,497186
+2013,144,General non-recurrent,700,,Non-Recurrent,,,,,,733,2300,3000,2900
+2013,144,"Total, Non-Recurrent",,,,,,,,,733,2300,3000,2900
+2013,144,"Total, Operating Account",,,,,,,,,387204,459632,453783,500086
+2013,144,Office of the Privacy Commissioner for Personal Data,,,Subventions,,,,,,230,,472,
+2013,144,"Total, Subventions",,,,,,,,,230,,472,
+2013,144,"Total, Capital Account",,,,,,,,,230,,472,
+2013,144,Total Expenditure,,,,,,,,,387434,459632,454255,500086
+2013,147,Operational expenses,000,,Recurrent,,,,,,147000,154550,150495,154928
+2013,147,Air passenger departure tax administration fees,281,,Recurrent,,,,,,46779,47940,48830,49820
+2013,147,"Total, Recurrent",,,,,,,,,193779,202490,199325,204748
+2013,147,General non-recurrent,700,,Non-Recurrent,,,,,,29954042,13038400,14044700,1608102
+2013,147,"Total, Non-Recurrent",,,,,,,,,29954042,13038400,14044700,1608102
+2013,147,"Total, Operating Account",,,,,,,,,30147821,13240890,14244025,1812850
+2013,147,Total Expenditure,,,,,,,,,30147821,13240890,14244025,1812850
+2013,148,Operational expenses,000,,Recurrent,,,,,,175210,189846,189846,210835
+2013,148,Recoverable salaries and allowances (General),003,,Recurrent,,,,,3631,,,,
+2013,148,"Total, Recurrent",,,,,,,,,175210,189846,189846,210835
+2013,148,General non-recurrent,700,,Non-Recurrent,,,,,,15131,28290,28102,28338
+2013,148,"Total, Non-Recurrent",,,,,,,,,15131,28290,28102,28338
+2013,148,"Total, Operating Account",,,,,,,,,190341,218136,217948,239173
+2013,148,Total Expenditure,,,,,,,,,190341,218136,217948,239173
+2013,151,Operational expenses,000,,Recurrent,,,,,,233543,310451,261320,313589
+2013,151,"Total, Recurrent",,,,,,,,,233543,310451,261320,313589
+2013,151,"Total, Operating Account",,,,,,,,,233543,310451,261320,313589
+2013,151,Total Expenditure,,,,,,,,,233543,310451,261320,313589
+2013,152,Operational expenses,000,,Recurrent,,,,,,1245379,1364508,1300784,1505328
+2013,152,"Total, Recurrent",,,,,,,,,1245379,1364508,1300784,1505328
+2013,152,General non-recurrent,700,,Non-Recurrent,,,,,,24069,15975,37828,34147
+2013,152,"Total, Non-Recurrent",,,,,,,,,24069,15975,37828,34147
+2013,152,"Total, Operating Account",,,,,,,,,1269448,1380483,1338612,1539475
+2013,152,Total Expenditure,,,,,,,,,1269448,1380483,1338612,1539475
+2013,155,Operational expenses,000,,Recurrent,,,,,,482402,495017,500862,517904
+2013,155,"Total, Recurrent",,,,,,,,,482402,495017,500862,517904
+2013,155,General non-recurrent,700,,Non-Recurrent,,,,,,11660,8200,27000,33000
+2013,155,"Total, Non-Recurrent",,,,,,,,,11660,8200,27000,33000
+2013,155,"Total, Operating Account",,,,,,,,,494062,503217,527862,550904
+2013,155,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,924,2280,190,2586
+2013,155,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,2857,9970,9970,5738
+2013,155,"Total, Plant, Equipment and Works",,,,,,,,,3781,12250,10160,8324
+2013,155,Hong Kong Productivity Council,,,Subventions,,,,,,4817,,,
+2013,155,"Total, Subventions",,,,,,,,,4817,,,
+2013,155,"Total, Capital Account",,,,,,,,,8598,12250,10160,8324
+2013,155,Total Expenditure,,,,,,,,,502660,515467,538022,559228
+2013,156,Operational expenses,000,,Recurrent,,,,,,39986247,42061085,42657798,43456723
+2013,156,Recoverable salaries and allowances (General),003,,Recurrent,,,,,12210,,,,
+2013,156,"Total, Recurrent",,,,,,,,,39986247,42061085,42657798,43456723
+2013,156,General non-recurrent,700,,Non-Recurrent,,,,,,3968524,392840,7393179,379158
+2013,156,"Total, Non-Recurrent",,,,,,,,,3968524,392840,7393179,379158
+2013,156,"Total, Operating Account",,,,,,,,,43954771,42453925,50050977,43835881
+2013,156,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,1095,6109,6109,3229
+2013,156,"Total, Plant, Equipment and Works",,,,,,,,,1095,6109,6109,3229
+2013,156,Vocational Training Council,871,,Subventions,,,,,,7498,5381,5032,4576
+2013,156,Codes of Aid for existing schools,873,,Subventions,,,,,,4711,1185,2806,541
+2013,156,Codes of Aid for existing schools - furniture and equipment (block vote),898,,Subventions,,,,,,1016,3268,2238,2071
+2013,156,"Codes of Aid for existing schools - maintenance, repairs and minor improvement (block vote)",900,,Subventions,,,,,,591920,645334,612619,582319
+2013,156,Hong Kong Examinations and Assessment Authority,950,,Subventions,,,,,,58641,45722,34345,22071
+2013,156,Vocational Training Council (block vote),976,,Subventions,,,,,,32538,32603,32603,27731
+2013,156,Hong Kong Council for Accreditation of Academic and Vocational Qualifications,976,,Subventions,,,,,,10000,,,
+2013,156,"Total, Subventions",,,,,,,,,706324,733493,689643,639309
+2013,156,"Total, Capital Account",,,,,,,,,707419,739602,695752,642538
+2013,156,Total Expenditure,,,,,,,,,44662190,43193527,50746729,44478419
+2013,158,Operational expenses,000,,Recurrent,,,,,,129351,142883,146190,167926
+2013,158,"Total, Recurrent",,,,,,,,,129351,142883,146190,167926
+2013,158,General non-recurrent,700,,Non-Recurrent,,,,,,5056,2903,2627,1253
+2013,158,"Total, Non-Recurrent",,,,,,,,,5056,2903,2627,1253
+2013,158,"Total, Operating Account",,,,,,,,,134407,145786,148817,169179
+2013,158,Total Expenditure,,,,,,,,,134407,145786,148817,169179
+2013,159,Operational expenses,000,,Recurrent,,,,,,271067,311068,306959,356860
+2013,159,Recoverable salaries and allowances (General),003,,Recurrent,,,,,2215,,,,
+2013,159,"Total, Recurrent",,,,,,,,,271067,311068,306959,356860
+2013,159,General non-recurrent,700,,Non-Recurrent,,,,,,30486,39443,51708,115869
+2013,159,"Total, Non-Recurrent",,,,,,,,,30486,39443,51708,115869
+2013,159,"Total, Operating Account",,,,,,,,,301553,350511,358667,472729
+2013,159,Total Expenditure,,,,,,,,,301553,350511,358667,472729
+2013,160,Operational expenses,000,,Recurrent,,,,,,503877,572832,576218,694083
+2013,160,"Total, Recurrent",,,,,,,,,503877,572832,576218,694083
+2013,160,General non-recurrent,700,,Non-Recurrent,,,,,,,,,12000
+2013,160,"Total, Non-Recurrent",,,,,,,,,,,,12000
+2013,160,"Total, Operating Account",,,,,,,,,503877,572832,576218,706083
+2013,160,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,19808,39048,37074,43462
+2013,160,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,16219,6140,7080,4743
+2013,160,"Total, Plant, Equipment and Works",,,,,,,,,36027,45188,44154,48205
+2013,160,"Total, Capital Account",,,,,,,,,36027,45188,44154,48205
+2013,160,Total Expenditure,,,,,,,,,539904,618020,620372,754288
+2013,162,Operational expenses,000,,Recurrent,,,,,,404873,444019,442479,484270
+2013,162,"Total, Recurrent",,,,,,,,,404873,444019,442479,484270
+2013,162,"Total, Operating Account",,,,,,,,,404873,444019,442479,484270
+2013,162,"Minor plant, vehicles and equipment (block vote)",,,"Plant, Equipment and Works",,,,,,160,,,
+2013,162,"Total, Plant, Equipment and Works",,,,,,,,,160,,,
+2013,162,"Total, Capital Account",,,,,,,,,160,,,
+2013,162,Total Expenditure,,,,,,,,,405033,444019,442479,484270
+2013,163,Operational expenses,000,,Recurrent,,,,,,352839,605648,546849,94315
+2013,163,"Total, Recurrent",,,,,,,,,352839,605648,546849,94315
+2013,163,"Total, Operating Account",,,,,,,,,352839,605648,546849,94315
+2013,163,Total Expenditure,,,,,,,,,352839,605648,546849,94315
+2013,166,Operational expenses,000,,Recurrent,,,,,,190249,213302,200402,232987
+2013,166,Insurance of aircraft,200,,Recurrent,,,,,,690,750,700,700
+2013,166,"Total, Recurrent",,,,,,,,,190939,214052,201102,233687
+2013,166,"Total, Operating Account",,,,,,,,,190939,214052,201102,233687
+2013,166,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,261976,349467,317810,204024
+2013,166,"Aircraft components, component overhaul and safety equipment (block vote)",631,,"Plant, Equipment and Works",,,,,,77279,122990,114990,78124
+2013,166,"Minor plant, vehicles and equipment (block vote)",631,,"Plant, Equipment and Works",,,,,,,,485,
+2013,166,"Total, Plant, Equipment and Works",,,,,,,,,339255,472457,433285,282148
+2013,166,"Total, Capital Account",,,,,,,,,339255,472457,433285,282148
+2013,166,Total Expenditure,,,,,,,,,530194,686509,634387,515835
+2013,168,Operational expenses,000,,Recurrent,,,,,,225606,233778,240213,247367
+2013,168,"Total, Recurrent",,,,,,,,,225606,233778,240213,247367
+2013,168,"Total, Operating Account",,,,,,,,,225606,233778,240213,247367
+2013,168,"Minor plant, vehicles and equipment (block vote)",,,"Plant, Equipment and Works",,,,,,,4972,4972,
+2013,168,"Total, Plant, Equipment and Works",,,,,,,,,,4972,4972,
+2013,168,"Total, Capital Account",,,,,,,,,,4972,4972,
+2013,168,Total Expenditure,,,,,,,,,225606,238750,245185,247367
+2013,169,Operational expenses,000,,Recurrent,,,,,,16096,16967,16757,18014
+2013,169,"Total, Recurrent",,,,,,,,,16096,16967,16757,18014
+2013,169,"Total, Operating Account",,,,,,,,,16096,16967,16757,18014
+2013,169,Total Expenditure,,,,,,,,,16096,16967,16757,18014
+2013,170,Operational expenses,000,,Recurrent,,,,,,12683257,13930958,13931849,15231880
+2013,170,Recoverable salaries and allowances (General),003,,Recurrent,,,,,4890,,,,
+2013,170,Assistance for patients and their families,157,,Recurrent,,,,,,88,141,141,141
+2013,170,Criminal and law enforcement injuries compensation,176,,Recurrent,,,,,,5320,6460,6210,6210
+2013,170,Emergency relief,177,,Recurrent,,,,,,524,1000,1000,1000
+2013,170,Comprehensive social security assistance scheme,179,,Recurrent,,,,,,18470677,19326000,18532000,20374000
+2013,170,Social security allowance scheme,180,,Recurrent,,,,,,9025929,10026000,9784000,18949000
+2013,170,Traffic accident victims assistance scheme,184,,Recurrent,,,,,,31000,32459,32459,37200
+2013,170,Agents’ commission and expenses,187,,Recurrent,,,,,,4194,5078,4782,5104
+2013,170,"Total, Recurrent",,,,,,,,,40220989,43328096,42292441,54604535
+2013,170,General non-recurrent,700,,Non-Recurrent,,,,,,1968146,151119,2108880,117416
+2013,170,"Total, Non-Recurrent",,,,,,,,,1968146,151119,2108880,117416
+2013,170,"Total, Operating Account",,,,,,,,,42189135,43479215,44401321,54721951
+2013,170,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,,,,884
+2013,170,"Total, Plant, Equipment and Works",,,,,,,,,,,,884
+2013,170,"Total, Capital Account",,,,,,,,,,,,884
+2013,170,Total Expenditure,,,,,,,,,42189135,43479215,44401321,54722835
+2013,173,Operational expenses,000,,Recurrent,,,,,,247335,297568,290568,338653
+2013,173,Student financial assistance,228,,Recurrent,,,,,,3569099,4065661,4072003,4402877
+2013,173,"Total, Recurrent",,,,,,,,,3816434,4363229,4362571,4741530
+2013,173,General non-recurrent,700,,Non-Recurrent,,,,,,268973,379722,235651,274764
+2013,173,"Total, Non-Recurrent",,,,,,,,,268973,379722,235651,274764
+2013,173,"Total, Operating Account",,,,,,,,,4085407,4742951,4598222,5016294
+2013,173,Total Expenditure,,,,,,,,,4085407,4742951,4598222,5016294
+2013,174,Operational expenses,000,,Recurrent,,,,,,20409,30214,27537,30070
+2013,174,"Total, Recurrent",,,,,,,,,20409,30214,27537,30070
+2013,174,"Total, Operating Account",,,,,,,,,20409,30214,27537,30070
+2013,174,Total Expenditure,,,,,,,,,20409,30214,27537,30070
+2013,180,Operational expenses,000,,Recurrent,,,,,,78812,41117,41978,43627
+2013,180,"Total, Recurrent",,,,,,,,,78812,41117,41978,43627
+2013,180,General non-recurrent,,,Non-Recurrent,,,,,,114,,,
+2013,180,"Total, Non-Recurrent",,,,,,,,,114,,,
+2013,180,"Total, Operating Account",,,,,,,,,78926,41117,41978,43627
+2013,180,Total Expenditure,,,,,,,,,78926,41117,41978,43627
+2013,181,Operational expenses,000,,Recurrent,,,,,,279025,292588,295988,307636
+2013,181,"Total, Recurrent",,,,,,,,,279025,292588,295988,307636
+2013,181,General non-recurrent,700,,Non-Recurrent,,,,,,367096,359200,433076,462452
+2013,181,"Total, Non-Recurrent",,,,,,,,,367096,359200,433076,462452
+2013,181,"Total, Operating Account",,,,,,,,,646121,651788,729064,770088
+2013,181,"Minor plant, vehicles and equipment (block vote)",,,"Plant, Equipment and Works",,,,,,1671,,,
+2013,181,"Total, Plant, Equipment and Works",,,,,,,,,1671,,,
+2013,181,"Total, Capital Account",,,,,,,,,1671,,,
+2013,181,Total Expenditure,,,,,,,,,647792,651788,729064,770088
+2013,184,Payment to the Loan Fund,988,,Capital Account,,,,,,,1000000,,700000
+2013,184,Payment to the Disaster Relief Fund,990,,Capital Account,,,,,,,42000,52000,43000
+2013,184,"Total, Transfers to Funds",,,,,,,,,,1042000,52000,743000
+2013,184,"Total, Capital Account",,,,,,,,,,1042000,52000,743000
+2013,184,Total Expenditure,,,,,,,,,,1042000,52000,743000
+2013,186,Operational expenses,000,,Recurrent,,,,,,1181018,1257417,1254163,1359869
+2013,186,Public Transport Fare Concession Scheme for the Elderly and Eligible Persons with Disabilities,166,,Recurrent,,,,,,,,227918,596991
+2013,186,"Total, Recurrent",,,,,,,,,1181018,1257417,1482081,1956860
+2013,186,General non-recurrent,700,,Non-Recurrent,,,,,,9700,40052,49776,45535
+2013,186,"Total, Non-Recurrent",,,,,,,,,9700,40052,49776,45535
+2013,186,"Total, Operating Account",,,,,,,,,1190718,1297469,1531857,2002395
+2013,186,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,56351,17412,9956,16507
+2013,186,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,4931,9547,9547,11105
+2013,186,"Total, Plant, Equipment and Works",,,,,,,,,61282,26959,19503,27612
+2013,186,Hong Kong Society for Rehabilitation - rehabuses (block vote),927,,Subventions,,,,,,18022,9414,9000,5865
+2013,186,Hong Kong Society for Rehabilitation,927,,Subventions,,,,,,431,500,500,
+2013,186,"Total, Subventions",,,,,,,,,18453,9914,9500,5865
+2013,186,"Total, Capital Account",,,,,,,,,79735,36873,29003,33477
+2013,186,Total Expenditure,,,,,,,,,1270453,1334342,1560860,2035872
+2013,188,Operational expenses,000,,Recurrent,,,,,,324049,345943,339657,359825
+2013,188,Recoverable salaries and allowances (General),003,,Recurrent,,,,,5020,,,,
+2013,188,Agents’ commission and expenses,187,,Recurrent,,,,,,3362,3751,3600,3635
+2013,188,"Total, Recurrent",,,,,,,,,327411,349694,343257,363460
+2013,188,"Total, Operating Account",,,,,,,,,327411,349694,343257,363460
+2013,188,Total Expenditure,,,,,,,,,327411,349694,343257,363460
+2013,190,Operational expenses,000,,Recurrent,,,,,,11707549,13304129,13651629,14735579
+2013,190,"Total, Recurrent",,,,,,,,,11707549,13304129,13651629,14735579
+2013,190,General non-recurrent,700,,Non-Recurrent,,,,,,,,2200000,280000
+2013,190,"Total, Non-Recurrent",,,,,,,,,,,2200000,280000
+2013,190,"Total, Operating Account",,,,,,,,,11707549,13304129,15851629,15015579
+2013,190,Total Expenditure,,,,,,,,,11707549,13304129,15851629,15015579
+2013,194,Operational expenses,000,,Recurrent,,,,,,2864459,2899926,2979449,3019516
+2013,194,Purchase of water,223,,Recurrent,,,,,,3379400,3575900,3575900,3782580
+2013,194,"Total, Recurrent",,,,,,,,,6243859,6475826,6555349,6802096
+2013,194,"Total, Operating Account",,,,,,,,,6243859,6475826,6555349,6802096
+2013,194,"Plant, vehicles and equipment",603,,"Plant, Equipment and Works",,,,,,,2450,2450,5100
+2013,194,"Minor plant, vehicles and equipment (block vote)",661,,"Plant, Equipment and Works",,,,,,5049,8750,8750,3018
+2013,194,"Total, Plant, Equipment and Works",,,,,,,,,5049,11200,11200,8118
+2013,194,"Total, Capital Account",,,,,,,,,5049,11200,11200,8118
+2013,194,Total Expenditure,,,,,,,,,6248908,6487026,6566549,6810214
